@@ -2,9 +2,9 @@
 // https://leetcode.com/problems/evaluate-reverse-polish-notation/
 // Difficulty: Medium
 // Language:   Java
-// Submitted:  2026-09-22 19:16:53
-// Runtime:    6 ms (beats 87.87%)
-// Memory:     45.5 MB (beats 15.37%)
+// Submitted:  2026-09-22 19:41:05
+// Runtime:    7 ms (beats 37.72%)
+// Memory:     45.3 MB (beats 45.72%)
 // Topics:     Array, Math, Stack
 
 class Solution {
