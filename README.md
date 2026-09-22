@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-> Auto-synced from LeetCode by the LeetHub Sync browser extension. Last updated 2026-09-22 19:17:02.
+> Auto-synced from LeetCode by the LeetHub Sync browser extension. Last updated 2026-09-22 19:41:13.
 
 **Solved:** 193 · 🟢 Easy 93 · 🟡 Medium 92 · 🔴 Hard 8
 
@@ -88,7 +88,7 @@
 | 143 | [Reorder List](143-reorder-list) | 🟡 Medium | Java | 2 | 2026-09-22 |
 | 144 | [Binary Tree Preorder Traversal](144-binary-tree-preorder-traversal) | 🟢 Easy | Java | 2 | 2026-09-22 |
 | 145 | [Binary Tree Postorder Traversal](145-binary-tree-postorder-traversal) | 🟢 Easy | Java | 2 | 2026-09-22 |
-| 150 | [Evaluate Reverse Polish Notation](150-evaluate-reverse-polish-notation) | 🟡 Medium | C++, Java | 3 | 2026-09-22 |
+| 150 | [Evaluate Reverse Polish Notation](150-evaluate-reverse-polish-notation) | 🟡 Medium | C++, Java | 4 | 2026-09-22 |
 | 151 | [Reverse Words in a String](151-reverse-words-in-a-string) | 🟡 Medium | Java | 2 | 2026-09-22 |
 | 153 | [Find Minimum in Rotated Sorted Array](153-find-minimum-in-rotated-sorted-array) | 🟡 Medium | Python | 2 | 2026-09-22 |
 | 160 | [Intersection of Two Linked Lists](160-intersection-of-two-linked-lists) | 🟢 Easy | Java | 2 | 2026-09-22 |
