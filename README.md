@@ -1,8 +1,8 @@
 # LeetCode Solutions
 
-> Auto-synced from LeetCode by the LeetHub Sync browser extension. Last updated 2026-09-22 19:41:13.
+> Auto-synced from LeetCode by the LeetHub Sync browser extension. Last updated 2026-09-22 20:21:18.
 
-**Solved:** 193 · 🟢 Easy 93 · 🟡 Medium 92 · 🔴 Hard 8
+**Solved:** 194 · 🟢 Easy 93 · 🟡 Medium 93 · 🔴 Hard 8
 
 | # | Problem | Difficulty | Language(s) | Submissions | Last solved |
 | --- | --- | --- | --- | --- | --- |
@@ -46,6 +46,7 @@
 | 62 | [Unique Paths](62-unique-paths) | 🟡 Medium | Java | 3 | 2026-09-22 |
 | 69 | [Sqrt(x)](69-sqrtx) | 🟢 Easy | C++ | 2 | 2026-09-22 |
 | 70 | [Climbing Stairs](70-climbing-stairs) | 🟢 Easy | Java | 2 | 2026-09-22 |
+| 71 | [Simplify Path](71-simplify-path) | 🟡 Medium | Java | 1 | 2026-09-22 |
 | 73 | [Set Matrix Zeroes](73-set-matrix-zeroes) | 🟡 Medium | Java | 2 | 2026-09-22 |
 | 74 | [Search a 2D Matrix](74-search-a-2d-matrix) | 🟡 Medium | Java | 2 | 2026-09-22 |
 | 75 | [Sort Colors](75-sort-colors) | 🟡 Medium | Java | 2 | 2026-09-22 |
