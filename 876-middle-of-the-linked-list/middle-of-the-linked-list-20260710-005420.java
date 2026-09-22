@@ -1,0 +1,35 @@
+// 876. Middle of the Linked List
+// https://leetcode.com/problems/middle-of-the-linked-list/
+// Difficulty: Easy
+// Language:   Java
+// Submitted:  2026-07-10 00:54:20
+// Runtime:    0 ms (beats 100.00%)
+// Memory:     42.9 MB (beats 53.11%)
+// Topics:     Linked List, Two Pointers
+
+/**
+ * Definition for singly-linked list.
+ * public class ListNode {
+ *     int val;
+ *     ListNode next;
+ *     ListNode() {}
+ *     ListNode(int val) { this.val = val; }
+ *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
+ * }
+ */
+class Solution {
+    public ListNode middleNode(ListNode head) {
+
+        if(head == null) return null;
+        ListNode slow = head;
+        ListNode fast = head;
+
+        while(fast != null && fast.next != null){
+            slow = slow.next;
+            fast = fast.next.next;
+        }
+
+        return slow;
+        
+    }
+}
