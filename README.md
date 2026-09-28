@@ -1,8 +1,8 @@
 # LeetCode Solutions
 
-> Auto-synced from LeetCode by the LeetHub Sync browser extension. Last updated 2026-09-22 20:21:18.
+> Auto-synced from LeetCode by the LeetHub Sync browser extension. Last updated 2026-09-28 05:53:43.
 
-**Solved:** 194 · 🟢 Easy 93 · 🟡 Medium 93 · 🔴 Hard 8
+**Solved:** 195 · 🟢 Easy 94 · 🟡 Medium 93 · 🔴 Hard 8
 
 | # | Problem | Difficulty | Language(s) | Submissions | Last solved |
 | --- | --- | --- | --- | --- | --- |
@@ -25,6 +25,7 @@
 | 25 | [Reverse Nodes in k-Group](25-reverse-nodes-in-k-group) | 🔴 Hard | Java | 2 | 2026-09-22 |
 | 26 | [Remove Duplicates from Sorted Array](26-remove-duplicates-from-sorted-array) | 🟢 Easy | Java | 2 | 2026-09-22 |
 | 27 | [Remove Element](27-remove-element) | 🟢 Easy | C++ | 2 | 2026-09-22 |
+| 28 | [Find the Index of the First Occurrence in a String](28-find-the-index-of-the-first-occurrence-in-a-string) | 🟢 Easy | Java | 1 | 2026-09-28 |
 | 31 | [Next Permutation](31-next-permutation) | 🟡 Medium | Java | 2 | 2026-09-22 |
 | 33 | [Search in Rotated Sorted Array](33-search-in-rotated-sorted-array) | 🟡 Medium | Java | 2 | 2026-09-22 |
 | 34 | [Find First and Last Position of Element in Sorted Array](34-find-first-and-last-position-of-element-in-sorted-array) | 🟡 Medium | C++ | 2 | 2026-09-22 |
