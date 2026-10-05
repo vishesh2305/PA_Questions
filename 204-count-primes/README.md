@@ -3,7 +3,7 @@
 **Difficulty:** Medium  
 **Link:** [https://leetcode.com/problems/count-primes/](https://leetcode.com/problems/count-primes/)  
 **Topics:** `Array`, `Math`, `Enumeration`, `Number Theory`, `Primality Test`, `Sieve Theory`, `Prime Number Sieve`  
-**Acceptance:** 36.0%
+**Acceptance:** 35.8%
 
 ---
 
