@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-> Auto-synced from LeetCode by the LeetHub Sync browser extension. Last updated 2026-10-06 00:54:45.
+> Auto-synced from LeetCode by the LeetHub Sync browser extension. Last updated 2026-10-06 00:56:57.
 
 **Solved:** 195 · 🟢 Easy 94 · 🟡 Medium 93 · 🔴 Hard 8
 
@@ -110,7 +110,7 @@
 | 199 | [Binary Tree Right Side View](199-binary-tree-right-side-view) | 🟡 Medium | Java | 2 | 2026-09-22 |
 | 200 | [Number of Islands](200-number-of-islands) | 🟡 Medium | Java | 3 | 2026-09-22 |
 | 203 | [Remove Linked List Elements](203-remove-linked-list-elements) | 🟢 Easy | C++ | 2 | 2026-09-22 |
-| 204 | [Count Primes](204-count-primes) | 🟡 Medium | C++, Java | 3 | 2026-10-06 |
+| 204 | [Count Primes](204-count-primes) | 🟡 Medium | C++, Java | 4 | 2026-10-06 |
 | 206 | [Reverse Linked List](206-reverse-linked-list) | 🟢 Easy | Java | 2 | 2026-09-22 |
 | 209 | [Minimum Size Subarray Sum](209-minimum-size-subarray-sum) | 🟡 Medium | Java | 2 | 2026-09-22 |
 | 216 | [Combination Sum III](216-combination-sum-iii) | 🟡 Medium | Java | 3 | 2026-09-22 |
