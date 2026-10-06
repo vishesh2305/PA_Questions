@@ -1,8 +1,8 @@
 # LeetCode Solutions
 
-> Auto-synced from LeetCode by the LeetHub Sync browser extension. Last updated 2026-10-06 19:51:37.
+> Auto-synced from LeetCode by the LeetHub Sync browser extension. Last updated 2026-10-06 20:04:30.
 
-**Solved:** 196 · 🟢 Easy 95 · 🟡 Medium 93 · 🔴 Hard 8
+**Solved:** 197 · 🟢 Easy 96 · 🟡 Medium 93 · 🔴 Hard 8
 
 | # | Problem | Difficulty | Language(s) | Submissions | Last solved |
 | --- | --- | --- | --- | --- | --- |
@@ -188,6 +188,7 @@
 | 1581 | [Customer Who Visited but Did Not Make Any Transactions](1581-customer-who-visited-but-did-not-make-any-transactions) | 🟢 Easy | MySQL | 2 | 2026-09-22 |
 | 1603 | [Design Parking System](1603-design-parking-system) | 🟢 Easy | Java | 2 | 2026-09-22 |
 | 1683 | [Invalid Tweets](1683-invalid-tweets) | 🟢 Easy | MySQL | 2 | 2026-09-22 |
+| 1700 | [Number of Students Unable to Eat Lunch](1700-number-of-students-unable-to-eat-lunch) | 🟢 Easy | Java | 1 | 2026-10-06 |
 | 1729 | [Find Followers Count](1729-find-followers-count) | 🟢 Easy | MySQL | 2 | 2026-09-22 |
 | 1752 | [Check if Array Is Sorted and Rotated](1752-check-if-array-is-sorted-and-rotated) | 🟢 Easy | Java | 2 | 2026-09-22 |
 | 1757 | [Recyclable and Low Fat Products](1757-recyclable-and-low-fat-products) | 🟢 Easy | Pandas | 2 | 2026-09-22 |
