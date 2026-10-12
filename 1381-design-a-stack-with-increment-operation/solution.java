@@ -2,9 +2,9 @@
 // https://leetcode.com/problems/design-a-stack-with-increment-operation/
 // Difficulty: Medium
 // Language:   Java
-// Submitted:  2026-10-12 13:18:41
-// Runtime:    5 ms (beats 97.72%)
-// Memory:     46.9 MB (beats 84.50%)
+// Submitted:  2026-10-12 13:26:34
+// Runtime:    6 ms (beats 36.38%)
+// Memory:     47 MB (beats 61.54%)
 // Topics:     Array, Stack, Design
 
 class CustomStack {
@@ -16,31 +16,29 @@ class CustomStack {
         data = new int[maxSize];
         top = -1;
     }
-
+    
     public void push(int x) {
-        if (top == data.length - 1) {
-            return;
+        if(top != data.length-1){
+            data[++top] = x;
         }
-        data[++top] = x;
+        return;
     }
-
+    
     public int pop() {
-        if (top == -1) {
-            return -1;
+        if(top != -1){
+            return data[top--];
         }
-        return data[top--];
+        return -1;
     }
-
+    
     public void increment(int k, int val) {
         int n = top+1;
         k = Math.min(k, n);
-        for(int i=0; i<k; i++){
-            
-            if(i < k){
+        for(int i=0; i<n; i++){
+            if(i<k){
                 data[i] += val;
             }
-
-        };
+        }
     }
 }
 
