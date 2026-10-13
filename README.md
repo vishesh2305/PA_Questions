@@ -1,8 +1,8 @@
 # LeetCode Solutions
 
-> Auto-synced from LeetCode by the LeetHub Sync browser extension. Last updated 2026-10-13 12:30:21.
+> Auto-synced from LeetCode by the LeetHub Sync browser extension. Last updated 2026-10-13 13:00:58.
 
-**Solved:** 199 · 🟢 Easy 97 · 🟡 Medium 94 · 🔴 Hard 8
+**Solved:** 200 · 🟢 Easy 97 · 🟡 Medium 95 · 🔴 Hard 8
 
 | # | Problem | Difficulty | Language(s) | Submissions | Last solved |
 | --- | --- | --- | --- | --- | --- |
@@ -144,7 +144,8 @@
 | 485 | [Max Consecutive Ones](485-max-consecutive-ones) | 🟢 Easy | Java | 2 | 2026-09-22 |
 | 491 | [Non-decreasing Subsequences](491-non-decreasing-subsequences) | 🟡 Medium | Java | 5 | 2026-09-22 |
 | 493 | [Reverse Pairs](493-reverse-pairs) | 🔴 Hard | Java | 2 | 2026-09-22 |
-| 496 | [Next Greater Element I](496-next-greater-element-i) | 🟢 Easy | Java | 2 | 2026-10-13 |
+| 496 | [Next Greater Element I](496-next-greater-element-i) | 🟢 Easy | Java | 3 | 2026-10-13 |
+| 503 | [Next Greater Element II](503-next-greater-element-ii) | 🟡 Medium | Java | 1 | 2026-10-13 |
 | 509 | [Fibonacci Number](509-fibonacci-number) | 🟢 Easy | Java | 5 | 2026-10-05 |
 | 511 | [Game Play Analysis I](511-game-play-analysis-i) | 🟢 Easy | MySQL | 2 | 2026-09-22 |
 | 513 | [Find Bottom Left Tree Value](513-find-bottom-left-tree-value) | 🟡 Medium | C++ | 2 | 2026-09-22 |
