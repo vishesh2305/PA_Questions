@@ -3,7 +3,7 @@
 **Difficulty:** Hard  
 **Link:** [https://leetcode.com/problems/sliding-window-maximum/](https://leetcode.com/problems/sliding-window-maximum/)  
 **Topics:** `Array`, `Queue`, `Sliding Window`, `Heap (Priority Queue)`, `Monotonic Queue`, `Range Minimum/Maximum Query`  
-**Acceptance:** 49.3%
+**Acceptance:** 49.4%
 
 ---
 
