@@ -1,8 +1,8 @@
 # LeetCode Solutions
 
-> Auto-synced from LeetCode by the LeetHub Sync browser extension. Last updated 2026-10-14 20:24:07.
+> Auto-synced from LeetCode by the LeetHub Sync browser extension. Last updated 2026-10-14 20:40:25.
 
-**Solved:** 201 · 🟢 Easy 97 · 🟡 Medium 96 · 🔴 Hard 8
+**Solved:** 202 · 🟢 Easy 97 · 🟡 Medium 96 · 🔴 Hard 9
 
 | # | Problem | Difficulty | Language(s) | Submissions | Last solved |
 | --- | --- | --- | --- | --- | --- |
@@ -21,6 +21,7 @@
 | 20 | [Valid Parentheses](20-valid-parentheses) | 🟢 Easy | Java | 2 | 2026-09-22 |
 | 21 | [Merge Two Sorted Lists](21-merge-two-sorted-lists) | 🟢 Easy | Java | 3 | 2026-10-06 |
 | 22 | [Generate Parentheses](22-generate-parentheses) | 🟡 Medium | Java | 3 | 2026-09-22 |
+| 23 | [Merge k Sorted Lists](23-merge-k-sorted-lists) | 🔴 Hard | Java | 1 | 2026-10-14 |
 | 24 | [Swap Nodes in Pairs](24-swap-nodes-in-pairs) | 🟡 Medium | C++ | 2 | 2026-09-22 |
 | 25 | [Reverse Nodes in k-Group](25-reverse-nodes-in-k-group) | 🔴 Hard | Java | 2 | 2026-09-22 |
 | 26 | [Remove Duplicates from Sorted Array](26-remove-duplicates-from-sorted-array) | 🟢 Easy | Java | 2 | 2026-09-22 |
