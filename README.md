@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-> Auto-synced from LeetCode by the LeetHub Sync browser extension. Last updated 2026-10-14 13:10:02.
+> Auto-synced from LeetCode by the LeetHub Sync browser extension. Last updated 2026-10-14 13:17:35.
 
 **Solved:** 200 · 🟢 Easy 97 · 🟡 Medium 95 · 🔴 Hard 8
 
@@ -123,7 +123,7 @@
 | 235 | [Lowest Common Ancestor of a Binary Search Tree](235-lowest-common-ancestor-of-a-binary-search-tree) | 🟡 Medium | Java | 2 | 2026-09-22 |
 | 237 | [Delete Node in a Linked List](237-delete-node-in-a-linked-list) | 🟡 Medium | Java | 2 | 2026-09-22 |
 | 238 | [Product of Array Except Self](238-product-of-array-except-self) | 🟡 Medium | Java | 2 | 2026-09-22 |
-| 239 | [Sliding Window Maximum](239-sliding-window-maximum) | 🔴 Hard | Java | 3 | 2026-10-14 |
+| 239 | [Sliding Window Maximum](239-sliding-window-maximum) | 🔴 Hard | Java | 4 | 2026-10-14 |
 | 242 | [Valid Anagram](242-valid-anagram) | 🟢 Easy | Java | 2 | 2026-09-22 |
 | 278 | [First Bad Version](278-first-bad-version) | 🟢 Easy | Java | 2 | 2026-09-22 |
 | 283 | [Move Zeroes](283-move-zeroes) | 🟢 Easy | Java | 2 | 2026-09-22 |
