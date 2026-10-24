@@ -2,9 +2,9 @@
 // https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/
 // Difficulty: Medium
 // Language:   Java
-// Submitted:  2026-07-26 15:09:36
-// Runtime:    0 ms (beats 100.00%)
-// Memory:     43.7 MB (beats 44.23%)
+// Submitted:  2026-10-24 12:14:06
+// Runtime:    1 ms (beats 84.42%)
+// Memory:     43 MB (beats 98.89%)
 // Topics:     Tree, Breadth-First Search, Binary Tree
 
 /**
@@ -25,43 +25,39 @@
 class Solution {
     public List<List<Integer>> zigzagLevelOrder(TreeNode root) {
 
-        if(root==null) return new ArrayList<>();
-
         List<List<Integer>> result = new ArrayList<>();
+
+        if(root==null) return result;
+
+        int level = 1;
 
         Queue<TreeNode> q = new LinkedList<>();
 
-        q.offer(root);
-
-        boolean LeftToRight = true;
+        q.add(root);
 
         while(!q.isEmpty()){
-            int l = q.size();
+            int len = q.size();
+            List<Integer> sublist = new ArrayList<>();
 
-            LinkedList<Integer> list = new LinkedList<>();
-
-            for(int i=0; i<l; i++){
+            for(int i=0; i<len; i++){
                 TreeNode curr = q.poll();
 
-                if(LeftToRight){
-                    list.addLast(curr.val);
-                }else{
-                    list.addFirst(curr.val);
-                }
-                
+                sublist.add(curr.val);
                 if(curr.left != null){
-                    q.offer(curr.left);
+                    q.add(curr.left);
                 }
-
                 if(curr.right != null){
-                    q.offer(curr.right);
+                    q.add(curr.right);
                 }
 
             }
-
-            result.add(list);
-            LeftToRight = !LeftToRight;
-
+            if(level % 2 == 0){
+                Collections.reverse(sublist);
+                result.add(sublist);
+            }else{
+            result.add(sublist);
+            }
+            level++;
         }
 
         return result;
