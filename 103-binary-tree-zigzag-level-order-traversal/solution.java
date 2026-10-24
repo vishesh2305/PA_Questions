@@ -2,9 +2,9 @@
 // https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/
 // Difficulty: Medium
 // Language:   Java
-// Submitted:  2026-10-24 12:14:06
+// Submitted:  2026-10-24 12:19:35
 // Runtime:    1 ms (beats 84.42%)
-// Memory:     43 MB (beats 98.89%)
+// Memory:     43.3 MB (beats 92.37%)
 // Topics:     Tree, Breadth-First Search, Binary Tree
 
 /**
@@ -42,21 +42,20 @@ class Solution {
             for(int i=0; i<len; i++){
                 TreeNode curr = q.poll();
 
-                sublist.add(curr.val);
+                if(level % 2 == 0){
+                    sublist.add(0,curr.val);
+                }else{
+                    sublist.add(curr.val);
+                }
+                
                 if(curr.left != null){
                     q.add(curr.left);
                 }
                 if(curr.right != null){
                     q.add(curr.right);
                 }
-
             }
-            if(level % 2 == 0){
-                Collections.reverse(sublist);
-                result.add(sublist);
-            }else{
             result.add(sublist);
-            }
             level++;
         }
 
