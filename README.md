@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-> Auto-synced from LeetCode by the LeetHub Sync browser extension. Last updated 2026-10-24 11:36:42.
+> Auto-synced from LeetCode by the LeetHub Sync browser extension. Last updated 2026-10-24 12:14:16.
 
 **Solved:** 202 · 🟢 Easy 97 · 🟡 Medium 96 · 🔴 Hard 9
 
@@ -68,7 +68,7 @@
 | 100 | [Same Tree](100-same-tree) | 🟢 Easy | Java | 2 | 2026-09-22 |
 | 101 | [Symmetric Tree](101-symmetric-tree) | 🟢 Easy | Java | 2 | 2026-09-22 |
 | 102 | [Binary Tree Level Order Traversal](102-binary-tree-level-order-traversal) | 🟡 Medium | Java | 3 | 2026-10-24 |
-| 103 | [Binary Tree Zigzag Level Order Traversal](103-binary-tree-zigzag-level-order-traversal) | 🟡 Medium | Java | 2 | 2026-09-22 |
+| 103 | [Binary Tree Zigzag Level Order Traversal](103-binary-tree-zigzag-level-order-traversal) | 🟡 Medium | Java | 3 | 2026-10-24 |
 | 104 | [Maximum Depth of Binary Tree](104-maximum-depth-of-binary-tree) | 🟢 Easy | Java | 2 | 2026-09-22 |
 | 105 | [Construct Binary Tree from Preorder and Inorder Traversal](105-construct-binary-tree-from-preorder-and-inorder-traversal) | 🟡 Medium | Java | 2 | 2026-09-22 |
 | 106 | [Construct Binary Tree from Inorder and Postorder Traversal](106-construct-binary-tree-from-inorder-and-postorder-traversal) | 🟡 Medium | Java | 2 | 2026-09-22 |
