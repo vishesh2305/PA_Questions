@@ -3,7 +3,7 @@
 **Difficulty:** Medium  
 **Link:** [https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)  
 **Topics:** `Tree`, `Breadth-First Search`, `Binary Tree`  
-**Acceptance:** 64.5%
+**Acceptance:** 64.7%
 
 ---
 
