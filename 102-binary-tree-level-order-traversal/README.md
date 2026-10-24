@@ -3,7 +3,7 @@
 **Difficulty:** Medium  
 **Link:** [https://leetcode.com/problems/binary-tree-level-order-traversal/](https://leetcode.com/problems/binary-tree-level-order-traversal/)  
 **Topics:** `Tree`, `Breadth-First Search`, `Binary Tree`  
-**Acceptance:** 73.5%
+**Acceptance:** 73.7%
 
 ---
 
