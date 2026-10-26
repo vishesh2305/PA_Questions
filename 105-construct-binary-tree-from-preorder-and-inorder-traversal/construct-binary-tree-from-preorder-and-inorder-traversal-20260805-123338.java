@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Language:   Java
 // Submitted:  2026-08-05 12:33:38
-// Runtime:    1 ms (beats 97.60%)
-// Memory:     46.2 MB (beats 68.78%)
+// Runtime:    1 ms (beats 97.62%)
+// Memory:     46.2 MB (beats 65.27%)
 // Topics:     Array, Hash Table, Divide and Conquer, Tree, Binary Tree
 
 /**
