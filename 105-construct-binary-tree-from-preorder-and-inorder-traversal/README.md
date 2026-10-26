@@ -3,7 +3,7 @@
 **Difficulty:** Medium  
 **Link:** [https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)  
 **Topics:** `Array`, `Hash Table`, `Divide and Conquer`, `Tree`, `Binary Tree`  
-**Acceptance:** 69.6%
+**Acceptance:** 69.8%
 
 ---
 
