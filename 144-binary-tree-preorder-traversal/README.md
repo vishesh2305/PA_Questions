@@ -3,7 +3,7 @@
 **Difficulty:** Easy  
 **Link:** [https://leetcode.com/problems/binary-tree-preorder-traversal/](https://leetcode.com/problems/binary-tree-preorder-traversal/)  
 **Topics:** `Stack`, `Tree`, `Depth-First Search`, `Binary Tree`  
-**Acceptance:** 76.7%
+**Acceptance:** 76.9%
 
 ---
 
