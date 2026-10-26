@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-> Auto-synced from LeetCode by the LeetHub Sync browser extension. Last updated 2026-10-24 12:19:44.
+> Auto-synced from LeetCode by the LeetHub Sync browser extension. Last updated 2026-10-26 12:40:38.
 
 **Solved:** 202 · 🟢 Easy 97 · 🟡 Medium 96 · 🔴 Hard 9
 
@@ -89,7 +89,7 @@
 | 141 | [Linked List Cycle](141-linked-list-cycle) | 🟢 Easy | Java | 2 | 2026-09-22 |
 | 142 | [Linked List Cycle II](142-linked-list-cycle-ii) | 🟡 Medium | Java | 2 | 2026-09-22 |
 | 143 | [Reorder List](143-reorder-list) | 🟡 Medium | Java | 2 | 2026-09-22 |
-| 144 | [Binary Tree Preorder Traversal](144-binary-tree-preorder-traversal) | 🟢 Easy | Java | 2 | 2026-09-22 |
+| 144 | [Binary Tree Preorder Traversal](144-binary-tree-preorder-traversal) | 🟢 Easy | Java | 3 | 2026-10-26 |
 | 145 | [Binary Tree Postorder Traversal](145-binary-tree-postorder-traversal) | 🟢 Easy | Java | 2 | 2026-09-22 |
 | 150 | [Evaluate Reverse Polish Notation](150-evaluate-reverse-polish-notation) | 🟡 Medium | C++, Java | 4 | 2026-09-22 |
 | 151 | [Reverse Words in a String](151-reverse-words-in-a-string) | 🟡 Medium | Java | 2 | 2026-09-22 |
