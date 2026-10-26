@@ -2,9 +2,9 @@
 // https://leetcode.com/problems/binary-tree-preorder-traversal/
 // Difficulty: Easy
 // Language:   Java
-// Submitted:  2026-07-19 19:31:55
+// Submitted:  2026-10-26 12:40:26
 // Runtime:    0 ms (beats 100.00%)
-// Memory:     43.3 MB (beats 33.28%)
+// Memory:     42.6 MB (beats 95.36%)
 // Topics:     Stack, Tree, Depth-First Search, Binary Tree
 
 /**
@@ -24,16 +24,27 @@
  */
 class Solution {
     public List<Integer> preorderTraversal(TreeNode root) {
-        List<Integer> res = new ArrayList<>();
-        preorder(root, res);
-        return res;
-    }
+        Stack<TreeNode> st = new Stack<>();
 
-    public static void preorder(TreeNode node, List<Integer> res){
-        if(node == null) return;
+        List<Integer> result = new ArrayList<>();
+        if(root==null) return result;
 
-        res.add(node.val);
-        preorder(node.left, res);
-        preorder(node.right, res);
+        st.add(root);
+
+        while(!st.isEmpty()){
+
+            TreeNode curr = st.pop();
+
+            result.add(curr.val);
+
+            if(curr.right != null){
+                st.add(curr.right);
+            }
+            if(curr.left != null){
+                st.add(curr.left);
+            }
+        }
+
+        return result;
     }
 }
