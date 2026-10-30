@@ -1,8 +1,8 @@
 # LeetCode Solutions
 
-> Auto-synced from LeetCode by the LeetHub Sync browser extension. Last updated 2026-10-30 20:44:08.
+> Auto-synced from LeetCode by the LeetHub Sync browser extension. Last updated 2026-10-30 20:59:31.
 
-**Solved:** 203 · 🟢 Easy 98 · 🟡 Medium 96 · 🔴 Hard 9
+**Solved:** 204 · 🟢 Easy 98 · 🟡 Medium 97 · 🔴 Hard 9
 
 | # | Problem | Difficulty | Language(s) | Submissions | Last solved |
 | --- | --- | --- | --- | --- | --- |
@@ -161,6 +161,7 @@
 | 586 | [Customer Placing the Largest Number of Orders](586-customer-placing-the-largest-number-of-orders) | 🟢 Easy | MySQL | 2 | 2026-09-22 |
 | 595 | [Big Countries](595-big-countries) | 🟢 Easy | MySQL | 2 | 2026-09-22 |
 | 596 | [Classes With at Least 5 Students](596-classes-with-at-least-5-students) | 🟢 Easy | MySQL | 2 | 2026-09-22 |
+| 621 | [Task Scheduler](621-task-scheduler) | 🟡 Medium | Java | 1 | 2026-10-30 |
 | 622 | [Design Circular Queue](622-design-circular-queue) | 🟡 Medium | Java | 2 | 2026-09-22 |
 | 643 | [Maximum Average Subarray I](643-maximum-average-subarray-i) | 🟢 Easy | Java | 2 | 2026-09-22 |
 | 662 | [Maximum Width of Binary Tree](662-maximum-width-of-binary-tree) | 🟡 Medium | Java | 2 | 2026-09-22 |
