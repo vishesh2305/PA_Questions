@@ -1,8 +1,8 @@
 # LeetCode Solutions
 
-> Auto-synced from LeetCode by the LeetHub Sync browser extension. Last updated 2026-10-26 15:20:53.
+> Auto-synced from LeetCode by the LeetHub Sync browser extension. Last updated 2026-10-30 20:44:08.
 
-**Solved:** 202 · 🟢 Easy 97 · 🟡 Medium 96 · 🔴 Hard 9
+**Solved:** 203 · 🟢 Easy 98 · 🟡 Medium 96 · 🔴 Hard 9
 
 | # | Problem | Difficulty | Language(s) | Submissions | Last solved |
 | --- | --- | --- | --- | --- | --- |
@@ -182,6 +182,7 @@
 | 997 | [Find the Town Judge](997-find-the-town-judge) | 🟢 Easy | C++ | 2 | 2026-09-22 |
 | 1008 | [Construct Binary Search Tree from Preorder Traversal](1008-construct-binary-search-tree-from-preorder-traversal) | 🟡 Medium | Java | 2 | 2026-09-22 |
 | 1021 | [Remove Outermost Parentheses](1021-remove-outermost-parentheses) | 🟢 Easy | Java | 2 | 2026-09-22 |
+| 1046 | [Last Stone Weight](1046-last-stone-weight) | 🟢 Easy | Java | 1 | 2026-10-30 |
 | 1068 | [Product Sales Analysis I](1068-product-sales-analysis-i) | 🟢 Easy | MySQL | 2 | 2026-09-22 |
 | 1137 | [N-th Tribonacci Number](1137-n-th-tribonacci-number) | 🟢 Easy | Java | 2 | 2026-09-22 |
 | 1148 | [Article Views I](1148-article-views-i) | 🟢 Easy | MySQL | 2 | 2026-09-22 |
