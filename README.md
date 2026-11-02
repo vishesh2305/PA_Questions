@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-> Auto-synced from LeetCode by the LeetHub Sync browser extension. Last updated 2026-10-30 20:59:31.
+> Auto-synced from LeetCode by the LeetHub Sync browser extension. Last updated 2026-11-02 19:29:35.
 
 **Solved:** 204 · 🟢 Easy 98 · 🟡 Medium 97 · 🔴 Hard 9
 
@@ -33,7 +33,7 @@
 | 35 | [Search Insert Position](35-search-insert-position) | 🟢 Easy | Java | 2 | 2026-09-22 |
 | 39 | [Combination Sum](39-combination-sum) | 🟡 Medium | Java | 3 | 2026-09-22 |
 | 40 | [Combination Sum II](40-combination-sum-ii) | 🟡 Medium | Java | 3 | 2026-09-22 |
-| 42 | [Trapping Rain Water](42-trapping-rain-water) | 🔴 Hard | Java | 2 | 2026-09-22 |
+| 42 | [Trapping Rain Water](42-trapping-rain-water) | 🔴 Hard | Java | 3 | 2026-11-02 |
 | 46 | [Permutations](46-permutations) | 🟡 Medium | Java | 5 | 2026-09-22 |
 | 47 | [Permutations II](47-permutations-ii) | 🟡 Medium | Java | 4 | 2026-09-22 |
 | 48 | [Rotate Image](48-rotate-image) | 🟡 Medium | Java | 2 | 2026-09-22 |
