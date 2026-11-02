@@ -3,7 +3,7 @@
 **Difficulty:** Hard  
 **Link:** [https://leetcode.com/problems/trapping-rain-water/](https://leetcode.com/problems/trapping-rain-water/)  
 **Topics:** `Array`, `Two Pointers`, `Dynamic Programming`, `Stack`, `Monotonic Stack`  
-**Acceptance:** 68.3%
+**Acceptance:** 68.5%
 
 ---
 
