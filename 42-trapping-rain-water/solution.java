@@ -2,41 +2,33 @@
 // https://leetcode.com/problems/trapping-rain-water/
 // Difficulty: Hard
 // Language:   Java
-// Submitted:  2026-07-17 01:38:22
-// Runtime:    0 ms (beats 100.00%)
-// Memory:     47.4 MB (beats 89.27%)
+// Submitted:  2026-11-02 19:29:24
+// Runtime:    7 ms (beats 4.30%)
+// Memory:     47.4 MB (beats 82.98%)
 // Topics:     Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack
 
 class Solution {
     public int trap(int[] height) {
-        int n = height.length;
 
-        int l = 0;
-        int r = n-1;
+        Stack<Integer> st = new Stack<>();
+        int totalWater = 0;
 
-        int lm = 0;
-        int rm =0;
+        for(int right =0; right<height.length; right++){
+            while(!st.isEmpty() && height[right] > height[st.peek()]){
+                int bottom = st.pop();
+                if(st.isEmpty()) break;
 
-        int total =0;
+                int left = st.peek();
 
-        while(l <= r){
-            if(height[l] < height[r]){
-                if(height[l] >= lm){
-                    lm = height[l];
-                }else{
-                    total+= lm - height[l];
-                }
-                l++;
-            }else{
-                if(height[r] >= rm){
-                    rm = height[r];
-                }else{
-                    total+= rm - height[r];
-                }
-                r--;
+                int b_h = Math.min(height[left], height[right]) - height[bottom];
+                int width = right - left -1;
+
+                totalWater += b_h * width;
             }
+            st.push(right);
         }
-        return total;
+
+        return totalWater;
         
     }
 }
