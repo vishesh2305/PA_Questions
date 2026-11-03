@@ -1,8 +1,8 @@
 # LeetCode Solutions
 
-> Auto-synced from LeetCode by the LeetHub Sync browser extension. Last updated 2026-11-02 19:29:35.
+> Auto-synced from LeetCode by the LeetHub Sync browser extension. Last updated 2026-11-03 19:01:47.
 
-**Solved:** 204 · 🟢 Easy 98 · 🟡 Medium 97 · 🔴 Hard 9
+**Solved:** 205 · 🟢 Easy 98 · 🟡 Medium 98 · 🔴 Hard 9
 
 | # | Problem | Difficulty | Language(s) | Submissions | Last solved |
 | --- | --- | --- | --- | --- | --- |
@@ -202,6 +202,7 @@
 | 1863 | [Sum of All Subset XOR Totals](1863-sum-of-all-subset-xor-totals) | 🟢 Easy | Java | 2 | 2026-09-22 |
 | 1903 | [Largest Odd Number in String](1903-largest-odd-number-in-string) | 🟢 Easy | Java | 2 | 2026-09-22 |
 | 1929 | [Concatenation of Array](1929-concatenation-of-array) | 🟢 Easy | C++ | 2 | 2026-09-22 |
+| 1963 | [Minimum Number of Swaps to Make the String Balanced](1963-minimum-number-of-swaps-to-make-the-string-balanced) | 🟡 Medium | Java | 1 | 2026-11-03 |
 | 1967 | [Number of Strings That Appear as Substrings in Word](1967-number-of-strings-that-appear-as-substrings-in-word) | 🟢 Easy | Java | 2 | 2026-09-22 |
 | 2053 | [Kth Distinct String in an Array](2053-kth-distinct-string-in-an-array) | 🟢 Easy | C++ | 2 | 2026-09-22 |
 | 2073 | [Time Needed to Buy Tickets](2073-time-needed-to-buy-tickets) | 🟢 Easy | C++ | 2 | 2026-09-22 |
