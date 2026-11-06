@@ -1,8 +1,8 @@
 # LeetCode Solutions
 
-> Auto-synced from LeetCode by the LeetHub Sync browser extension. Last updated 2026-11-06 22:57:16.
+> Auto-synced from LeetCode by the LeetHub Sync browser extension. Last updated 2026-11-06 23:03:00.
 
-**Solved:** 205 · 🟢 Easy 98 · 🟡 Medium 98 · 🔴 Hard 9
+**Solved:** 206 · 🟢 Easy 99 · 🟡 Medium 98 · 🔴 Hard 9
 
 | # | Problem | Difficulty | Language(s) | Submissions | Last solved |
 | --- | --- | --- | --- | --- | --- |
@@ -121,6 +121,7 @@
 | 226 | [Invert Binary Tree](226-invert-binary-tree) | 🟢 Easy | C++ | 2 | 2026-09-22 |
 | 229 | [Majority Element II](229-majority-element-ii) | 🟡 Medium | Java | 2 | 2026-09-22 |
 | 231 | [Power of Two](231-power-of-two) | 🟢 Easy | Java | 2 | 2026-09-22 |
+| 232 | [Implement Queue using Stacks](232-implement-queue-using-stacks) | 🟢 Easy | Java | 1 | 2026-11-06 |
 | 234 | [Palindrome Linked List](234-palindrome-linked-list) | 🟢 Easy | Java | 2 | 2026-09-22 |
 | 235 | [Lowest Common Ancestor of a Binary Search Tree](235-lowest-common-ancestor-of-a-binary-search-tree) | 🟡 Medium | Java | 2 | 2026-09-22 |
 | 237 | [Delete Node in a Linked List](237-delete-node-in-a-linked-list) | 🟡 Medium | Java | 2 | 2026-09-22 |
