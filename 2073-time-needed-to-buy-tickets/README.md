@@ -3,7 +3,7 @@
 **Difficulty:** Easy  
 **Link:** [https://leetcode.com/problems/time-needed-to-buy-tickets/](https://leetcode.com/problems/time-needed-to-buy-tickets/)  
 **Topics:** `Array`, `Queue`, `Simulation`  
-**Acceptance:** 73.3%
+**Acceptance:** 73.6%
 
 ---
 
