@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-> Auto-synced from LeetCode by the LeetHub Sync browser extension. Last updated 2026-11-03 19:01:47.
+> Auto-synced from LeetCode by the LeetHub Sync browser extension. Last updated 2026-11-06 22:57:16.
 
 **Solved:** 205 · 🟢 Easy 98 · 🟡 Medium 98 · 🔴 Hard 9
 
@@ -205,7 +205,7 @@
 | 1963 | [Minimum Number of Swaps to Make the String Balanced](1963-minimum-number-of-swaps-to-make-the-string-balanced) | 🟡 Medium | Java | 1 | 2026-11-03 |
 | 1967 | [Number of Strings That Appear as Substrings in Word](1967-number-of-strings-that-appear-as-substrings-in-word) | 🟢 Easy | Java | 2 | 2026-09-22 |
 | 2053 | [Kth Distinct String in an Array](2053-kth-distinct-string-in-an-array) | 🟢 Easy | C++ | 2 | 2026-09-22 |
-| 2073 | [Time Needed to Buy Tickets](2073-time-needed-to-buy-tickets) | 🟢 Easy | C++ | 2 | 2026-09-22 |
+| 2073 | [Time Needed to Buy Tickets](2073-time-needed-to-buy-tickets) | 🟢 Easy | C++, Java | 3 | 2026-11-06 |
 | 2089 | [Find Target Indices After Sorting Array](2089-find-target-indices-after-sorting-array) | 🟢 Easy | Java | 2 | 2026-09-22 |
 | 2461 | [Maximum Sum of Distinct Subarrays With Length K](2461-maximum-sum-of-distinct-subarrays-with-length-k) | 🟡 Medium | Java | 2 | 2026-09-22 |
 | 2706 | [Buy Two Chocolates](2706-buy-two-chocolates) | 🟢 Easy | C++ | 2 | 2026-09-22 |
