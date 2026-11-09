@@ -1,8 +1,8 @@
 # LeetCode Solutions
 
-> Auto-synced from LeetCode by the LeetHub Sync browser extension. Last updated 2026-11-09 23:39:42.
+> Auto-synced from LeetCode by the LeetHub Sync browser extension. Last updated 2026-11-09 23:50:26.
 
-**Solved:** 206 · 🟢 Easy 99 · 🟡 Medium 98 · 🔴 Hard 9
+**Solved:** 207 · 🟢 Easy 100 · 🟡 Medium 98 · 🔴 Hard 9
 
 | # | Problem | Difficulty | Language(s) | Submissions | Last solved |
 | --- | --- | --- | --- | --- | --- |
@@ -148,6 +148,7 @@
 | 491 | [Non-decreasing Subsequences](491-non-decreasing-subsequences) | 🟡 Medium | Java | 5 | 2026-09-22 |
 | 493 | [Reverse Pairs](493-reverse-pairs) | 🔴 Hard | Java | 2 | 2026-09-22 |
 | 496 | [Next Greater Element I](496-next-greater-element-i) | 🟢 Easy | Java | 3 | 2026-10-13 |
+| 501 | [Find Mode in Binary Search Tree](501-find-mode-in-binary-search-tree) | 🟢 Easy | Java | 1 | 2026-11-09 |
 | 503 | [Next Greater Element II](503-next-greater-element-ii) | 🟡 Medium | Java | 2 | 2026-10-13 |
 | 509 | [Fibonacci Number](509-fibonacci-number) | 🟢 Easy | Java | 5 | 2026-10-05 |
 | 511 | [Game Play Analysis I](511-game-play-analysis-i) | 🟢 Easy | MySQL | 2 | 2026-09-22 |
