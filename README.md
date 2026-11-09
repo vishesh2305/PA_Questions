@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-> Auto-synced from LeetCode by the LeetHub Sync browser extension. Last updated 2026-11-09 23:20:27.
+> Auto-synced from LeetCode by the LeetHub Sync browser extension. Last updated 2026-11-09 23:39:42.
 
 **Solved:** 206 · 🟢 Easy 99 · 🟡 Medium 98 · 🔴 Hard 9
 
@@ -64,7 +64,7 @@
 | 92 | [Reverse Linked List II](92-reverse-linked-list-ii) | 🟡 Medium | Java | 3 | 2026-09-22 |
 | 93 | [Restore IP Addresses](93-restore-ip-addresses) | 🟡 Medium | Java | 4 | 2026-09-22 |
 | 94 | [Binary Tree Inorder Traversal](94-binary-tree-inorder-traversal) | 🟢 Easy | Java | 3 | 2026-11-09 |
-| 98 | [Validate Binary Search Tree](98-validate-binary-search-tree) | 🟡 Medium | Java | 2 | 2026-09-22 |
+| 98 | [Validate Binary Search Tree](98-validate-binary-search-tree) | 🟡 Medium | Java | 3 | 2026-11-09 |
 | 100 | [Same Tree](100-same-tree) | 🟢 Easy | Java | 2 | 2026-09-22 |
 | 101 | [Symmetric Tree](101-symmetric-tree) | 🟢 Easy | Java | 2 | 2026-09-22 |
 | 102 | [Binary Tree Level Order Traversal](102-binary-tree-level-order-traversal) | 🟡 Medium | Java | 3 | 2026-10-24 |
