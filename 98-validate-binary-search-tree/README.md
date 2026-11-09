@@ -3,7 +3,7 @@
 **Difficulty:** Medium  
 **Link:** [https://leetcode.com/problems/validate-binary-search-tree/](https://leetcode.com/problems/validate-binary-search-tree/)  
 **Topics:** `Tree`, `Depth-First Search`, `Binary Search Tree`, `Binary Tree`  
-**Acceptance:** 36.4%
+**Acceptance:** 36.6%
 
 ---
 
