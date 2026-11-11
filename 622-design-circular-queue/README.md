@@ -3,7 +3,7 @@
 **Difficulty:** Medium  
 **Link:** [https://leetcode.com/problems/design-circular-queue/](https://leetcode.com/problems/design-circular-queue/)  
 **Topics:** `Array`, `Linked List`, `Design`, `Queue`  
-**Acceptance:** 55.5%
+**Acceptance:** 55.9%
 
 ---
 
