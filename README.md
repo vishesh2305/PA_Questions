@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-> Auto-synced from LeetCode by the LeetHub Sync browser extension. Last updated 2026-11-09 23:50:26.
+> Auto-synced from LeetCode by the LeetHub Sync browser extension. Last updated 2026-11-11 14:13:26.
 
 **Solved:** 207 · 🟢 Easy 100 · 🟡 Medium 98 · 🔴 Hard 9
 
@@ -164,7 +164,7 @@
 | 595 | [Big Countries](595-big-countries) | 🟢 Easy | MySQL | 2 | 2026-09-22 |
 | 596 | [Classes With at Least 5 Students](596-classes-with-at-least-5-students) | 🟢 Easy | MySQL | 2 | 2026-09-22 |
 | 621 | [Task Scheduler](621-task-scheduler) | 🟡 Medium | Java | 1 | 2026-10-30 |
-| 622 | [Design Circular Queue](622-design-circular-queue) | 🟡 Medium | Java | 2 | 2026-09-22 |
+| 622 | [Design Circular Queue](622-design-circular-queue) | 🟡 Medium | Java | 3 | 2026-11-11 |
 | 643 | [Maximum Average Subarray I](643-maximum-average-subarray-i) | 🟢 Easy | Java | 2 | 2026-09-22 |
 | 662 | [Maximum Width of Binary Tree](662-maximum-width-of-binary-tree) | 🟡 Medium | Java | 2 | 2026-09-22 |
 | 678 | [Valid Parenthesis String](678-valid-parenthesis-string) | 🟡 Medium | Java | 2 | 2026-09-22 |
