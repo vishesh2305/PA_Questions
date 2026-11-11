@@ -2,65 +2,74 @@
 // https://leetcode.com/problems/design-circular-queue/
 // Difficulty: Medium
 // Language:   Java
-// Submitted:  2026-04-29 02:30:41
+// Submitted:  2026-11-11 14:13:16
 // Runtime:    4 ms (beats 100.00%)
-// Memory:     46.6 MB (beats 51.87%)
+// Memory:     46.3 MB (beats 55.45%)
 // Topics:     Array, Linked List, Design, Queue
 
 class MyCircularQueue {
 
-    int[] queue;
-    int size;
-    int front;
-    int rear;
+    public static int front;
+    public static int rear;
+    public static int SIZE;
+
+    public static int[] array;
 
     public MyCircularQueue(int k) {
-        this.queue = new int[k];
-        this.size = k;
+        this.SIZE = k;
+        this.array = new int[SIZE];
         this.front = -1;
         this.rear = -1;
     }
     
     public boolean enQueue(int value) {
-        if(isFull()) return false;
+        if((rear + 1) % SIZE == front) return false;
 
-        if(isEmpty()){
+        if(front == -1){
             front = 0;
-        }
-        rear = (rear+1)%size;
-        queue[rear] = value;
+        };
+
+        rear = (rear + 1) % SIZE;
+        array[rear] = value;
         return true;
     }
     
     public boolean deQueue() {
-
-        if(isEmpty()) return false;
-
-        if(front==rear){
-            front = rear = -1;
-        }else{
-            front = (front+1)%size;
+        if(front == -1){
+            return false;
         }
+        int item = array[front];
+
+        if(front == rear){
+            front = -1;
+            rear = -1;
+        }else{
+            front = (front + 1) % SIZE;
+        }
+
         return true;
-        
+
     }
     
     public int Front() {
-        if(isEmpty()) return -1;
-        return queue[front];
+        if(front == -1) return -1;
+
+        return array[front];
     }
     
     public int Rear() {
-        if(isEmpty()) return -1;
-        return queue[rear];
+        if(rear == -1) return -1;
+        return array[rear];
     }
     
     public boolean isEmpty() {
-        return front==-1;
+        if(front == -1) return true;
+        return false;
     }
     
     public boolean isFull() {
-        return (rear+1)%size == front;
+        if((rear + 1) % SIZE == front) return true;
+        return false;
     }
 }
 
