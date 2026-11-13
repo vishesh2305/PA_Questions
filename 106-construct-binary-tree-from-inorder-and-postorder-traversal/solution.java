@@ -2,9 +2,9 @@
 // https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/
 // Difficulty: Medium
 // Language:   Java
-// Submitted:  2026-08-05 13:12:42
-// Runtime:    1 ms (beats 99.16%)
-// Memory:     46.4 MB (beats 49.36%)
+// Submitted:  2026-11-13 11:43:04
+// Runtime:    3 ms (beats 30.74%)
+// Memory:     45 MB (beats 96.09%)
 // Topics:     Array, Hash Table, Divide and Conquer, Tree, Binary Tree
 
 /**
@@ -23,34 +23,30 @@
  * }
  */
 class Solution {
+    static int postIndex;
     public TreeNode buildTree(int[] inorder, int[] postorder) {
+        int N = postorder.length;
 
-        HashMap<Integer, Integer> map = new HashMap<>();
+        postIndex = N-1;
 
-        for(int i=0; i<inorder.length ; i++){
-            map.put(inorder[i], i);
-        }
-
-        return build(inorder, 0, inorder.length-1, postorder, 0, postorder.length-1, map);
-        
+        return construct(inorder, postorder, 0, N-1);
     }
 
-    public TreeNode build(int[] inorder, int inStart, int inEnd, int[] postorder, int postStart, int postEnd, HashMap<Integer, Integer> map){
+    private static TreeNode construct(int[] inorder, int[] postorder, int start, int end){
+        if(start > end) return null;
 
-        if(inStart > inEnd || postStart > postEnd) return null;
+        int value = postorder[postIndex--];
 
-        TreeNode root = new TreeNode(postorder[postEnd]);
+        TreeNode root = new TreeNode(value);
 
-        int inRoot = map.get(root.val);
+        int index = start;
+        while(inorder[index] != value){
+            index++;
+        }
 
-        int LeftNums = inRoot - inStart;
-
-        root.left = build(inorder, inStart, inRoot-1, postorder, postStart, postStart+LeftNums-1, map);
-
-        root.right = build(inorder, inRoot+1, inEnd, postorder, postStart+LeftNums, postEnd -1, map);
+        root.right = construct(inorder, postorder, index+1, end);
+        root.left = construct(inorder, postorder, start, index-1);
 
         return root;
-
-
     }
 }
