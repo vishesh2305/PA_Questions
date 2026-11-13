@@ -2,13 +2,15 @@
 // https://leetcode.com/problems/flood-fill/
 // Difficulty: Easy
 // Language:   Java
-// Submitted:  2026-11-13 21:02:29
+// Submitted:  2026-11-13 21:06:38
 // Runtime:    1 ms (beats 68.78%)
-// Memory:     46.2 MB (beats 91.66%)
+// Memory:     46 MB (beats 97.89%)
 // Topics:     Array, Depth-First Search, Breadth-First Search, Matrix
 
 class Solution {
     public int[][] floodFill(int[][] image, int sr, int sc, int color) {
+
+        if(image[sr][sc] == color) return image;
         fill(image, sr, sc, color, image[sr][sc]);
 
         return image;
@@ -19,7 +21,7 @@ class Solution {
             return;
         }
 
-        if(image[curRow][curCol] != curVal || curVal == color){
+        if(image[curRow][curCol] != curVal){
             return;
         }else{
             image[curRow][curCol] = color;
