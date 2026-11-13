@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-> Auto-synced from LeetCode by the LeetHub Sync browser extension. Last updated 2026-11-13 21:02:38.
+> Auto-synced from LeetCode by the LeetHub Sync browser extension. Last updated 2026-11-13 21:06:47.
 
 **Solved:** 208 · 🟢 Easy 100 · 🟡 Medium 99 · 🔴 Hard 9
 
@@ -174,7 +174,7 @@
 | 700 | [Search in a Binary Search Tree](700-search-in-a-binary-search-tree) | 🟢 Easy | Java | 2 | 2026-09-22 |
 | 704 | [Binary Search](704-binary-search) | 🟢 Easy | Java | 2 | 2026-09-22 |
 | 706 | [Design HashMap](706-design-hashmap) | 🟢 Easy | Java | 2 | 2026-09-22 |
-| 733 | [Flood Fill](733-flood-fill) | 🟢 Easy | Java | 3 | 2026-11-13 |
+| 733 | [Flood Fill](733-flood-fill) | 🟢 Easy | Java | 4 | 2026-11-13 |
 | 746 | [Min Cost Climbing Stairs](746-min-cost-climbing-stairs) | 🟢 Easy | Java | 2 | 2026-09-22 |
 | 796 | [Rotate String](796-rotate-string) | 🟢 Easy | Java | 2 | 2026-09-22 |
 | 875 | [Koko Eating Bananas](875-koko-eating-bananas) | 🟡 Medium | Java | 2 | 2026-09-22 |
