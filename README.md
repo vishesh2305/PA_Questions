@@ -1,8 +1,8 @@
 # LeetCode Solutions
 
-> Auto-synced from LeetCode by the LeetHub Sync browser extension. Last updated 2026-11-13 11:43:14.
+> Auto-synced from LeetCode by the LeetHub Sync browser extension. Last updated 2026-11-13 12:20:59.
 
-**Solved:** 207 · 🟢 Easy 100 · 🟡 Medium 98 · 🔴 Hard 9
+**Solved:** 208 · 🟢 Easy 100 · 🟡 Medium 99 · 🔴 Hard 9
 
 | # | Problem | Difficulty | Language(s) | Submissions | Last solved |
 | --- | --- | --- | --- | --- | --- |
@@ -118,6 +118,7 @@
 | 216 | [Combination Sum III](216-combination-sum-iii) | 🟡 Medium | Java | 3 | 2026-09-22 |
 | 217 | [Contains Duplicate](217-contains-duplicate) | 🟢 Easy | Java | 2 | 2026-09-22 |
 | 219 | [Contains Duplicate II](219-contains-duplicate-ii) | 🟢 Easy | C++ | 2 | 2026-09-22 |
+| 222 | [Count Complete Tree Nodes](222-count-complete-tree-nodes) | 🟡 Medium | Java | 1 | 2026-11-13 |
 | 226 | [Invert Binary Tree](226-invert-binary-tree) | 🟢 Easy | C++ | 2 | 2026-09-22 |
 | 229 | [Majority Element II](229-majority-element-ii) | 🟡 Medium | Java | 2 | 2026-09-22 |
 | 231 | [Power of Two](231-power-of-two) | 🟢 Easy | Java | 2 | 2026-09-22 |
