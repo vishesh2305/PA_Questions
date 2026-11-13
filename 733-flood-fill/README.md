@@ -3,7 +3,7 @@
 **Difficulty:** Easy  
 **Link:** [https://leetcode.com/problems/flood-fill/](https://leetcode.com/problems/flood-fill/)  
 **Topics:** `Array`, `Depth-First Search`, `Breadth-First Search`, `Matrix`  
-**Acceptance:** 68.9%
+**Acceptance:** 69.1%
 
 ---
 
