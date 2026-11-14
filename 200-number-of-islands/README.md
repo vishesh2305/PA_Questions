@@ -3,7 +3,7 @@
 **Difficulty:** Medium  
 **Link:** [https://leetcode.com/problems/number-of-islands/](https://leetcode.com/problems/number-of-islands/)  
 **Topics:** `Array`, `Depth-First Search`, `Breadth-First Search`, `Union-Find`, `Matrix`  
-**Acceptance:** 65.2%
+**Acceptance:** 65.4%
 
 ---
 
