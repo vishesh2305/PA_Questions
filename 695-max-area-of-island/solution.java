@@ -2,45 +2,39 @@
 // https://leetcode.com/problems/max-area-of-island/
 // Difficulty: Medium
 // Language:   Java
-// Submitted:  2026-09-22 02:01:18
-// Runtime:    2 ms (beats 63.24%)
-// Memory:     46.8 MB (beats 22.37%)
+// Submitted:  2026-11-14 19:59:31
+// Runtime:    3 ms (beats 35.87%)
+// Memory:     46.3 MB (beats 60.79%)
 // Topics:     Array, Depth-First Search, Breadth-First Search, Union-Find, Matrix
 
 class Solution {
     public int maxAreaOfIsland(int[][] grid) {
-
         int m = grid.length;
         int n = grid[0].length;
 
         boolean[][] visited = new boolean[m][n];
+
         int MaxCount =0;
 
         for(int i=0; i<m; i++){
             for(int j=0; j<n; j++){
-                if(visited[i][j] == true) continue;
-                MaxCount = Math.max(MaxCount, helper(grid, visited, i, j));
+                MaxCount = Math.max(MaxCount, helper(grid, i, j, visited));
             }
         }
 
         return MaxCount;
-        
+
     }
 
-    private int helper(int[][] grid, boolean[][] visited, int currRow, int currCol){
-        if(currRow < 0 || currRow >= grid.length || currCol < 0 || currCol >= grid[0].length) return 0;
-        if(grid[currRow][currCol] == 0) return 0;
-
-        if(visited[currRow][currCol] == true){
+    static private int helper(int[][] grid, int curRow, int curCol, boolean[][] visited){
+        if(curRow < 0 || curCol < 0 || curRow >= grid.length || curCol >= grid[0].length){
             return 0;
         }
+        if(visited[curRow][curCol] == true) return 0;
+        if(grid[curRow][curCol] == 0) return 0;
+        visited[curRow][curCol] = true;
 
-
-        visited[currRow][currCol] = true;
-        return (1 + helper(grid, visited, currRow, currCol+1)+
-        helper(grid, visited, currRow, currCol-1)+
-        helper(grid, visited, currRow+1, currCol)+
-        helper(grid, visited, currRow-1, currCol)); 
+        return (1+ helper(grid, curRow+1, curCol, visited) + helper(grid, curRow-1, curCol, visited) + helper(grid, curRow, curCol+1, visited)+helper(grid, curRow, curCol-1, visited));
 
     }
 }
