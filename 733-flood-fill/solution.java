@@ -2,38 +2,34 @@
 // https://leetcode.com/problems/flood-fill/
 // Difficulty: Easy
 // Language:   Java
-// Submitted:  2026-09-10 03:08:51
-// Runtime:    0 ms (beats 100.00%)
-// Memory:     46.8 MB (beats 37.93%)
+// Submitted:  2026-11-14 11:04:11
+// Runtime:    1 ms (beats 69.49%)
+// Memory:     46.2 MB (beats 84.34%)
 // Topics:     Array, Depth-First Search, Breadth-First Search, Matrix
 
 class Solution {
-    
     public int[][] floodFill(int[][] image, int sr, int sc, int color) {
+        if(image[sr][sc] == color) return image;
 
-        newImage(color, image, image[sr][sc], sr, sc);
+        fill(image, sr, sc, color, image[sr][sc]);
 
         return image;
 
     }
 
-    private void newImage(int color, int[][] image,int changeval,  int curRow, int curCol){
-
-        if(curRow >= image.length || curCol >= image[0].length || curRow < 0 || curCol < 0){
+    private static void fill(int[][] image, int curRow, int curCol, int color, int originalColor){
+        if(curRow < 0 || curCol < 0 || curRow >= image.length || curCol >= image[0].length){
             return;
         }
 
-        if(image[curRow][curCol] == color || image[curRow][curCol] != changeval){
+        if(image[curRow][curCol] != originalColor){
             return;
         }else{
             image[curRow][curCol] = color;
-            newImage(color, image, changeval, curRow+1, curCol);
-            newImage(color, image, changeval, curRow, curCol+1);
-            newImage(color, image, changeval, curRow-1, curCol);
-            newImage(color, image, changeval, curRow, curCol-1);
+            fill(image, curRow+1, curCol, color, originalColor);
+            fill(image, curRow-1, curCol, color, originalColor);
+            fill(image, curRow, curCol+1, color, originalColor);
+            fill(image, curRow, curCol-1, color, originalColor);
         }
-
-
-
     }
 }
