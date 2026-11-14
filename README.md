@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-> Auto-synced from LeetCode by the LeetHub Sync browser extension. Last updated 2026-11-15 01:21:09.
+> Auto-synced from LeetCode by the LeetHub Sync browser extension. Last updated 2026-11-15 01:28:02.
 
 **Solved:** 210 · 🟢 Easy 100 · 🟡 Medium 101 · 🔴 Hard 9
 
@@ -178,7 +178,7 @@
 | 733 | [Flood Fill](733-flood-fill) | 🟢 Easy | Java | 6 | 2026-11-14 |
 | 746 | [Min Cost Climbing Stairs](746-min-cost-climbing-stairs) | 🟢 Easy | Java | 2 | 2026-09-22 |
 | 796 | [Rotate String](796-rotate-string) | 🟢 Easy | Java | 2 | 2026-09-22 |
-| 841 | [Keys and Rooms](841-keys-and-rooms) | 🟡 Medium | Java | 1 | 2026-11-15 |
+| 841 | [Keys and Rooms](841-keys-and-rooms) | 🟡 Medium | Java | 2 | 2026-11-15 |
 | 875 | [Koko Eating Bananas](875-koko-eating-bananas) | 🟡 Medium | Java | 2 | 2026-09-22 |
 | 876 | [Middle of the Linked List](876-middle-of-the-linked-list) | 🟢 Easy | Java | 2 | 2026-09-22 |
 | 912 | [Sort an Array](912-sort-an-array) | 🟡 Medium | Java | 2 | 2026-09-22 |
