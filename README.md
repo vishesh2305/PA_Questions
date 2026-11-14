@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-> Auto-synced from LeetCode by the LeetHub Sync browser extension. Last updated 2026-11-14 11:04:19.
+> Auto-synced from LeetCode by the LeetHub Sync browser extension. Last updated 2026-11-14 19:37:15.
 
 **Solved:** 208 · 🟢 Easy 100 · 🟡 Medium 99 · 🔴 Hard 9
 
@@ -109,7 +109,7 @@
 | 197 | [Rising Temperature](197-rising-temperature) | 🟢 Easy | MySQL | 2 | 2026-09-22 |
 | 198 | [House Robber](198-house-robber) | 🟡 Medium | C++ | 2 | 2026-09-22 |
 | 199 | [Binary Tree Right Side View](199-binary-tree-right-side-view) | 🟡 Medium | Java | 2 | 2026-09-22 |
-| 200 | [Number of Islands](200-number-of-islands) | 🟡 Medium | Java | 3 | 2026-09-22 |
+| 200 | [Number of Islands](200-number-of-islands) | 🟡 Medium | Java | 4 | 2026-11-14 |
 | 203 | [Remove Linked List Elements](203-remove-linked-list-elements) | 🟢 Easy | C++ | 2 | 2026-09-22 |
 | 204 | [Count Primes](204-count-primes) | 🟡 Medium | C++, Java | 5 | 2026-10-06 |
 | 206 | [Reverse Linked List](206-reverse-linked-list) | 🟢 Easy | Java | 2 | 2026-09-22 |
