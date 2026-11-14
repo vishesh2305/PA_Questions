@@ -4,7 +4,7 @@
 // Language:   Java
 // Submitted:  2026-09-10 03:08:51
 // Runtime:    0 ms (beats 100.00%)
-// Memory:     46.8 MB (beats 61.45%)
+// Memory:     46.8 MB (beats 37.93%)
 // Topics:     Array, Depth-First Search, Breadth-First Search, Matrix
 
 class Solution {
