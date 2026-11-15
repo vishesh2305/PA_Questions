@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-> Auto-synced from LeetCode by the LeetHub Sync browser extension. Last updated 2026-11-15 17:25:02.
+> Auto-synced from LeetCode by the LeetHub Sync browser extension. Last updated 2026-11-15 17:30:14.
 
 **Solved:** 212 · 🟢 Easy 101 · 🟡 Medium 102 · 🔴 Hard 9
 
@@ -115,7 +115,7 @@
 | 204 | [Count Primes](204-count-primes) | 🟡 Medium | C++, Java | 5 | 2026-10-06 |
 | 206 | [Reverse Linked List](206-reverse-linked-list) | 🟢 Easy | Java | 2 | 2026-09-22 |
 | 209 | [Minimum Size Subarray Sum](209-minimum-size-subarray-sum) | 🟡 Medium | Java | 2 | 2026-09-22 |
-| 215 | [Kth Largest Element in an Array](215-kth-largest-element-in-an-array) | 🟡 Medium | Java | 1 | 2026-10-14 |
+| 215 | [Kth Largest Element in an Array](215-kth-largest-element-in-an-array) | 🟡 Medium | Java | 2 | 2026-11-15 |
 | 216 | [Combination Sum III](216-combination-sum-iii) | 🟡 Medium | Java | 3 | 2026-09-22 |
 | 217 | [Contains Duplicate](217-contains-duplicate) | 🟢 Easy | Java | 2 | 2026-09-22 |
 | 219 | [Contains Duplicate II](219-contains-duplicate-ii) | 🟢 Easy | C++ | 2 | 2026-09-22 |
