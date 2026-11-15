@@ -2,32 +2,29 @@
 // https://leetcode.com/problems/last-stone-weight/
 // Difficulty: Easy
 // Language:   Java
-// Submitted:  2026-10-30 20:43:59
-// Runtime:    1 ms (beats 99.63%)
-// Memory:     42.5 MB (beats 83.23%)
+// Submitted:  2026-11-15 17:24:54
+// Runtime:    2 ms (beats 39.19%)
+// Memory:     42.4 MB (beats 68.20%)
 // Topics:     Array, Heap (Priority Queue)
 
 class Solution {
     public int lastStoneWeight(int[] stones) {
+        if (stones.length == 1)
+            return stones[0];
 
         PriorityQueue<Integer> pq = new PriorityQueue<>(Collections.reverseOrder());
 
-        for(int x : stones){
-            pq.offer(x);
+        for (int i : stones) {
+            pq.add(i);
         }
 
-        while(pq.size() > 1){
-            int first = pq.poll();
-
-            int second = pq.poll();
-
-            if(first != second){
-                pq.offer(first - second);
-            }
+        for (int i = 0; i < stones.length - 1; i++) {
+            int first = pq.remove();
+            int second = pq.remove();
+            pq.add(first - second);
         }
 
-        return pq.isEmpty() ? 0 : pq.poll();
-
+        return pq.remove();
 
     }
 }
