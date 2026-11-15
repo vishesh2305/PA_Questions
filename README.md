@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-> Auto-synced from LeetCode by the LeetHub Sync browser extension. Last updated 2026-11-15 17:55:12.
+> Auto-synced from LeetCode by the LeetHub Sync browser extension. Last updated 2026-11-15 17:57:20.
 
 **Solved:** 213 · 🟢 Easy 101 · 🟡 Medium 103 · 🔴 Hard 9
 
@@ -137,7 +137,7 @@
 | 328 | [Odd Even Linked List](328-odd-even-linked-list) | 🟡 Medium | C++ | 2 | 2026-09-22 |
 | 342 | [Power of Four](342-power-of-four) | 🟢 Easy | Java | 2 | 2026-09-22 |
 | 344 | [Reverse String](344-reverse-string) | 🟢 Easy | Java | 2 | 2026-09-22 |
-| 347 | [Top K Frequent Elements](347-top-k-frequent-elements) | 🟡 Medium | Java | 4 | 2026-11-15 |
+| 347 | [Top K Frequent Elements](347-top-k-frequent-elements) | 🟡 Medium | Java | 5 | 2026-11-15 |
 | 384 | [Shuffle an Array](384-shuffle-an-array) | 🟡 Medium | Java | 2 | 2026-09-22 |
 | 387 | [First Unique Character in a String](387-first-unique-character-in-a-string) | 🟢 Easy | Java | 2 | 2026-09-22 |
 | 392 | [Is Subsequence](392-is-subsequence) | 🟢 Easy | Java | 4 | 2026-09-22 |
