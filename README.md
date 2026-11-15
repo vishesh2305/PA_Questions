@@ -1,8 +1,8 @@
 # LeetCode Solutions
 
-> Auto-synced from LeetCode by the LeetHub Sync browser extension. Last updated 2026-11-15 01:28:02.
+> Auto-synced from LeetCode by the LeetHub Sync browser extension. Last updated 2026-11-15 12:03:22.
 
-**Solved:** 210 · 🟢 Easy 100 · 🟡 Medium 101 · 🔴 Hard 9
+**Solved:** 211 · 🟢 Easy 101 · 🟡 Medium 101 · 🔴 Hard 9
 
 | # | Problem | Difficulty | Language(s) | Submissions | Last solved |
 | --- | --- | --- | --- | --- | --- |
@@ -209,6 +209,7 @@
 | 1929 | [Concatenation of Array](1929-concatenation-of-array) | 🟢 Easy | C++ | 2 | 2026-09-22 |
 | 1963 | [Minimum Number of Swaps to Make the String Balanced](1963-minimum-number-of-swaps-to-make-the-string-balanced) | 🟡 Medium | Java | 1 | 2026-11-03 |
 | 1967 | [Number of Strings That Appear as Substrings in Word](1967-number-of-strings-that-appear-as-substrings-in-word) | 🟢 Easy | Java | 2 | 2026-09-22 |
+| 1971 | [Find if Path Exists in Graph](1971-find-if-path-exists-in-graph) | 🟢 Easy | Java | 1 | 2026-11-15 |
 | 2053 | [Kth Distinct String in an Array](2053-kth-distinct-string-in-an-array) | 🟢 Easy | C++ | 2 | 2026-09-22 |
 | 2073 | [Time Needed to Buy Tickets](2073-time-needed-to-buy-tickets) | 🟢 Easy | C++, Java | 3 | 2026-11-06 |
 | 2089 | [Find Target Indices After Sorting Array](2089-find-target-indices-after-sorting-array) | 🟢 Easy | Java | 2 | 2026-09-22 |
