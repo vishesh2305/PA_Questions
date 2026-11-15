@@ -2,20 +2,25 @@
 // https://leetcode.com/problems/kth-largest-element-in-an-array/
 // Difficulty: Medium
 // Language:   Java
-// Submitted:  2026-10-14 20:05:35
-// Runtime:    70 ms (beats 44.42%)
-// Memory:     74.1 MB (beats 78.03%)
+// Submitted:  2026-11-15 17:29:52
+// Runtime:    158 ms (beats 5.96%)
+// Memory:     72.5 MB (beats 96.13%)
 // Topics:     Array, Divide and Conquer, Sorting, Heap (Priority Queue), Quickselect
 
 class Solution {
     public int findKthLargest(int[] nums, int k) {
-        PriorityQueue<Integer> pq = new PriorityQueue<>();
-        for(int num : nums){
-            pq.add(num);
-            if(pq.size() > k){
-                pq.poll();
-            }
+        PriorityQueue<Integer> pq = new PriorityQueue<>(Collections.reverseOrder());
+
+        for(int i : nums){
+            pq.add(i);
         }
+
+        while(k > 1){
+            pq.remove();
+            k--;
+        }
+
         return pq.peek();
+
     }
 }
