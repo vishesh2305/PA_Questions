@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-> Auto-synced from LeetCode by the LeetHub Sync browser extension. Last updated 2026-11-15 13:18:45.
+> Auto-synced from LeetCode by the LeetHub Sync browser extension. Last updated 2026-11-15 13:34:09.
 
 **Solved:** 212 · 🟢 Easy 101 · 🟡 Medium 102 · 🔴 Hard 9
 
@@ -141,7 +141,7 @@
 | 384 | [Shuffle an Array](384-shuffle-an-array) | 🟡 Medium | Java | 2 | 2026-09-22 |
 | 387 | [First Unique Character in a String](387-first-unique-character-in-a-string) | 🟢 Easy | Java | 2 | 2026-09-22 |
 | 392 | [Is Subsequence](392-is-subsequence) | 🟢 Easy | Java | 4 | 2026-09-22 |
-| 402 | [Remove K Digits](402-remove-k-digits) | 🟡 Medium | Java | 1 | 2026-11-15 |
+| 402 | [Remove K Digits](402-remove-k-digits) | 🟡 Medium | Java | 2 | 2026-11-15 |
 | 412 | [Fizz Buzz](412-fizz-buzz) | 🟢 Easy | Java | 2 | 2026-09-22 |
 | 424 | [Longest Repeating Character Replacement](424-longest-repeating-character-replacement) | 🟡 Medium | Java | 2 | 2026-09-22 |
 | 438 | [Find All Anagrams in a String](438-find-all-anagrams-in-a-string) | 🟡 Medium | Java | 2 | 2026-09-22 |
