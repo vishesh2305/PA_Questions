@@ -3,7 +3,7 @@
 **Difficulty:** Medium  
 **Link:** [https://leetcode.com/problems/3sum/](https://leetcode.com/problems/3sum/)  
 **Topics:** `Array`, `Two Pointers`, `Sorting`  
-**Acceptance:** 39.9%
+**Acceptance:** 40.2%
 
 ---
 
