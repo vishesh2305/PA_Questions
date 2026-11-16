@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-> Auto-synced from LeetCode by the LeetHub Sync browser extension. Last updated 2026-11-16 23:45:48.
+> Auto-synced from LeetCode by the LeetHub Sync browser extension. Last updated 2026-11-17 00:32:03.
 
 **Solved:** 213 · 🟢 Easy 101 · 🟡 Medium 103 · 🔴 Hard 9
 
@@ -14,7 +14,7 @@
 | 9 | [Palindrome Number](9-palindrome-number) | 🟢 Easy | C++ | 2 | 2026-09-22 |
 | 11 | [Container With Most Water](11-container-with-most-water) | 🟡 Medium | Java | 2 | 2026-09-22 |
 | 14 | [Longest Common Prefix](14-longest-common-prefix) | 🟢 Easy | Java | 2 | 2026-09-22 |
-| 15 | [3Sum](15-3sum) | 🟡 Medium | Java | 2 | 2026-09-22 |
+| 15 | [3Sum](15-3sum) | 🟡 Medium | Java | 3 | 2026-11-17 |
 | 17 | [Letter Combinations of a Phone Number](17-letter-combinations-of-a-phone-number) | 🟡 Medium | Java | 3 | 2026-09-22 |
 | 18 | [4Sum](18-4sum) | 🟡 Medium | Java | 2 | 2026-09-22 |
 | 19 | [Remove Nth Node From End of List](19-remove-nth-node-from-end-of-list) | 🟡 Medium | Java | 2 | 2026-09-22 |
