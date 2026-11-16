@@ -3,7 +3,7 @@
 **Difficulty:** Medium  
 **Link:** [https://leetcode.com/problems/maximum-subarray/](https://leetcode.com/problems/maximum-subarray/)  
 **Topics:** `Array`, `Divide and Conquer`, `Dynamic Programming`  
-**Acceptance:** 53.9%
+**Acceptance:** 54.1%
 
 ---
 
