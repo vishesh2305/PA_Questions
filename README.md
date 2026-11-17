@@ -1,8 +1,8 @@
 # LeetCode Solutions
 
-> Auto-synced from LeetCode by the LeetHub Sync browser extension. Last updated 2026-11-17 11:29:59.
+> Auto-synced from LeetCode by the LeetHub Sync browser extension. Last updated 2026-11-17 12:51:53.
 
-**Solved:** 214 · 🟢 Easy 101 · 🟡 Medium 104 · 🔴 Hard 9
+**Solved:** 215 · 🟢 Easy 101 · 🟡 Medium 105 · 🔴 Hard 9
 
 | # | Problem | Difficulty | Language(s) | Submissions | Last solved |
 | --- | --- | --- | --- | --- | --- |
@@ -178,6 +178,7 @@
 | 704 | [Binary Search](704-binary-search) | 🟢 Easy | Java | 2 | 2026-09-22 |
 | 706 | [Design HashMap](706-design-hashmap) | 🟢 Easy | Java | 2 | 2026-09-22 |
 | 733 | [Flood Fill](733-flood-fill) | 🟢 Easy | Java | 6 | 2026-11-14 |
+| 735 | [Asteroid Collision](735-asteroid-collision) | 🟡 Medium | Java | 1 | 2026-11-17 |
 | 746 | [Min Cost Climbing Stairs](746-min-cost-climbing-stairs) | 🟢 Easy | Java | 2 | 2026-09-22 |
 | 796 | [Rotate String](796-rotate-string) | 🟢 Easy | Java | 2 | 2026-09-22 |
 | 841 | [Keys and Rooms](841-keys-and-rooms) | 🟡 Medium | Java | 2 | 2026-11-15 |
