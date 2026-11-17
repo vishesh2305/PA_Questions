@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-> Auto-synced from LeetCode by the LeetHub Sync browser extension. Last updated 2026-11-17 13:00:09.
+> Auto-synced from LeetCode by the LeetHub Sync browser extension. Last updated 2026-11-17 14:55:12.
 
 **Solved:** 215 · 🟢 Easy 101 · 🟡 Medium 105 · 🔴 Hard 9
 
@@ -43,7 +43,7 @@
 | 51 | [N-Queens](51-n-queens) | 🔴 Hard | Java | 2 | 2026-09-22 |
 | 53 | [Maximum Subarray](53-maximum-subarray) | 🟡 Medium | Java | 4 | 2026-11-16 |
 | 54 | [Spiral Matrix](54-spiral-matrix) | 🟡 Medium | Java | 2 | 2026-09-22 |
-| 56 | [Merge Intervals](56-merge-intervals) | 🟡 Medium | Java | 2 | 2026-09-22 |
+| 56 | [Merge Intervals](56-merge-intervals) | 🟡 Medium | Java | 3 | 2026-11-17 |
 | 60 | [Permutation Sequence](60-permutation-sequence) | 🔴 Hard | Java | 6 | 2026-09-22 |
 | 61 | [Rotate List](61-rotate-list) | 🟡 Medium | Java | 2 | 2026-09-22 |
 | 62 | [Unique Paths](62-unique-paths) | 🟡 Medium | Java | 3 | 2026-09-22 |
