@@ -2,44 +2,35 @@
 // https://leetcode.com/problems/longest-consecutive-sequence/
 // Difficulty: Medium
 // Language:   Java
-// Submitted:  2026-11-18 01:04:10
+// Submitted:  2026-11-18 01:09:23
 // Runtime:    30 ms (beats 77.79%)
-// Memory:     95.2 MB (beats 51.32%)
+// Memory:     95.6 MB (beats 32.49%)
 // Topics:     Array, Hash Table, Union-Find
 
 class Solution {
     public int longestConsecutive(int[] nums) {
-
-        if(nums == null || nums.length == 0){
-            return 0;
-        }
         HashSet<Integer> set = new HashSet<>();
-        
+
         for(int i : nums){
             set.add(i);
         }
 
-        int MaxStreak = 0;
+        int longestStreak = 0;
 
         for(int i : set){
             if(!set.contains(i-1)){
                 int num = i;
                 int curStreak = 1;
-            
 
-            while(set.contains(num+1)){
-                num += 1;
-                curStreak++;
+                while(set.contains(num+1)){
+                    num+=1;
+                    curStreak++;
+                }
+
+                longestStreak = Math.max(longestStreak, curStreak);
             }
-
-            MaxStreak = Math.max(MaxStreak, curStreak);
-            };
-
         }
 
-        return MaxStreak;
-
-        
-
+        return longestStreak;
     }
 }
