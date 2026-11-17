@@ -3,7 +3,7 @@
 **Difficulty:** Medium  
 **Link:** [https://leetcode.com/problems/group-anagrams/](https://leetcode.com/problems/group-anagrams/)  
 **Topics:** `Array`, `Hash Table`, `String`, `Sorting`  
-**Acceptance:** 73.3%
+**Acceptance:** 73.5%
 
 ---
 
