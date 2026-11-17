@@ -3,7 +3,7 @@
 **Difficulty:** Medium  
 **Link:** [https://leetcode.com/problems/longest-consecutive-sequence/](https://leetcode.com/problems/longest-consecutive-sequence/)  
 **Topics:** `Array`, `Hash Table`, `Union-Find`  
-**Acceptance:** 47.2%
+**Acceptance:** 47.3%
 
 ---
 
