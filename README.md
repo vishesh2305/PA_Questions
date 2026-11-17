@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-> Auto-synced from LeetCode by the LeetHub Sync browser extension. Last updated 2026-11-17 15:03:10.
+> Auto-synced from LeetCode by the LeetHub Sync browser extension. Last updated 2026-11-17 20:15:26.
 
 **Solved:** 215 · 🟢 Easy 101 · 🟡 Medium 105 · 🔴 Hard 9
 
@@ -38,12 +38,12 @@
 | 46 | [Permutations](46-permutations) | 🟡 Medium | Java | 5 | 2026-09-22 |
 | 47 | [Permutations II](47-permutations-ii) | 🟡 Medium | Java | 4 | 2026-09-22 |
 | 48 | [Rotate Image](48-rotate-image) | 🟡 Medium | Java | 2 | 2026-09-22 |
-| 49 | [Group Anagrams](49-group-anagrams) | 🟡 Medium | Java | 2 | 2026-09-22 |
+| 49 | [Group Anagrams](49-group-anagrams) | 🟡 Medium | Java | 3 | 2026-11-17 |
 | 50 | [Pow(x, n)](50-powx-n) | 🟡 Medium | Java | 2 | 2026-09-22 |
 | 51 | [N-Queens](51-n-queens) | 🔴 Hard | Java | 2 | 2026-09-22 |
 | 53 | [Maximum Subarray](53-maximum-subarray) | 🟡 Medium | Java | 4 | 2026-11-16 |
 | 54 | [Spiral Matrix](54-spiral-matrix) | 🟡 Medium | Java | 2 | 2026-09-22 |
-| 56 | [Merge Intervals](56-merge-intervals) | 🟡 Medium | Java | 5 | 2026-11-17 |
+| 56 | [Merge Intervals](56-merge-intervals) | 🟡 Medium | Java | 6 | 2026-11-17 |
 | 60 | [Permutation Sequence](60-permutation-sequence) | 🔴 Hard | Java | 6 | 2026-09-22 |
 | 61 | [Rotate List](61-rotate-list) | 🟡 Medium | Java | 2 | 2026-09-22 |
 | 62 | [Unique Paths](62-unique-paths) | 🟡 Medium | Java | 3 | 2026-09-22 |
