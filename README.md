@@ -1,8 +1,8 @@
 # LeetCode Solutions
 
-> Auto-synced from LeetCode by the LeetHub Sync browser extension. Last updated 2026-11-18 20:06:24.
+> Auto-synced from LeetCode by the LeetHub Sync browser extension. Last updated 2026-11-18 20:32:11.
 
-**Solved:** 215 · 🟢 Easy 101 · 🟡 Medium 105 · 🔴 Hard 9
+**Solved:** 216 · 🟢 Easy 101 · 🟡 Medium 106 · 🔴 Hard 9
 
 | # | Problem | Difficulty | Language(s) | Submissions | Last solved |
 | --- | --- | --- | --- | --- | --- |
@@ -173,6 +173,7 @@
 | 662 | [Maximum Width of Binary Tree](662-maximum-width-of-binary-tree) | 🟡 Medium | Java | 2 | 2026-09-22 |
 | 678 | [Valid Parenthesis String](678-valid-parenthesis-string) | 🟡 Medium | Java | 2 | 2026-09-22 |
 | 680 | [Valid Palindrome II](680-valid-palindrome-ii) | 🟢 Easy | Java | 2 | 2026-09-22 |
+| 692 | [Top K Frequent Words](692-top-k-frequent-words) | 🟡 Medium | Java | 1 | 2026-11-18 |
 | 695 | [Max Area of Island](695-max-area-of-island) | 🟡 Medium | Java | 4 | 2026-11-14 |
 | 700 | [Search in a Binary Search Tree](700-search-in-a-binary-search-tree) | 🟢 Easy | Java | 2 | 2026-09-22 |
 | 704 | [Binary Search](704-binary-search) | 🟢 Easy | Java | 2 | 2026-09-22 |
