@@ -3,7 +3,7 @@
 **Difficulty:** Hard  
 **Link:** [https://leetcode.com/problems/minimum-window-substring/](https://leetcode.com/problems/minimum-window-substring/)  
 **Topics:** `Hash Table`, `String`, `Sliding Window`  
-**Acceptance:** 48.5%
+**Acceptance:** 48.8%
 
 ---
 
