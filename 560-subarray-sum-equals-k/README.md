@@ -3,7 +3,7 @@
 **Difficulty:** Medium  
 **Link:** [https://leetcode.com/problems/subarray-sum-equals-k/](https://leetcode.com/problems/subarray-sum-equals-k/)  
 **Topics:** `Array`, `Hash Table`, `Prefix Sum`  
-**Acceptance:** 48.2%
+**Acceptance:** 48.4%
 
 ---
 
