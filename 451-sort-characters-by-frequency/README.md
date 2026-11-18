@@ -3,7 +3,7 @@
 **Difficulty:** Medium  
 **Link:** [https://leetcode.com/problems/sort-characters-by-frequency/](https://leetcode.com/problems/sort-characters-by-frequency/)  
 **Topics:** `Hash Table`, `String`, `Sorting`, `Heap (Priority Queue)`, `Bucket Sort`, `Counting`  
-**Acceptance:** 75.8%
+**Acceptance:** 75.9%
 
 ---
 
