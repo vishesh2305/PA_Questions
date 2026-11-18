@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-> Auto-synced from LeetCode by the LeetHub Sync browser extension. Last updated 2026-11-18 20:59:57.
+> Auto-synced from LeetCode by the LeetHub Sync browser extension. Last updated 2026-11-18 22:28:40.
 
 **Solved:** 216 · 🟢 Easy 101 · 🟡 Medium 106 · 🔴 Hard 9
 
@@ -53,7 +53,7 @@
 | 73 | [Set Matrix Zeroes](73-set-matrix-zeroes) | 🟡 Medium | Java | 2 | 2026-09-22 |
 | 74 | [Search a 2D Matrix](74-search-a-2d-matrix) | 🟡 Medium | Java | 2 | 2026-09-22 |
 | 75 | [Sort Colors](75-sort-colors) | 🟡 Medium | Java | 2 | 2026-09-22 |
-| 76 | [Minimum Window Substring](76-minimum-window-substring) | 🔴 Hard | Java | 3 | 2026-11-18 |
+| 76 | [Minimum Window Substring](76-minimum-window-substring) | 🔴 Hard | Java | 4 | 2026-11-18 |
 | 77 | [Combinations](77-combinations) | 🟡 Medium | Java | 2 | 2026-09-22 |
 | 78 | [Subsets](78-subsets) | 🟡 Medium | Java | 2 | 2026-09-22 |
 | 79 | [Word Search](79-word-search) | 🟡 Medium | Java | 3 | 2026-09-22 |
