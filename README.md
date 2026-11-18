@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-> Auto-synced from LeetCode by the LeetHub Sync browser extension. Last updated 2026-11-18 19:28:54.
+> Auto-synced from LeetCode by the LeetHub Sync browser extension. Last updated 2026-11-18 19:37:52.
 
 **Solved:** 215 · 🟢 Easy 101 · 🟡 Medium 105 · 🔴 Hard 9
 
@@ -160,7 +160,7 @@
 | 541 | [Reverse String II](541-reverse-string-ii) | 🟢 Easy | Java | 2 | 2026-09-22 |
 | 543 | [Diameter of Binary Tree](543-diameter-of-binary-tree) | 🟢 Easy | Java | 2 | 2026-09-22 |
 | 556 | [Next Greater Element III](556-next-greater-element-iii) | 🟡 Medium | Java | 2 | 2026-09-22 |
-| 560 | [Subarray Sum Equals K](560-subarray-sum-equals-k) | 🟡 Medium | Java | 2 | 2026-09-22 |
+| 560 | [Subarray Sum Equals K](560-subarray-sum-equals-k) | 🟡 Medium | Java | 3 | 2026-11-18 |
 | 567 | [Permutation in String](567-permutation-in-string) | 🟡 Medium | Java | 2 | 2026-09-22 |
 | 577 | [Employee Bonus](577-employee-bonus) | 🟢 Easy | MySQL | 2 | 2026-09-22 |
 | 584 | [Find Customer Referee](584-find-customer-referee) | 🟢 Easy | MySQL | 2 | 2026-09-22 |
