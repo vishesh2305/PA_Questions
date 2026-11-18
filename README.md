@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-> Auto-synced from LeetCode by the LeetHub Sync browser extension. Last updated 2026-11-18 19:37:52.
+> Auto-synced from LeetCode by the LeetHub Sync browser extension. Last updated 2026-11-18 20:06:24.
 
 **Solved:** 215 · 🟢 Easy 101 · 🟡 Medium 105 · 🔴 Hard 9
 
@@ -146,7 +146,7 @@
 | 412 | [Fizz Buzz](412-fizz-buzz) | 🟢 Easy | Java | 2 | 2026-09-22 |
 | 424 | [Longest Repeating Character Replacement](424-longest-repeating-character-replacement) | 🟡 Medium | Java | 2 | 2026-09-22 |
 | 438 | [Find All Anagrams in a String](438-find-all-anagrams-in-a-string) | 🟡 Medium | Java | 2 | 2026-09-22 |
-| 451 | [Sort Characters By Frequency](451-sort-characters-by-frequency) | 🟡 Medium | C++ | 2 | 2026-09-22 |
+| 451 | [Sort Characters By Frequency](451-sort-characters-by-frequency) | 🟡 Medium | C++, Java | 3 | 2026-11-18 |
 | 455 | [Assign Cookies](455-assign-cookies) | 🟢 Easy | Java | 2 | 2026-09-22 |
 | 485 | [Max Consecutive Ones](485-max-consecutive-ones) | 🟢 Easy | Java | 2 | 2026-09-22 |
 | 491 | [Non-decreasing Subsequences](491-non-decreasing-subsequences) | 🟡 Medium | Java | 5 | 2026-09-22 |
