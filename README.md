@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-> Auto-synced from LeetCode by the LeetHub Sync browser extension. Last updated 2026-11-20 01:38:59.
+> Auto-synced from LeetCode by the LeetHub Sync browser extension. Last updated 2026-11-20 01:42:02.
 
 **Solved:** 218 · 🟢 Easy 101 · 🟡 Medium 107 · 🔴 Hard 10
 
@@ -184,7 +184,7 @@
 | 746 | [Min Cost Climbing Stairs](746-min-cost-climbing-stairs) | 🟢 Easy | Java | 2 | 2026-09-22 |
 | 796 | [Rotate String](796-rotate-string) | 🟢 Easy | Java | 2 | 2026-09-22 |
 | 841 | [Keys and Rooms](841-keys-and-rooms) | 🟡 Medium | Java | 2 | 2026-11-15 |
-| 875 | [Koko Eating Bananas](875-koko-eating-bananas) | 🟡 Medium | Java | 3 | 2026-11-20 |
+| 875 | [Koko Eating Bananas](875-koko-eating-bananas) | 🟡 Medium | Java | 4 | 2026-11-20 |
 | 876 | [Middle of the Linked List](876-middle-of-the-linked-list) | 🟢 Easy | Java | 2 | 2026-09-22 |
 | 912 | [Sort an Array](912-sort-an-array) | 🟡 Medium | Java | 2 | 2026-09-22 |
 | 921 | [Minimum Add to Make Parentheses Valid](921-minimum-add-to-make-parentheses-valid) | 🟡 Medium | C++ | 2 | 2026-09-22 |
