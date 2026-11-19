@@ -1,8 +1,8 @@
 # LeetCode Solutions
 
-> Auto-synced from LeetCode by the LeetHub Sync browser extension. Last updated 2026-11-19 14:01:27.
+> Auto-synced from LeetCode by the LeetHub Sync browser extension. Last updated 2026-11-19 14:26:47.
 
-**Solved:** 217 · 🟢 Easy 101 · 🟡 Medium 106 · 🔴 Hard 10
+**Solved:** 218 · 🟢 Easy 101 · 🟡 Medium 107 · 🔴 Hard 10
 
 | # | Problem | Difficulty | Language(s) | Submissions | Last solved |
 | --- | --- | --- | --- | --- | --- |
@@ -127,6 +127,7 @@
 | 232 | [Implement Queue using Stacks](232-implement-queue-using-stacks) | 🟢 Easy | Java | 1 | 2026-11-06 |
 | 234 | [Palindrome Linked List](234-palindrome-linked-list) | 🟢 Easy | Java | 2 | 2026-09-22 |
 | 235 | [Lowest Common Ancestor of a Binary Search Tree](235-lowest-common-ancestor-of-a-binary-search-tree) | 🟡 Medium | Java | 2 | 2026-09-22 |
+| 236 | [Lowest Common Ancestor of a Binary Tree](236-lowest-common-ancestor-of-a-binary-tree) | 🟡 Medium | Java | 1 | 2026-11-19 |
 | 237 | [Delete Node in a Linked List](237-delete-node-in-a-linked-list) | 🟡 Medium | Java | 2 | 2026-09-22 |
 | 238 | [Product of Array Except Self](238-product-of-array-except-self) | 🟡 Medium | Java | 2 | 2026-09-22 |
 | 239 | [Sliding Window Maximum](239-sliding-window-maximum) | 🔴 Hard | Java | 4 | 2026-10-14 |
