@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-> Auto-synced from LeetCode by the LeetHub Sync browser extension. Last updated 2026-11-19 14:29:56.
+> Auto-synced from LeetCode by the LeetHub Sync browser extension. Last updated 2026-11-19 14:36:04.
 
 **Solved:** 218 · 🟢 Easy 101 · 🟡 Medium 107 · 🔴 Hard 10
 
@@ -120,7 +120,7 @@
 | 216 | [Combination Sum III](216-combination-sum-iii) | 🟡 Medium | Java | 3 | 2026-09-22 |
 | 217 | [Contains Duplicate](217-contains-duplicate) | 🟢 Easy | Java | 2 | 2026-09-22 |
 | 219 | [Contains Duplicate II](219-contains-duplicate-ii) | 🟢 Easy | C++ | 2 | 2026-09-22 |
-| 222 | [Count Complete Tree Nodes](222-count-complete-tree-nodes) | 🟡 Medium | Java | 1 | 2026-11-13 |
+| 222 | [Count Complete Tree Nodes](222-count-complete-tree-nodes) | 🟡 Medium | Java | 2 | 2026-11-19 |
 | 226 | [Invert Binary Tree](226-invert-binary-tree) | 🟢 Easy | C++ | 2 | 2026-09-22 |
 | 229 | [Majority Element II](229-majority-element-ii) | 🟡 Medium | Java | 2 | 2026-09-22 |
 | 231 | [Power of Two](231-power-of-two) | 🟢 Easy | Java | 2 | 2026-09-22 |
