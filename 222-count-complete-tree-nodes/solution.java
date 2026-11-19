@@ -2,9 +2,9 @@
 // https://leetcode.com/problems/count-complete-tree-nodes/
 // Difficulty: Medium
 // Language:   Java
-// Submitted:  2026-11-13 12:20:48
+// Submitted:  2026-11-19 14:35:54
 // Runtime:    0 ms (beats 100.00%)
-// Memory:     48.6 MB (beats 97.87%)
+// Memory:     49.2 MB (beats 47.61%)
 // Topics:     Binary Search, Bit Manipulation, Tree, Binary Tree
 
 /**
@@ -23,8 +23,11 @@
  * }
  */
 class Solution {
-    private int leftheight(TreeNode root){
+    private int lh(TreeNode root){
+        if(root==null) return 0;
+
         int height =0;
+
         while(root != null){
             height++;
             root = root.left;
@@ -32,8 +35,11 @@ class Solution {
 
         return height;
     }
-    private int rightheight(TreeNode root){
+    private int rh(TreeNode root){
+        if(root==null) return 0;
+
         int height =0;
+
         while(root != null){
             height++;
             root = root.right;
@@ -41,14 +47,16 @@ class Solution {
 
         return height;
     }
+
+
     public int countNodes(TreeNode root) {
         if(root==null) return 0;
 
-        int lh = leftheight(root);
-        int rh = rightheight(root);
+        int leftheight = lh(root);
+        int rightheight = rh(root);
 
-        if(lh == rh){
-            return (int) Math.pow(2, lh) - 1;
+        if(leftheight == rightheight){
+            return (int) Math.pow(2, leftheight)-1;
         }
 
         return 1 + countNodes(root.left) + countNodes(root.right);
