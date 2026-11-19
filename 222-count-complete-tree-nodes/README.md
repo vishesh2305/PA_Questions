@@ -3,7 +3,7 @@
 **Difficulty:** Medium  
 **Link:** [https://leetcode.com/problems/count-complete-tree-nodes/](https://leetcode.com/problems/count-complete-tree-nodes/)  
 **Topics:** `Binary Search`, `Bit Manipulation`, `Tree`, `Binary Tree`  
-**Acceptance:** 72.0%
+**Acceptance:** 71.9%
 
 ---
 
