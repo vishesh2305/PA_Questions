@@ -1,8 +1,8 @@
 # LeetCode Solutions
 
-> Auto-synced from LeetCode by the LeetHub Sync browser extension. Last updated 2026-11-18 22:28:40.
+> Auto-synced from LeetCode by the LeetHub Sync browser extension. Last updated 2026-11-19 14:01:27.
 
-**Solved:** 216 · 🟢 Easy 101 · 🟡 Medium 106 · 🔴 Hard 9
+**Solved:** 217 · 🟢 Easy 101 · 🟡 Medium 106 · 🔴 Hard 10
 
 | # | Problem | Difficulty | Language(s) | Submissions | Last solved |
 | --- | --- | --- | --- | --- | --- |
@@ -189,6 +189,7 @@
 | 921 | [Minimum Add to Make Parentheses Valid](921-minimum-add-to-make-parentheses-valid) | 🟡 Medium | C++ | 2 | 2026-09-22 |
 | 933 | [Number of Recent Calls](933-number-of-recent-calls) | 🟢 Easy | Java | 1 | 2026-10-06 |
 | 977 | [Squares of a Sorted Array](977-squares-of-a-sorted-array) | 🟢 Easy | Java | 2 | 2026-09-22 |
+| 992 | [Subarrays with K Different Integers](992-subarrays-with-k-different-integers) | 🔴 Hard | Java | 1 | 2026-11-19 |
 | 997 | [Find the Town Judge](997-find-the-town-judge) | 🟢 Easy | C++ | 2 | 2026-09-22 |
 | 1008 | [Construct Binary Search Tree from Preorder Traversal](1008-construct-binary-search-tree-from-preorder-traversal) | 🟡 Medium | Java | 2 | 2026-09-22 |
 | 1021 | [Remove Outermost Parentheses](1021-remove-outermost-parentheses) | 🟢 Easy | Java | 2 | 2026-09-22 |
