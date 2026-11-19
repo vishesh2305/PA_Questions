@@ -2,9 +2,9 @@
 // https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/
 // Difficulty: Medium
 // Language:   Java
-// Submitted:  2026-11-19 14:28:19
+// Submitted:  2026-11-19 14:29:47
 // Runtime:    18 ms (beats 54.46%)
-// Memory:     70 MB (beats 53.35%)
+// Memory:     70.1 MB (beats 22.45%)
 // Topics:     Tree, Depth-First Search, Binary Tree, Binary Lifting, Lowest Common Ancestor
 
 /**
@@ -18,9 +18,7 @@
  */
 class Solution {
     public TreeNode lowestCommonAncestor(TreeNode root, TreeNode p, TreeNode q) {
-        if(root==null) return null;
-
-        if(root== p || root== q) return root;
+        if(root==null || root== p || root== q) return root;
 
         TreeNode left = lowestCommonAncestor(root.left, p, q);
         TreeNode right = lowestCommonAncestor(root.right, p, q);
@@ -29,6 +27,6 @@ class Solution {
 
         if(left != null) return left;
 
-        return right;
+        return left == null ? right:left;
     }
 }
