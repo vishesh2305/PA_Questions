@@ -2,9 +2,9 @@
 // https://leetcode.com/problems/koko-eating-bananas/
 // Difficulty: Medium
 // Language:   Java
-// Submitted:  2026-11-20 01:38:49
+// Submitted:  2026-11-20 01:41:54
 // Runtime:    8 ms (beats 75.46%)
-// Memory:     47.2 MB (beats 83.09%)
+// Memory:     47.9 MB (beats 31.70%)
 // Topics:     Array, Binary Search
 
 class Solution {
@@ -12,7 +12,7 @@ class Solution {
         int left = 1;
         int right = Integer.MIN_VALUE;
 
-        for(int i: piles){
+        for(int i : piles){
             if(i > right){
                 right = i;
             }
@@ -23,9 +23,8 @@ class Solution {
         while(left <= right){
             int mid = left + (right - left)/2;
             long total_hours = 0;
-
             for(int pile : piles){
-                total_hours += (pile + mid - 1)/mid;
+                total_hours += (pile + mid -1)/mid;
             }
 
             if(total_hours <= h){
@@ -37,8 +36,5 @@ class Solution {
         }
 
         return ans;
-
-
-
     }
 }
