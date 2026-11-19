@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-> Auto-synced from LeetCode by the LeetHub Sync browser extension. Last updated 2026-11-20 02:09:51.
+> Auto-synced from LeetCode by the LeetHub Sync browser extension. Last updated 2026-11-20 02:14:53.
 
 **Solved:** 219 · 🟢 Easy 101 · 🟡 Medium 108 · 🔴 Hard 10
 
@@ -142,7 +142,7 @@
 | 347 | [Top K Frequent Elements](347-top-k-frequent-elements) | 🟡 Medium | Java | 5 | 2026-11-15 |
 | 384 | [Shuffle an Array](384-shuffle-an-array) | 🟡 Medium | Java | 2 | 2026-09-22 |
 | 387 | [First Unique Character in a String](387-first-unique-character-in-a-string) | 🟢 Easy | Java | 2 | 2026-09-22 |
-| 390 | [Elimination Game](390-elimination-game) | 🟡 Medium | Java | 1 | 2026-11-20 |
+| 390 | [Elimination Game](390-elimination-game) | 🟡 Medium | Java | 2 | 2026-11-20 |
 | 392 | [Is Subsequence](392-is-subsequence) | 🟢 Easy | Java | 4 | 2026-09-22 |
 | 402 | [Remove K Digits](402-remove-k-digits) | 🟡 Medium | Java | 2 | 2026-11-15 |
 | 412 | [Fizz Buzz](412-fizz-buzz) | 🟢 Easy | Java | 2 | 2026-09-22 |
