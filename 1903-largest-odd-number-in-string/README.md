@@ -3,7 +3,7 @@
 **Difficulty:** Easy  
 **Link:** [https://leetcode.com/problems/largest-odd-number-in-string/](https://leetcode.com/problems/largest-odd-number-in-string/)  
 **Topics:** `Math`, `String`, `Greedy`  
-**Acceptance:** 68.2%
+**Acceptance:** 68.3%
 
 ---
 
