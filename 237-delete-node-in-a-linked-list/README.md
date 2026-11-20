@@ -3,7 +3,7 @@
 **Difficulty:** Medium  
 **Link:** [https://leetcode.com/problems/delete-node-in-a-linked-list/](https://leetcode.com/problems/delete-node-in-a-linked-list/)  
 **Topics:** `Linked List`  
-**Acceptance:** 84.4%
+**Acceptance:** 84.6%
 
 ---
 
