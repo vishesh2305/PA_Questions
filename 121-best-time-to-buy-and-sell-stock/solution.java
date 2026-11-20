@@ -2,26 +2,27 @@
 // https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
 // Difficulty: Easy
 // Language:   Java
-// Submitted:  2026-08-06 14:30:09
+// Submitted:  2026-11-21 01:32:01
 // Runtime:    1 ms (beats 99.94%)
-// Memory:     94.2 MB (beats 48.17%)
+// Memory:     93.8 MB (beats 89.71%)
 // Topics:     Array, Dynamic Programming
 
 class Solution {
     public int maxProfit(int[] prices) {
+        
+        int MaxProfit = 0;
 
-        int n = prices.length;
+        int sellDay = Integer.MIN_VALUE;
 
-        int MaxProfit=0;
-
-        int sell = Integer.MIN_VALUE;
-
-        for(int i=n-1; i>=0; i--){
-            if(prices[i]>sell){
-                sell = prices[i];
+        for(int i = prices.length - 1; i >= 0; i--){
+            if(prices[i] > sellDay){
+                sellDay = prices[i];
             }
-            MaxProfit = Math.max(MaxProfit, sell - prices[i]);
+
+            MaxProfit = Math.max(MaxProfit, sellDay - prices[i]);
         }
+
         return MaxProfit;
+
     }
 }
