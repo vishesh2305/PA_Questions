@@ -4,7 +4,7 @@
 # Language:   Python
 # Submitted:  2026-06-23 11:06:40
 # Runtime:    0 ms (beats 100.00%)
-# Memory:     12.4 MB (beats 96.92%)
+# Memory:     12.4 MB (beats 65.50%)
 # Topics:     Array, Binary Search
 
 class Solution(object):
