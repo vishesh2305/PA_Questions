@@ -3,7 +3,7 @@
 **Difficulty:** Easy  
 **Link:** [https://leetcode.com/problems/remove-duplicates-from-sorted-list/](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)  
 **Topics:** `Linked List`  
-**Acceptance:** 57.6%
+**Acceptance:** 57.8%
 
 ---
 
