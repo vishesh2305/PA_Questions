@@ -3,7 +3,7 @@
 **Difficulty:** Medium  
 **Link:** [https://leetcode.com/problems/permutation-in-string/](https://leetcode.com/problems/permutation-in-string/)  
 **Topics:** `Hash Table`, `Two Pointers`, `String`, `Sliding Window`  
-**Acceptance:** 49.8%
+**Acceptance:** 50.0%
 
 ---
 
