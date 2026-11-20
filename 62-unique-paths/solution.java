@@ -4,7 +4,7 @@
 // Language:   Java
 // Submitted:  2026-09-10 02:11:36
 // Runtime:    0 ms (beats 100.00%)
-// Memory:     42.1 MB (beats 47.37%)
+// Memory:     42.1 MB (beats 24.37%)
 // Topics:     Math, Dynamic Programming, Combinatorics
 
 class Solution {
