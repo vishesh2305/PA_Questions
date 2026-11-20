@@ -3,7 +3,7 @@
 **Difficulty:** Hard  
 **Link:** [https://leetcode.com/problems/binary-tree-maximum-path-sum/](https://leetcode.com/problems/binary-tree-maximum-path-sum/)  
 **Topics:** `Dynamic Programming`, `Tree`, `Depth-First Search`, `Binary Tree`, `DP on Trees`  
-**Acceptance:** 42.8%
+**Acceptance:** 43.0%
 
 ---
 
