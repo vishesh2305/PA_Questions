@@ -2,9 +2,9 @@
 // https://leetcode.com/problems/merge-intervals/
 // Difficulty: Medium
 // Language:   Java
-// Submitted:  2026-11-17 15:03:01
-// Runtime:    12 ms (beats 8.48%)
-// Memory:     48.6 MB (beats 69.39%)
+// Submitted:  2026-11-20 11:03:00
+// Runtime:    8 ms (beats 93.62%)
+// Memory:     49 MB (beats 39.79%)
 // Topics:     Array, Sorting, Quicksort
 
 class Solution {
@@ -21,6 +21,8 @@ class Solution {
             }
         }
 
+
         return result.toArray(new int[result.size()][]);
+
     }
 }
