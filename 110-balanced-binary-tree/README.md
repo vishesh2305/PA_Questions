@@ -3,7 +3,7 @@
 **Difficulty:** Easy  
 **Link:** [https://leetcode.com/problems/balanced-binary-tree/](https://leetcode.com/problems/balanced-binary-tree/)  
 **Topics:** `Tree`, `Depth-First Search`, `Binary Tree`  
-**Acceptance:** 59.2%
+**Acceptance:** 59.5%
 
 ---
 
