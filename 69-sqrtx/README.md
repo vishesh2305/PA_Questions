@@ -3,7 +3,7 @@
 **Difficulty:** Easy  
 **Link:** [https://leetcode.com/problems/sqrtx/](https://leetcode.com/problems/sqrtx/)  
 **Topics:** `Math`, `Binary Search`, `Newton's Method`  
-**Acceptance:** 42.3%
+**Acceptance:** 42.4%
 
 ---
 
