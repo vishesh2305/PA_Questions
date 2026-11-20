@@ -3,7 +3,7 @@
 **Difficulty:** Medium  
 **Link:** [https://leetcode.com/problems/sort-colors/](https://leetcode.com/problems/sort-colors/)  
 **Topics:** `Array`, `Two Pointers`, `Sorting`, `Quicksort`, `Bubble Sort`  
-**Acceptance:** 70.2%
+**Acceptance:** 70.3%
 
 ---
 
