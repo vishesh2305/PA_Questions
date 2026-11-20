@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-> Auto-synced from LeetCode by the LeetHub Sync browser extension. Last updated 2026-11-20 12:46:05.
+> Auto-synced from LeetCode by the LeetHub Sync browser extension. Last updated 2026-11-20 12:50:53.
 
 **Solved:** 221 · 🟢 Easy 102 · 🟡 Medium 109 · 🔴 Hard 10
 
@@ -133,7 +133,7 @@
 | 237 | [Delete Node in a Linked List](237-delete-node-in-a-linked-list) | 🟡 Medium | Java | 2 | 2026-09-22 |
 | 238 | [Product of Array Except Self](238-product-of-array-except-self) | 🟡 Medium | Java | 2 | 2026-09-22 |
 | 239 | [Sliding Window Maximum](239-sliding-window-maximum) | 🔴 Hard | Java | 4 | 2026-10-14 |
-| 242 | [Valid Anagram](242-valid-anagram) | 🟢 Easy | Java | 2 | 2026-09-22 |
+| 242 | [Valid Anagram](242-valid-anagram) | 🟢 Easy | Java | 3 | 2026-11-20 |
 | 278 | [First Bad Version](278-first-bad-version) | 🟢 Easy | Java | 2 | 2026-09-22 |
 | 283 | [Move Zeroes](283-move-zeroes) | 🟢 Easy | Java | 2 | 2026-09-22 |
 | 287 | [Find the Duplicate Number](287-find-the-duplicate-number) | 🟡 Medium | Java | 2 | 2026-09-22 |
