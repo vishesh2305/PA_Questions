@@ -3,7 +3,7 @@
 **Difficulty:** Medium  
 **Link:** [https://leetcode.com/problems/combinations/](https://leetcode.com/problems/combinations/)  
 **Topics:** `Backtracking`  
-**Acceptance:** 75.2%
+**Acceptance:** 75.4%
 
 ---
 
