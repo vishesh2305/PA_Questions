@@ -3,7 +3,7 @@
 **Difficulty:** Medium  
 **Link:** [https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)  
 **Topics:** `Array`, `Two Pointers`, `Binary Search`  
-**Acceptance:** 65.9%
+**Acceptance:** 66.1%
 
 ---
 
