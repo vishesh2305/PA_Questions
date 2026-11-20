@@ -4,7 +4,7 @@
 // Language:   C++
 // Submitted:  2026-01-04 00:58:23
 // Runtime:    0 ms (beats 100.00%)
-// Memory:     8.5 MB (beats 56.46%)
+// Memory:     8.5 MB (beats 48.11%)
 // Topics:     String, Stack, Greedy, Bracket Sequences
 
 class Solution {
