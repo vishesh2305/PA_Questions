@@ -4,7 +4,7 @@
 // Language:   C++
 // Submitted:  2025-12-23 01:04:15
 // Runtime:    0 ms (beats 100.00%)
-// Memory:     13.4 MB (beats 52.24%)
+// Memory:     13.4 MB (beats 43.62%)
 // Topics:     Array
 
 class Solution {
