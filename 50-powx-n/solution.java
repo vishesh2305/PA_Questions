@@ -4,7 +4,7 @@
 // Language:   Java
 // Submitted:  2026-08-15 02:26:52
 // Runtime:    0 ms (beats 100.00%)
-// Memory:     47.6 MB (beats 77.16%)
+// Memory:     47.6 MB (beats 60.55%)
 // Topics:     Math, Recursion
 
 class Solution {
