@@ -3,7 +3,7 @@
 **Difficulty:** Medium  
 **Link:** [https://leetcode.com/problems/merge-intervals/](https://leetcode.com/problems/merge-intervals/)  
 **Topics:** `Array`, `Sorting`, `Quicksort`  
-**Acceptance:** 53.1%
+**Acceptance:** 53.2%
 
 ---
 
