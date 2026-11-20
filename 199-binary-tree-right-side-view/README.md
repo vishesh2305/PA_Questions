@@ -3,7 +3,7 @@
 **Difficulty:** Medium  
 **Link:** [https://leetcode.com/problems/binary-tree-right-side-view/](https://leetcode.com/problems/binary-tree-right-side-view/)  
 **Topics:** `Tree`, `Depth-First Search`, `Breadth-First Search`, `Binary Tree`  
-**Acceptance:** 71.3%
+**Acceptance:** 71.6%
 
 ---
 
