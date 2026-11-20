@@ -3,7 +3,7 @@
 **Difficulty:** Medium  
 **Link:** [https://leetcode.com/problems/search-in-rotated-sorted-array/](https://leetcode.com/problems/search-in-rotated-sorted-array/)  
 **Topics:** `Array`, `Binary Search`  
-**Acceptance:** 45.7%
+**Acceptance:** 45.9%
 
 ---
 
