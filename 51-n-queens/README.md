@@ -3,7 +3,7 @@
 **Difficulty:** Hard  
 **Link:** [https://leetcode.com/problems/n-queens/](https://leetcode.com/problems/n-queens/)  
 **Topics:** `Array`, `Backtracking`, `Algorithm X`  
-**Acceptance:** 76.5%
+**Acceptance:** 76.8%
 
 ---
 
