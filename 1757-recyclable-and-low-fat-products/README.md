@@ -3,7 +3,7 @@
 **Difficulty:** Easy  
 **Link:** [https://leetcode.com/problems/recyclable-and-low-fat-products/](https://leetcode.com/problems/recyclable-and-low-fat-products/)  
 **Topics:** `Database`  
-**Acceptance:** 88.7%
+**Acceptance:** 88.6%
 
 ---
 
