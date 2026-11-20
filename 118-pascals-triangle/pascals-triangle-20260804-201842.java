@@ -3,8 +3,8 @@
 // Difficulty: Easy
 // Language:   Java
 // Submitted:  2026-08-04 20:18:42
-// Runtime:    1 ms (beats 95.42%)
-// Memory:     43.4 MB (beats 71.10%)
+// Runtime:    1 ms (beats 96.77%)
+// Memory:     43.4 MB (beats 37.26%)
 // Topics:     Array, Dynamic Programming
 
 class Solution {
