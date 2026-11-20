@@ -3,7 +3,7 @@
 **Difficulty:** Medium  
 **Link:** [https://leetcode.com/problems/sort-an-array/](https://leetcode.com/problems/sort-an-array/)  
 **Topics:** `Array`, `Divide and Conquer`, `Sorting`, `Heap (Priority Queue)`, `Merge Sort`, `Bucket Sort`, `Radix Sort`, `Counting Sort`  
-**Acceptance:** 55.6%
+**Acceptance:** 55.5%
 
 ---
 
