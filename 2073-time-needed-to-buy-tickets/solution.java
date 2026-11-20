@@ -3,8 +3,8 @@
 // Difficulty: Easy
 // Language:   Java
 // Submitted:  2026-11-06 22:57:06
-// Runtime:    12 ms (beats 11.26%)
-// Memory:     45.7 MB (beats 32.05%)
+// Runtime:    12 ms (beats 12.99%)
+// Memory:     45.7 MB (beats 25.33%)
 // Topics:     Array, Queue, Simulation
 
 class Solution {
