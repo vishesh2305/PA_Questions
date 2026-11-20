@@ -3,7 +3,7 @@
 **Difficulty:** Easy  
 **Link:** [https://leetcode.com/problems/remove-duplicates-from-sorted-array/](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)  
 **Topics:** `Array`, `Two Pointers`  
-**Acceptance:** 63.8%
+**Acceptance:** 64.1%
 
 ---
 
