@@ -4,7 +4,7 @@
 // Language:   C++
 // Submitted:  2025-12-14 16:35:44
 // Runtime:    0 ms (beats 100.00%)
-// Memory:     11.2 MB (beats 19.97%)
+// Memory:     11.2 MB (beats 14.55%)
 // Topics:     Linked List, Recursion
 
 /**
