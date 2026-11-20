@@ -3,7 +3,7 @@
 **Difficulty:** Medium  
 **Link:** [https://leetcode.com/problems/powx-n/](https://leetcode.com/problems/powx-n/)  
 **Topics:** `Math`, `Recursion`  
-**Acceptance:** 39.4%
+**Acceptance:** 39.1%
 
 ---
 
