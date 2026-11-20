@@ -3,7 +3,7 @@
 **Difficulty:** Easy  
 **Link:** [https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word/](https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word/)  
 **Topics:** `Array`, `String`  
-**Acceptance:** 86.2%
+**Acceptance:** 86.3%
 
 ---
 
