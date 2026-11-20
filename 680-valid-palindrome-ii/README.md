@@ -3,7 +3,7 @@
 **Difficulty:** Easy  
 **Link:** [https://leetcode.com/problems/valid-palindrome-ii/](https://leetcode.com/problems/valid-palindrome-ii/)  
 **Topics:** `Two Pointers`, `String`, `Greedy`  
-**Acceptance:** 44.8%
+**Acceptance:** 45.0%
 
 ---
 
