@@ -3,7 +3,7 @@
 **Difficulty:** Easy  
 **Link:** [https://leetcode.com/problems/find-customer-referee/](https://leetcode.com/problems/find-customer-referee/)  
 **Topics:** `Database`  
-**Acceptance:** 73.6%
+**Acceptance:** 73.8%
 
 ---
 
