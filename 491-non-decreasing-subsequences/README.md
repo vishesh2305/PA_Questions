@@ -3,7 +3,7 @@
 **Difficulty:** Medium  
 **Link:** [https://leetcode.com/problems/non-decreasing-subsequences/](https://leetcode.com/problems/non-decreasing-subsequences/)  
 **Topics:** `Array`, `Hash Table`, `Backtracking`, `Bit Manipulation`  
-**Acceptance:** 63.1%
+**Acceptance:** 63.3%
 
 ---
 
