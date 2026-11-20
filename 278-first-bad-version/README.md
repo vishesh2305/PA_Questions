@@ -3,7 +3,7 @@
 **Difficulty:** Easy  
 **Link:** [https://leetcode.com/problems/first-bad-version/](https://leetcode.com/problems/first-bad-version/)  
 **Topics:** `Binary Search`, `Interactive`  
-**Acceptance:** 47.7%
+**Acceptance:** 47.9%
 
 ---
 
