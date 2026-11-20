@@ -3,8 +3,8 @@
 // Difficulty: Easy
 // Language:   Java
 // Submitted:  2026-08-19 01:45:15
-// Runtime:    14 ms (beats 49.52%)
-// Memory:     42 MB (beats 72.81%)
+// Runtime:    14 ms (beats 57.84%)
+// Memory:     42 MB (beats 37.20%)
 // Topics:     Binary Search, Interactive
 
 /* The isBadVersion API is defined in the parent class VersionControl.
