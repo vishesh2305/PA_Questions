@@ -4,7 +4,7 @@
 // Language:   Java
 // Submitted:  2026-04-10 18:04:57
 // Runtime:    0 ms (beats 100.00%)
-// Memory:     43.2 MB (beats 12.33%)
+// Memory:     43.2 MB (beats 8.12%)
 // Topics:     Array
 
 class Solution {
