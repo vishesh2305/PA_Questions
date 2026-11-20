@@ -4,7 +4,7 @@
 // Language:   Java
 // Submitted:  2026-09-09 00:25:13
 // Runtime:    0 ms (beats 100.00%)
-// Memory:     43.8 MB (beats 49.44%)
+// Memory:     43.8 MB (beats 26.43%)
 // Topics:     Linked List, Two Pointers
 
 /**
