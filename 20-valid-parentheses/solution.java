@@ -2,37 +2,30 @@
 // https://leetcode.com/problems/valid-parentheses/
 // Difficulty: Easy
 // Language:   Java
-// Submitted:  2026-04-24 14:19:48
-// Runtime:    2 ms (beats 97.97%)
-// Memory:     43.2 MB (beats 72.70%)
+// Submitted:  2026-11-02 16:39:29
+// Runtime:    3 ms (beats 85.61%)
+// Memory:     43.1 MB (beats 65.16%)
 // Topics:     String, Stack, Bracket Sequences
 
 class Solution {
     public boolean isValid(String s) {
 
-        int n = s.length();
-
         Stack<Character> st = new Stack<>();
 
-        for(int i=0; i<n; i++){
-            char ch = s.charAt(i);
-            if(ch == '(' ||ch == '{' ||ch == '['){
-                st.push(ch);
-            }else if(!st.isEmpty() && (ch == ')' || ch == '}' || ch == ']')){
-                char first = st.pop();
-
-                if((ch == ')' && first != '(') || (ch == '}' && first != '{') || (ch == ']' && first != '[')){
-                    return false;
-                }
+        for(char c : s.toCharArray()){
+            if(c == '(' || c== '{' || c =='['){
+                st.push(c);
             }else{
-                return false;
+                if(st.isEmpty()){
+                    return false;
+                }else{
+                    if(c==')' && st.pop() != '(' || c==']' && st.pop() != '[' || c=='}' && st.pop() != '{'){
+                        return false;
+                    }
+                }
             }
-        };
-
-        if(st.isEmpty()){
-            return true;
         }
-        return false;
-        
+        if(!st.isEmpty()) return false;
+        return true;
     }
 }
