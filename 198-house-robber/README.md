@@ -3,7 +3,7 @@
 **Difficulty:** Medium  
 **Link:** [https://leetcode.com/problems/house-robber/](https://leetcode.com/problems/house-robber/)  
 **Topics:** `Array`, `Dynamic Programming`  
-**Acceptance:** 53.6%
+**Acceptance:** 53.8%
 
 ---
 
