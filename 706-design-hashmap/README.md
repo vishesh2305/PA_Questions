@@ -3,7 +3,7 @@
 **Difficulty:** Easy  
 **Link:** [https://leetcode.com/problems/design-hashmap/](https://leetcode.com/problems/design-hashmap/)  
 **Topics:** `Array`, `Hash Table`, `Linked List`, `Design`, `Hash Function`  
-**Acceptance:** 66.8%
+**Acceptance:** 66.9%
 
 ---
 
