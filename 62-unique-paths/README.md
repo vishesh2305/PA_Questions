@@ -3,7 +3,7 @@
 **Difficulty:** Medium  
 **Link:** [https://leetcode.com/problems/unique-paths/](https://leetcode.com/problems/unique-paths/)  
 **Topics:** `Math`, `Dynamic Programming`, `Combinatorics`  
-**Acceptance:** 67.3%
+**Acceptance:** 67.4%
 
 ---
 
