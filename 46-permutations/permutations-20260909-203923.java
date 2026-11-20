@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Language:   Java
 // Submitted:  2026-09-09 20:39:23
-// Runtime:    1 ms (beats 87.88%)
-// Memory:     45.3 MB (beats 78.73%)
+// Runtime:    1 ms (beats 89.24%)
+// Memory:     45.3 MB (beats 44.06%)
 // Topics:     Array, Backtracking
 
 class Solution {
