@@ -3,7 +3,7 @@
 **Difficulty:** Medium  
 **Link:** [https://leetcode.com/problems/longest-palindromic-substring/](https://leetcode.com/problems/longest-palindromic-substring/)  
 **Topics:** `Two Pointers`, `String`, `Dynamic Programming`, `Manacher`  
-**Acceptance:** 38.7%
+**Acceptance:** 39.0%
 
 ---
 
