@@ -3,7 +3,7 @@
 **Difficulty:** Medium  
 **Link:** [https://leetcode.com/problems/swap-nodes-in-pairs/](https://leetcode.com/problems/swap-nodes-in-pairs/)  
 **Topics:** `Linked List`, `Recursion`  
-**Acceptance:** 70.3%
+**Acceptance:** 70.5%
 
 ---
 
