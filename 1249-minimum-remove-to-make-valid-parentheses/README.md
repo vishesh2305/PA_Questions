@@ -3,7 +3,7 @@
 **Difficulty:** Medium  
 **Link:** [https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/)  
 **Topics:** `String`, `Stack`  
-**Acceptance:** 71.6%
+**Acceptance:** 71.7%
 
 ---
 
