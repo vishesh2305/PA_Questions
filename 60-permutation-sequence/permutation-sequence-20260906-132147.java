@@ -3,8 +3,8 @@
 // Difficulty: Hard
 // Language:   Java
 // Submitted:  2026-09-06 13:21:47
-// Runtime:    1 ms (beats 99.36%)
-// Memory:     42.7 MB (beats 73.48%)
+// Runtime:    1 ms (beats 99.69%)
+// Memory:     42.7 MB (beats 42.47%)
 // Topics:     Math, Recursion
 
 class Solution {
