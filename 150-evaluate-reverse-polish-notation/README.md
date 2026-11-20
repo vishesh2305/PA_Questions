@@ -3,7 +3,7 @@
 **Difficulty:** Medium  
 **Link:** [https://leetcode.com/problems/evaluate-reverse-polish-notation/](https://leetcode.com/problems/evaluate-reverse-polish-notation/)  
 **Topics:** `Array`, `Math`, `Stack`  
-**Acceptance:** 58.8%
+**Acceptance:** 59.1%
 
 ---
 
