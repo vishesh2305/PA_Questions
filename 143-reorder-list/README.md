@@ -3,7 +3,7 @@
 **Difficulty:** Medium  
 **Link:** [https://leetcode.com/problems/reorder-list/](https://leetcode.com/problems/reorder-list/)  
 **Topics:** `Linked List`, `Two Pointers`, `Stack`, `Recursion`  
-**Acceptance:** 66.3%
+**Acceptance:** 66.7%
 
 ---
 
