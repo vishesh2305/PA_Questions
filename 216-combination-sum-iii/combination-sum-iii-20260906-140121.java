@@ -4,7 +4,7 @@
 // Language:   Java
 // Submitted:  2026-09-06 14:01:21
 // Runtime:    0 ms (beats 100.00%)
-// Memory:     42.3 MB (beats 65.91%)
+// Memory:     42.3 MB (beats 36.47%)
 // Topics:     Array, Backtracking
 
 class Solution {
