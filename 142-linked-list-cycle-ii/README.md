@@ -3,7 +3,7 @@
 **Difficulty:** Medium  
 **Link:** [https://leetcode.com/problems/linked-list-cycle-ii/](https://leetcode.com/problems/linked-list-cycle-ii/)  
 **Topics:** `Hash Table`, `Linked List`, `Two Pointers`, `Floyd's Cycle Finding Algorithm`  
-**Acceptance:** 59.2%
+**Acceptance:** 59.6%
 
 ---
 
