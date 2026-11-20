@@ -3,7 +3,7 @@
 **Difficulty:** Medium  
 **Link:** [https://leetcode.com/problems/next-greater-element-iii/](https://leetcode.com/problems/next-greater-element-iii/)  
 **Topics:** `Math`, `Two Pointers`, `String`  
-**Acceptance:** 35.6%
+**Acceptance:** 35.8%
 
 ---
 
