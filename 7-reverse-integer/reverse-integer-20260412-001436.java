@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Language:   Java
 // Submitted:  2026-04-12 00:14:36
-// Runtime:    1 ms (beats 99.96%)
-// Memory:     42.6 MB (beats 63.52%)
+// Runtime:    1 ms (beats 99.99%)
+// Memory:     42.6 MB (beats 33.15%)
 // Topics:     Math
 
 class Solution {
