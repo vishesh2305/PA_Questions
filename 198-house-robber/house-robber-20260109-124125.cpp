@@ -4,7 +4,7 @@
 // Language:   C++
 // Submitted:  2026-01-09 12:41:25
 // Runtime:    0 ms (beats 100.00%)
-// Memory:     10.1 MB (beats 79.22%)
+// Memory:     10.1 MB (beats 71.92%)
 // Topics:     Array, Dynamic Programming
 
 class Solution {
