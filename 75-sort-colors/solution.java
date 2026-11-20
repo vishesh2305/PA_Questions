@@ -4,7 +4,7 @@
 // Language:   Java
 // Submitted:  2026-07-02 12:16:33
 // Runtime:    0 ms (beats 100.00%)
-// Memory:     43.6 MB (beats 39.82%)
+// Memory:     43.6 MB (beats 21.76%)
 // Topics:     Array, Two Pointers, Sorting, Quicksort, Bubble Sort
 
 class Solution {
