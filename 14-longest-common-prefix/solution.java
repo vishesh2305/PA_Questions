@@ -3,8 +3,8 @@
 // Difficulty: Easy
 // Language:   Java
 // Submitted:  2026-06-04 03:37:57
-// Runtime:    1 ms (beats 60.13%)
-// Memory:     43.3 MB (beats 32.44%)
+// Runtime:    1 ms (beats 58.48%)
+// Memory:     43.3 MB (beats 18.50%)
 // Topics:     Array, String, Trie
 
 class Solution {
