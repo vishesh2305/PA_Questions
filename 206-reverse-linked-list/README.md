@@ -3,7 +3,7 @@
 **Difficulty:** Easy  
 **Link:** [https://leetcode.com/problems/reverse-linked-list/](https://leetcode.com/problems/reverse-linked-list/)  
 **Topics:** `Linked List`, `Recursion`  
-**Acceptance:** 81.1%
+**Acceptance:** 81.2%
 
 ---
 
