@@ -4,7 +4,7 @@
 // Language:   Java
 // Submitted:  2026-08-04 10:15:05
 // Runtime:    0 ms (beats 100.00%)
-// Memory:     46.6 MB (beats 56.56%)
+// Memory:     46.6 MB (beats 29.44%)
 // Topics:     Dynamic Programming, Tree, Depth-First Search, Binary Tree, DP on Trees
 
 /**
