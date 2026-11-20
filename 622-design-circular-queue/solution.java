@@ -4,7 +4,7 @@
 // Language:   Java
 // Submitted:  2026-11-11 14:13:16
 // Runtime:    4 ms (beats 100.00%)
-// Memory:     46.3 MB (beats 55.45%)
+// Memory:     46.3 MB (beats 45.41%)
 // Topics:     Array, Linked List, Design, Queue
 
 class MyCircularQueue {
