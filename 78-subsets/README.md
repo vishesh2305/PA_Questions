@@ -3,7 +3,7 @@
 **Difficulty:** Medium  
 **Link:** [https://leetcode.com/problems/subsets/](https://leetcode.com/problems/subsets/)  
 **Topics:** `Array`, `Backtracking`, `Bit Manipulation`  
-**Acceptance:** 82.8%
+**Acceptance:** 83.0%
 
 ---
 
