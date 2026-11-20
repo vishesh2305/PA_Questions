@@ -3,7 +3,7 @@
 **Difficulty:** Medium  
 **Link:** [https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)  
 **Topics:** `Array`, `Binary Search`  
-**Acceptance:** 49.7%
+**Acceptance:** 49.9%
 
 ---
 
