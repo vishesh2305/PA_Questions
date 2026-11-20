@@ -3,7 +3,7 @@
 **Difficulty:** Medium  
 **Link:** [https://leetcode.com/problems/rotate-image/](https://leetcode.com/problems/rotate-image/)  
 **Topics:** `Array`, `Math`, `Matrix`  
-**Acceptance:** 80.7%
+**Acceptance:** 80.9%
 
 ---
 
