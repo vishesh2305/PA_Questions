@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-> Auto-synced from LeetCode by the LeetHub Sync browser extension. Last updated 2026-11-20 14:05:58.
+> Auto-synced from LeetCode by the LeetHub Sync browser extension. Last updated 2026-11-20 17:38:31.
 
 **Solved:** 222 · 🟢 Easy 103 · 🟡 Medium 109 · 🔴 Hard 10
 
@@ -38,7 +38,7 @@
 | 46 | [Permutations](46-permutations) | 🟡 Medium | Java | 5 | 2026-09-22 |
 | 47 | [Permutations II](47-permutations-ii) | 🟡 Medium | Java | 4 | 2026-09-22 |
 | 48 | [Rotate Image](48-rotate-image) | 🟡 Medium | Java | 2 | 2026-09-22 |
-| 49 | [Group Anagrams](49-group-anagrams) | 🟡 Medium | Java | 3 | 2026-11-17 |
+| 49 | [Group Anagrams](49-group-anagrams) | 🟡 Medium | Java | 4 | 2026-11-20 |
 | 50 | [Pow(x, n)](50-powx-n) | 🟡 Medium | Java | 2 | 2026-09-22 |
 | 51 | [N-Queens](51-n-queens) | 🔴 Hard | Java | 2 | 2026-09-22 |
 | 53 | [Maximum Subarray](53-maximum-subarray) | 🟡 Medium | Java | 4 | 2026-11-16 |
