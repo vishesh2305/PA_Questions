@@ -3,7 +3,7 @@
 **Difficulty:** Medium  
 **Link:** [https://leetcode.com/problems/find-all-anagrams-in-a-string/](https://leetcode.com/problems/find-all-anagrams-in-a-string/)  
 **Topics:** `Hash Table`, `String`, `Sliding Window`  
-**Acceptance:** 54.6%
+**Acceptance:** 54.8%
 
 ---
 
