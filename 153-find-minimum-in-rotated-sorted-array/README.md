@@ -3,7 +3,7 @@
 **Difficulty:** Medium  
 **Link:** [https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)  
 **Topics:** `Array`, `Binary Search`  
-**Acceptance:** 55.3%
+**Acceptance:** 55.5%
 
 ---
 
