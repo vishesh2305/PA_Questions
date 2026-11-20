@@ -4,7 +4,7 @@
 // Language:   Java
 // Submitted:  2026-06-30 15:23:01
 // Runtime:    0 ms (beats 100.00%)
-// Memory:     44.7 MB (beats 51.47%)
+// Memory:     44.7 MB (beats 26.30%)
 // Topics:     Array, Two Pointers
 
 class Solution {
