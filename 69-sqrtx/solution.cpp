@@ -4,7 +4,7 @@
 // Language:   C++
 // Submitted:  2025-12-29 00:01:37
 // Runtime:    0 ms (beats 100.00%)
-// Memory:     8.4 MB (beats 86.82%)
+// Memory:     8.4 MB (beats 75.60%)
 // Topics:     Math, Binary Search, Newton's Method
 
 class Solution {
