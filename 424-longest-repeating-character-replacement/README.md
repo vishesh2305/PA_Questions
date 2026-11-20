@@ -3,7 +3,7 @@
 **Difficulty:** Medium  
 **Link:** [https://leetcode.com/problems/longest-repeating-character-replacement/](https://leetcode.com/problems/longest-repeating-character-replacement/)  
 **Topics:** `Hash Table`, `String`, `Sliding Window`  
-**Acceptance:** 60.7%
+**Acceptance:** 61.0%
 
 ---
 
