@@ -3,7 +3,7 @@
 **Difficulty:** Easy  
 **Link:** [https://leetcode.com/problems/fibonacci-number/](https://leetcode.com/problems/fibonacci-number/)  
 **Topics:** `Math`, `Dynamic Programming`, `Recursion`, `Memoization`  
-**Acceptance:** 74.7%
+**Acceptance:** 74.8%
 
 ---
 
