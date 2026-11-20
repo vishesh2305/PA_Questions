@@ -4,7 +4,7 @@
 // Language:   Java
 // Submitted:  2026-09-09 01:26:24
 // Runtime:    0 ms (beats 100.00%)
-// Memory:     46.7 MB (beats 14.48%)
+// Memory:     46.7 MB (beats 7.25%)
 // Topics:     Hash Table, Linked List
 
 /*
