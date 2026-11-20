@@ -3,7 +3,7 @@
 **Difficulty:** Medium  
 **Link:** [https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/)  
 **Topics:** `Linked List`, `Divide and Conquer`, `Tree`, `Binary Search Tree`, `Binary Tree`  
-**Acceptance:** 67.4%
+**Acceptance:** 67.7%
 
 ---
 
