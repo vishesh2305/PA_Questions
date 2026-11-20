@@ -4,7 +4,7 @@
 // Language:   Java
 // Submitted:  2026-09-02 01:09:05
 // Runtime:    0 ms (beats 100.00%)
-// Memory:     42.6 MB (beats 59.58%)
+// Memory:     42.6 MB (beats 36.31%)
 // Topics:     Array, Math, Backtracking, Bit Manipulation, Combinatorics, Enumeration
 
 class Solution {
