@@ -3,7 +3,7 @@
 **Difficulty:** Easy  
 **Link:** [https://leetcode.com/problems/maximum-depth-of-binary-tree/](https://leetcode.com/problems/maximum-depth-of-binary-tree/)  
 **Topics:** `Tree`, `Depth-First Search`, `Breadth-First Search`, `Binary Tree`  
-**Acceptance:** 78.6%
+**Acceptance:** 78.8%
 
 ---
 
