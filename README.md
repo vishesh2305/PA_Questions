@@ -1,12 +1,12 @@
 # LeetCode Solutions
 
-> Auto-synced from LeetCode by the LeetHub Sync browser extension. Last updated 2026-11-20 11:44:05.
+> Auto-synced from LeetCode by the LeetHub Sync browser extension. Last updated 2026-11-20 12:46:05.
 
 **Solved:** 221 · 🟢 Easy 102 · 🟡 Medium 109 · 🔴 Hard 10
 
 | # | Problem | Difficulty | Language(s) | Submissions | Last solved |
 | --- | --- | --- | --- | --- | --- |
-| 1 | [Two Sum](1-two-sum) | 🟢 Easy | Java | 3 | 2026-09-22 |
+| 1 | [Two Sum](1-two-sum) | 🟢 Easy | Java | 4 | 2026-11-20 |
 | 2 | [Add Two Numbers](2-add-two-numbers) | 🟡 Medium | Java | 2 | 2026-09-22 |
 | 3 | [Longest Substring Without Repeating Characters](3-longest-substring-without-repeating-characters) | 🟡 Medium | Java | 2 | 2026-09-22 |
 | 5 | [Longest Palindromic Substring](5-longest-palindromic-substring) | 🟡 Medium | C++ | 2 | 2026-09-22 |
