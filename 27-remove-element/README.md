@@ -3,7 +3,7 @@
 **Difficulty:** Easy  
 **Link:** [https://leetcode.com/problems/remove-element/](https://leetcode.com/problems/remove-element/)  
 **Topics:** `Array`, `Two Pointers`  
-**Acceptance:** 62.6%
+**Acceptance:** 62.8%
 
 ---
 
