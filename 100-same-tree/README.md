@@ -3,7 +3,7 @@
 **Difficulty:** Easy  
 **Link:** [https://leetcode.com/problems/same-tree/](https://leetcode.com/problems/same-tree/)  
 **Topics:** `Tree`, `Depth-First Search`, `Breadth-First Search`, `Binary Tree`  
-**Acceptance:** 68.0%
+**Acceptance:** 68.3%
 
 ---
 
