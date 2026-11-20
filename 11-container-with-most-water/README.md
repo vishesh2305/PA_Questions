@@ -3,7 +3,7 @@
 **Difficulty:** Medium  
 **Link:** [https://leetcode.com/problems/container-with-most-water/](https://leetcode.com/problems/container-with-most-water/)  
 **Topics:** `Array`, `Two Pointers`, `Greedy`  
-**Acceptance:** 60.9%
+**Acceptance:** 61.1%
 
 ---
 
