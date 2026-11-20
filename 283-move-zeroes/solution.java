@@ -3,8 +3,8 @@
 // Difficulty: Easy
 // Language:   Java
 // Submitted:  2026-04-09 01:40:30
-// Runtime:    1 ms (beats 99.89%)
-// Memory:     47.9 MB (beats 20.34%)
+// Runtime:    1 ms (beats 99.91%)
+// Memory:     47.9 MB (beats 11.13%)
 // Topics:     Array, Two Pointers
 
 class Solution {
