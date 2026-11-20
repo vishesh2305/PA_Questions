@@ -3,8 +3,8 @@
 // Difficulty: Easy
 // Language:   Java
 // Submitted:  2026-10-05 23:54:28
-// Runtime:    9 ms (beats 41.16%)
-// Memory:     41.8 MB (beats 92.99%)
+// Runtime:    9 ms (beats 40.34%)
+// Memory:     41.8 MB (beats 57.02%)
 // Topics:     Math, Dynamic Programming, Recursion, Memoization
 
 class Solution {
