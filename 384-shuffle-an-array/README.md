@@ -3,7 +3,7 @@
 **Difficulty:** Medium  
 **Link:** [https://leetcode.com/problems/shuffle-an-array/](https://leetcode.com/problems/shuffle-an-array/)  
 **Topics:** `Array`, `Math`, `Design`, `Randomized`  
-**Acceptance:** 60.0%
+**Acceptance:** 60.2%
 
 ---
 
