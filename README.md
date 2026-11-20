@@ -1,8 +1,8 @@
 # LeetCode Solutions
 
-> Auto-synced from LeetCode by the LeetHub Sync browser extension. Last updated 2026-11-20 17:59:14.
+> Auto-synced from LeetCode by the LeetHub Sync browser extension. Last updated 2026-11-20 18:22:31.
 
-**Solved:** 222 · 🟢 Easy 103 · 🟡 Medium 109 · 🔴 Hard 10
+**Solved:** 223 · 🟢 Easy 104 · 🟡 Medium 109 · 🔴 Hard 10
 
 | # | Problem | Difficulty | Language(s) | Submissions | Last solved |
 | --- | --- | --- | --- | --- | --- |
@@ -13,6 +13,7 @@
 | 7 | [Reverse Integer](7-reverse-integer) | 🟡 Medium | Java | 2 | 2026-09-22 |
 | 9 | [Palindrome Number](9-palindrome-number) | 🟢 Easy | C++ | 2 | 2026-09-22 |
 | 11 | [Container With Most Water](11-container-with-most-water) | 🟡 Medium | Java | 2 | 2026-09-22 |
+| 13 | [Roman to Integer](13-roman-to-integer) | 🟢 Easy | Java | 1 | 2026-11-20 |
 | 14 | [Longest Common Prefix](14-longest-common-prefix) | 🟢 Easy | Java | 2 | 2026-09-22 |
 | 15 | [3Sum](15-3sum) | 🟡 Medium | Java | 3 | 2026-11-17 |
 | 16 | [3Sum Closest](16-3sum-closest) | 🟡 Medium | Java | 2 | 2026-11-17 |
