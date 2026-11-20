@@ -4,7 +4,7 @@
 // Language:   Java
 // Submitted:  2026-07-21 02:46:50
 // Runtime:    0 ms (beats 100.00%)
-// Memory:     47.1 MB (beats 16.58%)
+// Memory:     47.1 MB (beats 8.59%)
 // Topics:     Tree, Binary Search Tree, Binary Tree
 
 /**
