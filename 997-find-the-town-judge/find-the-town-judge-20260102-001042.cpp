@@ -3,8 +3,8 @@
 // Difficulty: Easy
 // Language:   C++
 // Submitted:  2026-01-02 00:10:42
-// Runtime:    32 ms (beats 26.38%)
-// Memory:     73.1 MB (beats 34.85%)
+// Runtime:    32 ms (beats 28.91%)
+// Memory:     73.1 MB (beats 22.88%)
 // Topics:     Array, Hash Table, Graph Theory
 
 class Solution {
