@@ -4,7 +4,7 @@
 // Language:   Java
 // Submitted:  2026-07-05 02:33:36
 // Runtime:    0 ms (beats 100.00%)
-// Memory:     43.7 MB (beats 90.40%)
+// Memory:     43.7 MB (beats 52.17%)
 // Topics:     Array, Binary Search, Matrix
 
 class Solution {
