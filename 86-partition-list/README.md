@@ -3,7 +3,7 @@
 **Difficulty:** Medium  
 **Link:** [https://leetcode.com/problems/partition-list/](https://leetcode.com/problems/partition-list/)  
 **Topics:** `Linked List`, `Two Pointers`  
-**Acceptance:** 62.1%
+**Acceptance:** 62.5%
 
 ---
 
