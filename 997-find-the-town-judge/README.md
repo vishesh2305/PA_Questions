@@ -3,7 +3,7 @@
 **Difficulty:** Easy  
 **Link:** [https://leetcode.com/problems/find-the-town-judge/](https://leetcode.com/problems/find-the-town-judge/)  
 **Topics:** `Array`, `Hash Table`, `Graph Theory`  
-**Acceptance:** 51.1%
+**Acceptance:** 51.3%
 
 ---
 
