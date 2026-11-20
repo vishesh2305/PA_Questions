@@ -3,7 +3,7 @@
 **Difficulty:** Easy  
 **Link:** [https://leetcode.com/problems/palindrome-number/](https://leetcode.com/problems/palindrome-number/)  
 **Topics:** `Math`  
-**Acceptance:** 61.0%
+**Acceptance:** 61.1%
 
 ---
 
