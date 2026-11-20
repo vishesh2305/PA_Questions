@@ -3,8 +3,8 @@
 // Difficulty: Easy
 // Language:   Java
 // Submitted:  2026-07-07 00:42:36
-// Runtime:    1 ms (beats 99.88%)
-// Memory:     55.5 MB (beats 61.87%)
+// Runtime:    1 ms (beats 99.91%)
+// Memory:     55.5 MB (beats 79.99%)
 // Topics:     Array, Hash Table, Divide and Conquer, Sorting, Counting, Boyer–Moore Majority Vote Algorithm
 
 class Solution {
