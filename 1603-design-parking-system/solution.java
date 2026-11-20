@@ -4,7 +4,7 @@
 // Language:   Java
 // Submitted:  2026-04-28 03:53:21
 // Runtime:    7 ms (beats 100.00%)
-// Memory:     47.2 MB (beats 9.30%)
+// Memory:     47.2 MB (beats 10.89%)
 // Topics:     Design, Simulation, Counting
 
 class ParkingSystem {
