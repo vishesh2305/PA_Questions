@@ -3,7 +3,7 @@
 **Difficulty:** Easy  
 **Link:** [https://leetcode.com/problems/assign-cookies/](https://leetcode.com/problems/assign-cookies/)  
 **Topics:** `Array`, `Two Pointers`, `Greedy`, `Sorting`, `Quicksort`  
-**Acceptance:** 55.5%
+**Acceptance:** 55.7%
 
 ---
 
