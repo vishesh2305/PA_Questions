@@ -3,7 +3,7 @@
 **Difficulty:** Medium  
 **Link:** [https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)  
 **Topics:** `Tree`, `Depth-First Search`, `Binary Search Tree`, `Binary Tree`, `Binary Lifting`, `Lowest Common Ancestor`  
-**Acceptance:** 71.4%
+**Acceptance:** 71.6%
 
 ---
 
