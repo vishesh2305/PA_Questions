@@ -3,7 +3,7 @@
 **Difficulty:** Easy  
 **Link:** [https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/](https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/)  
 **Topics:** `Database`  
-**Acceptance:** 83.9%
+**Acceptance:** 84.0%
 
 ---
 
