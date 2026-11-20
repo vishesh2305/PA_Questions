@@ -3,7 +3,7 @@
 **Difficulty:** Medium  
 **Link:** [https://leetcode.com/problems/set-matrix-zeroes/](https://leetcode.com/problems/set-matrix-zeroes/)  
 **Topics:** `Array`, `Hash Table`, `Matrix`  
-**Acceptance:** 63.6%
+**Acceptance:** 63.9%
 
 ---
 
