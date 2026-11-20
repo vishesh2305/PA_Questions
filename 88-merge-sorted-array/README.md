@@ -3,7 +3,7 @@
 **Difficulty:** Easy  
 **Link:** [https://leetcode.com/problems/merge-sorted-array/](https://leetcode.com/problems/merge-sorted-array/)  
 **Topics:** `Array`, `Two Pointers`, `Sorting`  
-**Acceptance:** 55.8%
+**Acceptance:** 56.0%
 
 ---
 
