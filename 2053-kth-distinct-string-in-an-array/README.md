@@ -3,7 +3,7 @@
 **Difficulty:** Easy  
 **Link:** [https://leetcode.com/problems/kth-distinct-string-in-an-array/](https://leetcode.com/problems/kth-distinct-string-in-an-array/)  
 **Topics:** `Array`, `Hash Table`, `String`, `Counting`  
-**Acceptance:** 82.2%
+**Acceptance:** 82.3%
 
 ---
 
