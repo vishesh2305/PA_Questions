@@ -3,7 +3,7 @@
 **Difficulty:** Easy  
 **Link:** [https://leetcode.com/problems/merge-two-sorted-lists/](https://leetcode.com/problems/merge-two-sorted-lists/)  
 **Topics:** `Linked List`, `Recursion`  
-**Acceptance:** 69.0%
+**Acceptance:** 69.1%
 
 ---
 
