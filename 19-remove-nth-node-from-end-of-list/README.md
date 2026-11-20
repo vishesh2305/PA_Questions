@@ -3,7 +3,7 @@
 **Difficulty:** Medium  
 **Link:** [https://leetcode.com/problems/remove-nth-node-from-end-of-list/](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)  
 **Topics:** `Linked List`, `Two Pointers`  
-**Acceptance:** 52.7%
+**Acceptance:** 53.1%
 
 ---
 
