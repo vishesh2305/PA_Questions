@@ -3,7 +3,7 @@
 **Difficulty:** Medium  
 **Link:** [https://leetcode.com/problems/populating-next-right-pointers-in-each-node/](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)  
 **Topics:** `Linked List`, `Tree`, `Depth-First Search`, `Breadth-First Search`, `Binary Tree`  
-**Acceptance:** 67.8%
+**Acceptance:** 68.0%
 
 ---
 
