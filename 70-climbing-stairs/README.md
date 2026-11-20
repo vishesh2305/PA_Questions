@@ -3,7 +3,7 @@
 **Difficulty:** Easy  
 **Link:** [https://leetcode.com/problems/climbing-stairs/](https://leetcode.com/problems/climbing-stairs/)  
 **Topics:** `Math`, `Dynamic Programming`, `Memoization`  
-**Acceptance:** 54.3%
+**Acceptance:** 54.5%
 
 ---
 
