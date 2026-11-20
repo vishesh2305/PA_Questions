@@ -3,8 +3,8 @@
 # Difficulty: Easy
 # Language:   Pandas
 # Submitted:  2026-08-04 18:13:25
-# Runtime:    313 ms (beats 32.58%)
-# Memory:     66.7 MB (beats 99.02%)
+# Runtime:    313 ms (beats 35.30%)
+# Memory:     66.7 MB (beats 70.48%)
 # Topics:     Database
 
 import pandas as pd
