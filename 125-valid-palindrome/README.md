@@ -3,7 +3,7 @@
 **Difficulty:** Easy  
 **Link:** [https://leetcode.com/problems/valid-palindrome/](https://leetcode.com/problems/valid-palindrome/)  
 **Topics:** `Two Pointers`, `String`  
-**Acceptance:** 54.3%
+**Acceptance:** 54.7%
 
 ---
 
