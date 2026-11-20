@@ -4,7 +4,7 @@
 // Language:   C++
 // Submitted:  2026-01-06 12:02:18
 // Runtime:    0 ms (beats 100.00%)
-// Memory:     52.1 MB (beats 62.43%)
+// Memory:     52.1 MB (beats 54.35%)
 // Topics:     Array, Greedy, Sorting
 
 class Solution {
