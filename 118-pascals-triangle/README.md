@@ -3,13 +3,15 @@
 **Difficulty:** Easy  
 **Link:** [https://leetcode.com/problems/pascals-triangle/](https://leetcode.com/problems/pascals-triangle/)  
 **Topics:** `Array`, `Dynamic Programming`  
-**Acceptance:** 79.4%
+**Acceptance:** 79.5%
 
 ---
 
-Given an integer `numRows`, return the first numRows of **Pascal's triangle**.
+You are given an integer `numRows`.
 
-In **Pascal's triangle**, each number is the sum of the two numbers directly above it as shown:
+Return the first `numRows` of **Pascal's triangle**.
+
+In **Pascal's triangle**, each number is the sum of the two numbers directly above it and the first and last number on each row must be equal to 1, as shown below:
 
  
 
