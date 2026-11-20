@@ -3,7 +3,7 @@
 **Difficulty:** Easy  
 **Link:** [https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/)  
 **Topics:** `Database`  
-**Acceptance:** 68.7%
+**Acceptance:** 69.0%
 
 ---
 
