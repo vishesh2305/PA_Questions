@@ -3,7 +3,7 @@
 **Difficulty:** Easy  
 **Link:** [https://leetcode.com/problems/reverse-string/](https://leetcode.com/problems/reverse-string/)  
 **Topics:** `Two Pointers`, `String`  
-**Acceptance:** 81.3%
+**Acceptance:** 81.5%
 
 ---
 
