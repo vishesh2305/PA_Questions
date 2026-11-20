@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Language:   C++
 // Submitted:  2026-01-04 02:10:15
-// Runtime:    10 ms (beats 44.13%)
-// Memory:     14.8 MB (beats 21.79%)
+// Runtime:    10 ms (beats 48.42%)
+// Memory:     14.8 MB (beats 23.51%)
 // Topics:     String, Stack
 
 class Solution {
