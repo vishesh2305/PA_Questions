@@ -3,7 +3,7 @@
 **Difficulty:** Easy  
 **Link:** [https://leetcode.com/problems/find-followers-count/](https://leetcode.com/problems/find-followers-count/)  
 **Topics:** `Database`  
-**Acceptance:** 69.6%
+**Acceptance:** 69.8%
 
 ---
 
