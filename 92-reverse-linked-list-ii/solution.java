@@ -4,7 +4,7 @@
 // Language:   Java
 // Submitted:  2026-09-09 00:41:02
 // Runtime:    0 ms (beats 100.00%)
-// Memory:     43 MB (beats 66.83%)
+// Memory:     43 MB (beats 35.01%)
 // Topics:     Linked List
 
 /**
