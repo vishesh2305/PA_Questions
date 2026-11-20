@@ -3,7 +3,7 @@
 **Difficulty:** Medium  
 **Link:** [https://leetcode.com/problems/rotate-array/](https://leetcode.com/problems/rotate-array/)  
 **Topics:** `Array`, `Math`, `Two Pointers`  
-**Acceptance:** 45.6%
+**Acceptance:** 45.8%
 
 ---
 
