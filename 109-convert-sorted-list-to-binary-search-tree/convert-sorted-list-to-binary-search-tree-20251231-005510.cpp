@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Language:   C++
 // Submitted:  2025-12-31 00:55:10
-// Runtime:    4 ms (beats 66.14%)
-// Memory:     33 MB (beats 59.09%)
+// Runtime:    4 ms (beats 83.15%)
+// Memory:     33 MB (beats 43.93%)
 // Topics:     Linked List, Divide and Conquer, Tree, Binary Search Tree, Binary Tree
 
 /**
