@@ -3,7 +3,7 @@
 **Difficulty:** Medium  
 **Link:** [https://leetcode.com/problems/valid-parenthesis-string/](https://leetcode.com/problems/valid-parenthesis-string/)  
 **Topics:** `String`, `Dynamic Programming`, `Stack`, `Greedy`, `Bracket Sequences`  
-**Acceptance:** 40.5%
+**Acceptance:** 43.0%
 
 ---
 
