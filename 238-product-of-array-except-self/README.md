@@ -3,7 +3,7 @@
 **Difficulty:** Medium  
 **Link:** [https://leetcode.com/problems/product-of-array-except-self/](https://leetcode.com/problems/product-of-array-except-self/)  
 **Topics:** `Array`, `Prefix Sum`  
-**Acceptance:** 69.3%
+**Acceptance:** 69.4%
 
 ---
 
