@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-> Auto-synced from LeetCode by the LeetHub Sync browser extension. Last updated 2026-11-21 01:32:10.
+> Auto-synced from LeetCode by the LeetHub Sync browser extension. Last updated 2026-11-21 01:40:24.
 
 **Solved:** 223 · 🟢 Easy 104 · 🟡 Medium 109 · 🔴 Hard 10
 
@@ -21,7 +21,7 @@
 | 18 | [4Sum](18-4sum) | 🟡 Medium | Java | 4 | 2026-11-20 |
 | 19 | [Remove Nth Node From End of List](19-remove-nth-node-from-end-of-list) | 🟡 Medium | Java | 4 | 2026-11-20 |
 | 20 | [Valid Parentheses](20-valid-parentheses) | 🟢 Easy | Java | 4 | 2026-11-20 |
-| 21 | [Merge Two Sorted Lists](21-merge-two-sorted-lists) | 🟢 Easy | Java | 5 | 2026-11-20 |
+| 21 | [Merge Two Sorted Lists](21-merge-two-sorted-lists) | 🟢 Easy | Java | 6 | 2026-11-21 |
 | 22 | [Generate Parentheses](22-generate-parentheses) | 🟡 Medium | Java | 5 | 2026-11-20 |
 | 23 | [Merge k Sorted Lists](23-merge-k-sorted-lists) | 🔴 Hard | Java | 1 | 2026-10-14 |
 | 24 | [Swap Nodes in Pairs](24-swap-nodes-in-pairs) | 🟡 Medium | C++ | 4 | 2026-11-20 |
