@@ -4,7 +4,7 @@
 // Language:   Java
 // Submitted:  2026-06-18 22:47:41
 // Runtime:    0 ms (beats 100.00%)
-// Memory:     42.9 MB (beats 97.96%)
+// Memory:     42.9 MB (beats 80.24%)
 // Topics:     String, String Matching
 
 class Solution {
