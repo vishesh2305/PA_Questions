@@ -3,7 +3,7 @@
 **Difficulty:** Medium  
 **Link:** [https://leetcode.com/problems/find-the-duplicate-number/](https://leetcode.com/problems/find-the-duplicate-number/)  
 **Topics:** `Array`, `Two Pointers`, `Binary Search`, `Bit Manipulation`, `Pigeonhole Principle`, `Floyd's Cycle Finding Algorithm`  
-**Acceptance:** 64.9%
+**Acceptance:** 65.1%
 
 ---
 
