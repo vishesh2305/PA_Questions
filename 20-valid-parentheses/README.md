@@ -3,7 +3,7 @@
 **Difficulty:** Easy  
 **Link:** [https://leetcode.com/problems/valid-parentheses/](https://leetcode.com/problems/valid-parentheses/)  
 **Topics:** `String`, `Stack`, `Bracket Sequences`  
-**Acceptance:** 44.9%
+**Acceptance:** 45.4%
 
 ---
 
