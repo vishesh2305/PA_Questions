@@ -3,8 +3,8 @@
 // Difficulty: Easy
 // Language:   Java
 // Submitted:  2026-07-14 03:23:58
-// Runtime:    3 ms (beats 99.82%)
-// Memory:     94.5 MB (beats 43.05%)
+// Runtime:    3 ms (beats 99.85%)
+// Memory:     94.5 MB (beats 39.20%)
 // Topics:     Linked List, Two Pointers, Stack, Recursion
 
 /**
