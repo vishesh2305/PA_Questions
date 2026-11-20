@@ -2,7 +2,7 @@
 // https://leetcode.com/problems/group-anagrams/
 // Difficulty: Medium
 // Language:   Java
-// Submitted:  2026-11-20 17:38:23
+// Submitted:  2026-11-20 17:47:24
 // Runtime:    7 ms (beats 81.10%)
 // Memory:     49.2 MB (beats 80.70%)
 // Topics:     Array, Hash Table, String, Sorting
