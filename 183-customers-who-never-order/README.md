@@ -3,7 +3,7 @@
 **Difficulty:** Easy  
 **Link:** [https://leetcode.com/problems/customers-who-never-order/](https://leetcode.com/problems/customers-who-never-order/)  
 **Topics:** `Database`  
-**Acceptance:** 72.5%
+**Acceptance:** 72.7%
 
 ---
 
