@@ -3,7 +3,7 @@
 **Difficulty:** Easy  
 **Link:** [https://leetcode.com/problems/remove-outermost-parentheses/](https://leetcode.com/problems/remove-outermost-parentheses/)  
 **Topics:** `String`, `Stack`, `Bracket Sequences`  
-**Acceptance:** 87.5%
+**Acceptance:** 88.4%
 
 ---
 
