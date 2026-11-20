@@ -1,8 +1,8 @@
 # LeetCode Solutions
 
-> Auto-synced from LeetCode by the LeetHub Sync browser extension. Last updated 2026-11-20 11:03:09.
+> Auto-synced from LeetCode by the LeetHub Sync browser extension. Last updated 2026-11-20 11:14:18.
 
-**Solved:** 219 · 🟢 Easy 101 · 🟡 Medium 108 · 🔴 Hard 10
+**Solved:** 220 · 🟢 Easy 102 · 🟡 Medium 108 · 🔴 Hard 10
 
 | # | Problem | Difficulty | Language(s) | Submissions | Last solved |
 | --- | --- | --- | --- | --- | --- |
@@ -87,6 +87,7 @@
 | 128 | [Longest Consecutive Sequence](128-longest-consecutive-sequence) | 🟡 Medium | Java | 5 | 2026-11-18 |
 | 130 | [Surrounded Regions](130-surrounded-regions) | 🟡 Medium | Java | 2 | 2026-11-14 |
 | 131 | [Palindrome Partitioning](131-palindrome-partitioning) | 🟡 Medium | Java | 3 | 2026-09-22 |
+| 136 | [Single Number](136-single-number) | 🟢 Easy | Java | 1 | 2026-11-20 |
 | 138 | [Copy List with Random Pointer](138-copy-list-with-random-pointer) | 🟡 Medium | Java | 3 | 2026-09-22 |
 | 141 | [Linked List Cycle](141-linked-list-cycle) | 🟢 Easy | Java | 2 | 2026-09-22 |
 | 142 | [Linked List Cycle II](142-linked-list-cycle-ii) | 🟡 Medium | Java | 2 | 2026-09-22 |
