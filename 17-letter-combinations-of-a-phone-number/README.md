@@ -3,7 +3,7 @@
 **Difficulty:** Medium  
 **Link:** [https://leetcode.com/problems/letter-combinations-of-a-phone-number/](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)  
 **Topics:** `Hash Table`, `String`, `Backtracking`  
-**Acceptance:** 66.9%
+**Acceptance:** 67.2%
 
 ---
 
