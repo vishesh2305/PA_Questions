@@ -3,7 +3,7 @@
 **Difficulty:** Easy  
 **Link:** [https://leetcode.com/problems/contains-duplicate/](https://leetcode.com/problems/contains-duplicate/)  
 **Topics:** `Array`, `Hash Table`, `Sorting`  
-**Acceptance:** 64.7%
+**Acceptance:** 64.9%
 
 ---
 
