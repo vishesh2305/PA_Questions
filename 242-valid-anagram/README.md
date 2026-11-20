@@ -3,7 +3,7 @@
 **Difficulty:** Easy  
 **Link:** [https://leetcode.com/problems/valid-anagram/](https://leetcode.com/problems/valid-anagram/)  
 **Topics:** `Hash Table`, `String`, `Sorting`  
-**Acceptance:** 68.7%
+**Acceptance:** 68.8%
 
 ---
 
