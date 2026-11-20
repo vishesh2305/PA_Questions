@@ -3,8 +3,8 @@
 // Difficulty: Easy
 // Language:   Java
 // Submitted:  2026-07-17 01:39:43
-// Runtime:    2 ms (beats 98.26%)
-// Memory:     52.3 MB (beats 92.06%)
+// Runtime:    2 ms (beats 98.79%)
+// Memory:     52.3 MB (beats 56.95%)
 // Topics:     Array
 
 class Solution {
