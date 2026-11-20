@@ -3,7 +3,7 @@
 **Difficulty:** Medium  
 **Link:** [https://leetcode.com/problems/spiral-matrix/](https://leetcode.com/problems/spiral-matrix/)  
 **Topics:** `Array`, `Matrix`, `Simulation`  
-**Acceptance:** 57.9%
+**Acceptance:** 58.3%
 
 ---
 
