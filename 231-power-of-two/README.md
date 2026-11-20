@@ -3,7 +3,7 @@
 **Difficulty:** Easy  
 **Link:** [https://leetcode.com/problems/power-of-two/](https://leetcode.com/problems/power-of-two/)  
 **Topics:** `Math`, `Bit Manipulation`, `Recursion`  
-**Acceptance:** 50.5%
+**Acceptance:** 50.7%
 
 ---
 
