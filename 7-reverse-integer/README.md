@@ -3,7 +3,7 @@
 **Difficulty:** Medium  
 **Link:** [https://leetcode.com/problems/reverse-integer/](https://leetcode.com/problems/reverse-integer/)  
 **Topics:** `Math`  
-**Acceptance:** 32.6%
+**Acceptance:** 32.8%
 
 ---
 
