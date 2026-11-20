@@ -3,7 +3,7 @@
 **Difficulty:** Medium  
 **Link:** [https://leetcode.com/problems/reverse-linked-list-ii/](https://leetcode.com/problems/reverse-linked-list-ii/)  
 **Topics:** `Linked List`  
-**Acceptance:** 52.4%
+**Acceptance:** 52.8%
 
 ---
 
