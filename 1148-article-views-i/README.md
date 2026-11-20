@@ -3,7 +3,7 @@
 **Difficulty:** Easy  
 **Link:** [https://leetcode.com/problems/article-views-i/](https://leetcode.com/problems/article-views-i/)  
 **Topics:** `Database`  
-**Acceptance:** 76.9%
+**Acceptance:** 77.0%
 
 ---
 
