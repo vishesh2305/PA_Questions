@@ -4,7 +4,7 @@
 // Language:   C++
 // Submitted:  2026-01-01 01:37:14
 // Runtime:    0 ms (beats 100.00%)
-// Memory:     25 MB (beats 46.63%)
+// Memory:     25 MB (beats 37.84%)
 // Topics:     Tree, Depth-First Search, Breadth-First Search, Binary Tree
 
 /**
