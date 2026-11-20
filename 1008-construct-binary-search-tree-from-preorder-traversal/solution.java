@@ -4,7 +4,7 @@
 // Language:   Java
 // Submitted:  2026-07-22 01:28:48
 // Runtime:    0 ms (beats 100.00%)
-// Memory:     43.7 MB (beats 22.63%)
+// Memory:     43.7 MB (beats 11.78%)
 // Topics:     Array, Stack, Tree, Binary Search Tree, Monotonic Stack, Binary Tree
 
 /**
