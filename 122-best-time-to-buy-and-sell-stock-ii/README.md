@@ -3,7 +3,7 @@
 **Difficulty:** Medium  
 **Link:** [https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)  
 **Topics:** `Array`, `Dynamic Programming`, `Greedy`  
-**Acceptance:** 71.7%
+**Acceptance:** 71.8%
 
 ---
 
