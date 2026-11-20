@@ -3,7 +3,7 @@
 **Difficulty:** Hard  
 **Link:** [https://leetcode.com/problems/reverse-nodes-in-k-group/](https://leetcode.com/problems/reverse-nodes-in-k-group/)  
 **Topics:** `Linked List`, `Recursion`  
-**Acceptance:** 67.3%
+**Acceptance:** 67.7%
 
 ---
 
