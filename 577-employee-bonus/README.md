@@ -3,7 +3,7 @@
 **Difficulty:** Easy  
 **Link:** [https://leetcode.com/problems/employee-bonus/](https://leetcode.com/problems/employee-bonus/)  
 **Topics:** `Database`  
-**Acceptance:** 78.2%
+**Acceptance:** 78.4%
 
 ---
 
