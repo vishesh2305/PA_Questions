@@ -4,7 +4,7 @@
 // Language:   Java
 // Submitted:  2026-11-09 23:20:17
 // Runtime:    0 ms (beats 100.00%)
-// Memory:     42.6 MB (beats 83.26%)
+// Memory:     42.6 MB (beats 75.68%)
 // Topics:     Stack, Tree, Depth-First Search, Binary Tree
 
 /**
