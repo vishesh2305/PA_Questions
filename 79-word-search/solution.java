@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Language:   Java
 // Submitted:  2026-09-22 03:02:53
-// Runtime:    104 ms (beats 94.76%)
-// Memory:     43.2 MB (beats 18.14%)
+// Runtime:    104 ms (beats 94.09%)
+// Memory:     43.2 MB (beats 17.36%)
 // Topics:     Array, String, Backtracking, Depth-First Search, Matrix
 
 class Solution {
