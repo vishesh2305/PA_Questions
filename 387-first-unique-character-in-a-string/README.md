@@ -3,7 +3,7 @@
 **Difficulty:** Easy  
 **Link:** [https://leetcode.com/problems/first-unique-character-in-a-string/](https://leetcode.com/problems/first-unique-character-in-a-string/)  
 **Topics:** `Hash Table`, `String`, `Queue`, `Counting`  
-**Acceptance:** 66.4%
+**Acceptance:** 66.7%
 
 ---
 
