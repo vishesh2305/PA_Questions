@@ -3,8 +3,8 @@
 // Difficulty: Easy
 // Language:   Java
 // Submitted:  2026-05-23 02:08:22
-// Runtime:    1 ms (beats 99.86%)
-// Memory:     47.2 MB (beats 37.40%)
+// Runtime:    1 ms (beats 99.98%)
+// Memory:     47.2 MB (beats 23.42%)
 // Topics:     Math, String, Greedy
 
 class Solution {
