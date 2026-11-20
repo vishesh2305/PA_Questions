@@ -3,7 +3,7 @@
 **Difficulty:** Easy  
 **Link:** [https://leetcode.com/problems/find-target-indices-after-sorting-array/](https://leetcode.com/problems/find-target-indices-after-sorting-array/)  
 **Topics:** `Array`, `Binary Search`, `Sorting`  
-**Acceptance:** 78.3%
+**Acceptance:** 82.4%
 
 ---
 
