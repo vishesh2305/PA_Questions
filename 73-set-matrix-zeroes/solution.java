@@ -4,7 +4,7 @@
 // Language:   Java
 // Submitted:  2026-06-28 00:05:53
 // Runtime:    0 ms (beats 100.00%)
-// Memory:     47.5 MB (beats 79.61%)
+// Memory:     47.5 MB (beats 47.94%)
 // Topics:     Array, Hash Table, Matrix
 
 class Solution {
