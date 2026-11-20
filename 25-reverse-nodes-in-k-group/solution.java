@@ -4,7 +4,7 @@
 // Language:   Java
 // Submitted:  2026-07-14 03:01:14
 // Runtime:    0 ms (beats 100.00%)
-// Memory:     46.5 MB (beats 34.92%)
+// Memory:     46.5 MB (beats 18.56%)
 // Topics:     Linked List, Recursion
 
 /**
