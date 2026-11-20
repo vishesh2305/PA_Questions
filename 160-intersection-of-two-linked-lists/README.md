@@ -3,7 +3,7 @@
 **Difficulty:** Easy  
 **Link:** [https://leetcode.com/problems/intersection-of-two-linked-lists/](https://leetcode.com/problems/intersection-of-two-linked-lists/)  
 **Topics:** `Hash Table`, `Linked List`, `Two Pointers`  
-**Acceptance:** 64.7%
+**Acceptance:** 65.0%
 
 ---
 
