@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Language:   Java
 // Submitted:  2026-06-04 18:43:27
-// Runtime:    70 ms (beats 9.95%)
-// Memory:     54.2 MB (beats 10.80%)
+// Runtime:    70 ms (beats 10.24%)
+// Memory:     54.2 MB (beats 5.36%)
 // Topics:     Array, Linked List, Stack, Design, Doubly-Linked List, Data Stream
 
 class BrowserHistory {
