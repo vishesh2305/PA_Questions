@@ -3,7 +3,7 @@
 **Difficulty:** Easy  
 **Link:** [https://leetcode.com/problems/rising-temperature/](https://leetcode.com/problems/rising-temperature/)  
 **Topics:** `Database`  
-**Acceptance:** 52.2%
+**Acceptance:** 52.6%
 
 ---
 
@@ -24,7 +24,7 @@ This table contains information about the temperature on a certain day.
 
  
 
-Write a solution to find all dates' `id` with higher temperatures compared to its previous dates (yesterday).
+Write a solution to find all dates' `id` with higher temperatures compared to its previous calendar dates (yesterday).
 
 Return the result table in **any order**.
 
