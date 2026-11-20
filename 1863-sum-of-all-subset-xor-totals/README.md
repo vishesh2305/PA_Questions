@@ -3,7 +3,7 @@
 **Difficulty:** Easy  
 **Link:** [https://leetcode.com/problems/sum-of-all-subset-xor-totals/](https://leetcode.com/problems/sum-of-all-subset-xor-totals/)  
 **Topics:** `Array`, `Math`, `Backtracking`, `Bit Manipulation`, `Combinatorics`, `Enumeration`  
-**Acceptance:** 90.1%
+**Acceptance:** 90.2%
 
 ---
 
