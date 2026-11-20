@@ -4,7 +4,7 @@
 // Language:   Java
 // Submitted:  2026-09-08 03:12:01
 // Runtime:    0 ms (beats 100.00%)
-// Memory:     44.2 MB (beats 92.77%)
+// Memory:     44.2 MB (beats 83.83%)
 // Topics:     String, Dynamic Programming, Backtracking, Bracket Sequences
 
 class Solution {
