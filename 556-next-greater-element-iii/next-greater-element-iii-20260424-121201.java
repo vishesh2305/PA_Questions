@@ -4,7 +4,7 @@
 // Language:   Java
 // Submitted:  2026-04-24 12:12:01
 // Runtime:    0 ms (beats 100.00%)
-// Memory:     42.1 MB (beats 59.39%)
+// Memory:     42.1 MB (beats 28.56%)
 // Topics:     Math, Two Pointers, String
 
 class Solution {
