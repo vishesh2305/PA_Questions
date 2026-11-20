@@ -3,8 +3,8 @@
 // Difficulty: Easy
 // Language:   Java
 // Submitted:  2026-04-30 04:19:10
-// Runtime:    15 ms (beats 93.61%)
-// Memory:     47.9 MB (beats 96.50%)
+// Runtime:    15 ms (beats 96.89%)
+// Memory:     47.9 MB (beats 91.81%)
 // Topics:     Array, Hash Table, Linked List, Design, Hash Function
 
 class MyHashMap {
