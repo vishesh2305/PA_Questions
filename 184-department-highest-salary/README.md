@@ -3,7 +3,7 @@
 **Difficulty:** Medium  
 **Link:** [https://leetcode.com/problems/department-highest-salary/](https://leetcode.com/problems/department-highest-salary/)  
 **Topics:** `Database`  
-**Acceptance:** 59.6%
+**Acceptance:** 60.2%
 
 ---
 
