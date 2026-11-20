@@ -3,7 +3,7 @@
 **Difficulty:** Easy  
 **Link:** [https://leetcode.com/problems/classes-with-at-least-5-students/](https://leetcode.com/problems/classes-with-at-least-5-students/)  
 **Topics:** `Database`  
-**Acceptance:** 65.0%
+**Acceptance:** 65.5%
 
 ---
 
