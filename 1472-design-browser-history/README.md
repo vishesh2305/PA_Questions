@@ -3,7 +3,7 @@
 **Difficulty:** Medium  
 **Link:** [https://leetcode.com/problems/design-browser-history/](https://leetcode.com/problems/design-browser-history/)  
 **Topics:** `Array`, `Linked List`, `Stack`, `Design`, `Doubly-Linked List`, `Data Stream`  
-**Acceptance:** 78.5%
+**Acceptance:** 78.7%
 
 ---
 
