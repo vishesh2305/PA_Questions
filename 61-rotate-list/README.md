@@ -3,7 +3,7 @@
 **Difficulty:** Medium  
 **Link:** [https://leetcode.com/problems/rotate-list/](https://leetcode.com/problems/rotate-list/)  
 **Topics:** `Linked List`, `Two Pointers`  
-**Acceptance:** 43.3%
+**Acceptance:** 43.6%
 
 ---
 
