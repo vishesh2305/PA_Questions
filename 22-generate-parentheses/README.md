@@ -3,7 +3,7 @@
 **Difficulty:** Medium  
 **Link:** [https://leetcode.com/problems/generate-parentheses/](https://leetcode.com/problems/generate-parentheses/)  
 **Topics:** `String`, `Dynamic Programming`, `Backtracking`, `Bracket Sequences`  
-**Acceptance:** 79.2%
+**Acceptance:** 79.8%
 
 ---
 
