@@ -4,7 +4,7 @@
 // Language:   Java
 // Submitted:  2026-07-29 00:11:05
 // Runtime:    0 ms (beats 100.00%)
-// Memory:     46.7 MB (beats 17.93%)
+// Memory:     46.7 MB (beats 9.94%)
 // Topics:     Linked List, Tree, Depth-First Search, Breadth-First Search, Binary Tree
 
 /*
