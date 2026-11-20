@@ -3,7 +3,7 @@
 **Difficulty:** Easy  
 **Link:** [https://leetcode.com/problems/best-time-to-buy-and-sell-stock/](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)  
 **Topics:** `Array`, `Dynamic Programming`  
-**Acceptance:** 57.4%
+**Acceptance:** 57.6%
 
 ---
 
