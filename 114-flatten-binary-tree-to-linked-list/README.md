@@ -3,7 +3,7 @@
 **Difficulty:** Medium  
 **Link:** [https://leetcode.com/problems/flatten-binary-tree-to-linked-list/](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)  
 **Topics:** `Linked List`, `Stack`, `Tree`, `Depth-First Search`, `Binary Tree`  
-**Acceptance:** 71.5%
+**Acceptance:** 71.8%
 
 ---
 
