@@ -3,7 +3,7 @@
 **Difficulty:** Easy  
 **Link:** [https://leetcode.com/problems/palindrome-linked-list/](https://leetcode.com/problems/palindrome-linked-list/)  
 **Topics:** `Linked List`, `Two Pointers`, `Stack`, `Recursion`  
-**Acceptance:** 58.8%
+**Acceptance:** 59.1%
 
 ---
 
