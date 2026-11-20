@@ -3,7 +3,7 @@
 **Difficulty:** Easy  
 **Link:** [https://leetcode.com/problems/is-subsequence/](https://leetcode.com/problems/is-subsequence/)  
 **Topics:** `Two Pointers`, `String`, `Dynamic Programming`  
-**Acceptance:** 49.4%
+**Acceptance:** 49.6%
 
 ---
 
