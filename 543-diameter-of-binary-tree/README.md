@@ -3,7 +3,7 @@
 **Difficulty:** Easy  
 **Link:** [https://leetcode.com/problems/diameter-of-binary-tree/](https://leetcode.com/problems/diameter-of-binary-tree/)  
 **Topics:** `Tree`, `Depth-First Search`, `Binary Tree`, `DP on Trees`  
-**Acceptance:** 66.3%
+**Acceptance:** 66.5%
 
 ---
 
