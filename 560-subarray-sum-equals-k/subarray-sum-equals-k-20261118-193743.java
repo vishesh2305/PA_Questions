@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Language:   Java
 // Submitted:  2026-11-18 19:37:43
-// Runtime:    24 ms (beats 83.02%)
-// Memory:     48.2 MB (beats 77.72%)
+// Runtime:    24 ms (beats 83.64%)
+// Memory:     48.2 MB (beats 76.41%)
 // Topics:     Array, Hash Table, Prefix Sum
 
 class Solution {
