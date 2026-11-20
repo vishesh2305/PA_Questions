@@ -3,8 +3,8 @@
 // Difficulty: Easy
 // Language:   Java
 // Submitted:  2026-04-21 01:49:01
-// Runtime:    5 ms (beats 32.32%)
-// Memory:     69.5 MB (beats 79.57%)
+// Runtime:    5 ms (beats 35.61%)
+// Memory:     69.5 MB (beats 43.75%)
 // Topics:     Array, Sliding Window
 
 class Solution {
