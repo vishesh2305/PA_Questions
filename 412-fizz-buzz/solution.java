@@ -3,8 +3,8 @@
 // Difficulty: Easy
 // Language:   Java
 // Submitted:  2026-01-25 23:31:53
-// Runtime:    1 ms (beats 99.82%)
-// Memory:     47.1 MB (beats 11.14%)
+// Runtime:    1 ms (beats 99.92%)
+// Memory:     47.1 MB (beats 6.78%)
 // Topics:     Math, String, Simulation
 
 class Solution {
