@@ -3,7 +3,7 @@
 **Difficulty:** Easy  
 **Link:** [https://leetcode.com/problems/search-insert-position/](https://leetcode.com/problems/search-insert-position/)  
 **Topics:** `Array`, `Binary Search`  
-**Acceptance:** 52.3%
+**Acceptance:** 52.6%
 
 ---
 
