@@ -3,7 +3,7 @@
 **Difficulty:** Easy  
 **Link:** [https://leetcode.com/problems/middle-of-the-linked-list/](https://leetcode.com/problems/middle-of-the-linked-list/)  
 **Topics:** `Linked List`, `Two Pointers`  
-**Acceptance:** 82.4%
+**Acceptance:** 82.6%
 
 ---
 
