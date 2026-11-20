@@ -3,7 +3,7 @@
 -- Difficulty: Easy
 -- Language:   MySQL
 -- Submitted:  2026-05-19 01:11:05
--- Runtime:    394 ms (beats 74.05%)
+-- Runtime:    394 ms (beats 68.55%)
 -- Memory:     0B (beats 100.00%)
 -- Topics:     Database
 
