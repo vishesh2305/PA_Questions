@@ -3,7 +3,7 @@
 **Difficulty:** Easy  
 **Link:** [https://leetcode.com/problems/remove-linked-list-elements/](https://leetcode.com/problems/remove-linked-list-elements/)  
 **Topics:** `Linked List`, `Recursion`  
-**Acceptance:** 55.5%
+**Acceptance:** 55.9%
 
 ---
 
