@@ -3,7 +3,7 @@
 **Difficulty:** Easy  
 **Link:** [https://leetcode.com/problems/duplicate-emails/](https://leetcode.com/problems/duplicate-emails/)  
 **Topics:** `Database`  
-**Acceptance:** 74.4%
+**Acceptance:** 74.7%
 
 ---
 
