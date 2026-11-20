@@ -4,7 +4,7 @@
 // Language:   Java
 // Submitted:  2026-08-25 02:44:04
 // Runtime:    0 ms (beats 100.00%)
-// Memory:     42.2 MB (beats 36.21%)
+// Memory:     42.2 MB (beats 17.31%)
 // Topics:     Math, Dynamic Programming, Memoization
 
 class Solution {
