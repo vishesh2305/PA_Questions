@@ -3,7 +3,7 @@
 **Difficulty:** Medium  
 **Link:** [https://leetcode.com/problems/majority-element-ii/](https://leetcode.com/problems/majority-element-ii/)  
 **Topics:** `Array`, `Hash Table`, `Sorting`, `Counting`, `Boyer–Moore Majority Vote Algorithm`  
-**Acceptance:** 56.8%
+**Acceptance:** 57.0%
 
 ---
 
