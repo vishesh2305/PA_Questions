@@ -3,7 +3,7 @@
 **Difficulty:** Hard  
 **Link:** [https://leetcode.com/problems/reverse-pairs/](https://leetcode.com/problems/reverse-pairs/)  
 **Topics:** `Array`, `Binary Search`, `Divide and Conquer`, `Binary Indexed Tree`, `Segment Tree`, `Merge Sort`, `Ordered Set`, `Treap`  
-**Acceptance:** 35.2%
+**Acceptance:** 35.6%
 
 ---
 
