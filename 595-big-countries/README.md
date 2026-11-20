@@ -3,7 +3,7 @@
 **Difficulty:** Easy  
 **Link:** [https://leetcode.com/problems/big-countries/](https://leetcode.com/problems/big-countries/)  
 **Topics:** `Database`  
-**Acceptance:** 68.9%
+**Acceptance:** 69.0%
 
 ---
 
