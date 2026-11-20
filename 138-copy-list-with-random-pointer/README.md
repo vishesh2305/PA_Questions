@@ -3,7 +3,7 @@
 **Difficulty:** Medium  
 **Link:** [https://leetcode.com/problems/copy-list-with-random-pointer/](https://leetcode.com/problems/copy-list-with-random-pointer/)  
 **Topics:** `Hash Table`, `Linked List`  
-**Acceptance:** 63.7%
+**Acceptance:** 64.0%
 
 ---
 
