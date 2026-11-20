@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Language:   Java
 // Submitted:  2026-09-01 03:43:28
-// Runtime:    12 ms (beats 5.11%)
-// Memory:     45 MB (beats 59.94%)
+// Runtime:    12 ms (beats 5.30%)
+// Memory:     45 MB (beats 32.08%)
 // Topics:     Array, Backtracking, Bit Manipulation
 
 class Solution {
