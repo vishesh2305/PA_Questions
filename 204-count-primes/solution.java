@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Language:   Java
 // Submitted:  2026-10-06 00:59:12
-// Runtime:    619 ms (beats 74.11%)
-// Memory:     79.9 MB (beats 38.62%)
+// Runtime:    619 ms (beats 32.85%)
+// Memory:     79.9 MB (beats 16.21%)
 // Topics:     Array, Math, Enumeration, Number Theory, Primality Test, Sieve Theory, Prime Number Sieve
 
 class Solution {
