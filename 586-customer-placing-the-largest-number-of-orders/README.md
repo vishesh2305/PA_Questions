@@ -3,7 +3,7 @@
 **Difficulty:** Easy  
 **Link:** [https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/)  
 **Topics:** `Database`  
-**Acceptance:** 64.8%
+**Acceptance:** 65.1%
 
 ---
 
