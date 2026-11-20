@@ -4,7 +4,7 @@
 // Language:   C++
 // Submitted:  2025-12-26 23:24:35
 // Runtime:    0 ms (beats 100.00%)
-// Memory:     17.7 MB (beats 17.28%)
+// Memory:     17.7 MB (beats 15.65%)
 // Topics:     Array, Binary Search
 
 class Solution {
