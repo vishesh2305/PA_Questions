@@ -3,7 +3,7 @@
 **Difficulty:** Easy  
 **Link:** [https://leetcode.com/problems/search-in-a-binary-search-tree/](https://leetcode.com/problems/search-in-a-binary-search-tree/)  
 **Topics:** `Tree`, `Binary Search Tree`, `Binary Tree`  
-**Acceptance:** 83.2%
+**Acceptance:** 83.3%
 
 ---
 
