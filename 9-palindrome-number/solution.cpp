@@ -4,7 +4,7 @@
 // Language:   C++
 // Submitted:  2025-08-28 13:58:14
 // Runtime:    0 ms (beats 100.00%)
-// Memory:     8.5 MB (beats 91.79%)
+// Memory:     8.5 MB (beats 84.95%)
 // Topics:     Math
 
 class Solution {
