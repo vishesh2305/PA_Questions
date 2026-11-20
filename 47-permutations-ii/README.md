@@ -3,7 +3,7 @@
 **Difficulty:** Medium  
 **Link:** [https://leetcode.com/problems/permutations-ii/](https://leetcode.com/problems/permutations-ii/)  
 **Topics:** `Array`, `Backtracking`, `Sorting`  
-**Acceptance:** 64.2%
+**Acceptance:** 64.5%
 
 ---
 
