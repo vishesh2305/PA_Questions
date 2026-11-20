@@ -4,7 +4,7 @@
 // Language:   Java
 // Submitted:  2026-07-12 13:46:45
 // Runtime:    0 ms (beats 100.00%)
-// Memory:     47.1 MB (beats 16.66%)
+// Memory:     47.1 MB (beats 8.99%)
 // Topics:     Hash Table, Linked List, Two Pointers, Floyd's Cycle Finding Algorithm
 
 /**
