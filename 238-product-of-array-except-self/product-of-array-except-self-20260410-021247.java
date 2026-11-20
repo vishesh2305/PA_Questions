@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Language:   Java
 // Submitted:  2026-04-10 02:12:47
-// Runtime:    2 ms (beats 92.64%)
-// Memory:     72.1 MB (beats 43.76%)
+// Runtime:    2 ms (beats 93.41%)
+// Memory:     72.1 MB (beats 24.07%)
 // Topics:     Array, Prefix Sum
 
 class Solution {
