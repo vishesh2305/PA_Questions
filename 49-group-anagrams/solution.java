@@ -2,9 +2,9 @@
 // https://leetcode.com/problems/group-anagrams/
 // Difficulty: Medium
 // Language:   Java
-// Submitted:  2026-11-17 20:15:16
-// Runtime:    7 ms (beats 80.51%)
-// Memory:     48.9 MB (beats 92.62%)
+// Submitted:  2026-11-20 17:38:23
+// Runtime:    7 ms (beats 81.10%)
+// Memory:     49.2 MB (beats 80.70%)
 // Topics:     Array, Hash Table, String, Sorting
 
 class Solution {
@@ -12,8 +12,7 @@ class Solution {
         HashMap<String, List<String>> map = new HashMap<>();
 
         for(String str : strs){
-            char[] ch= str.toCharArray();
-
+            char[] ch = str.toCharArray();
             Arrays.sort(ch);
 
             String key = new String(ch);
@@ -26,5 +25,6 @@ class Solution {
         }
 
         return new ArrayList<>(map.values());
+
     }
 }
