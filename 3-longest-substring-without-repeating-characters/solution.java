@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Language:   Java
 // Submitted:  2026-07-21 20:29:42
-// Runtime:    2 ms (beats 99.71%)
-// Memory:     44.4 MB (beats 99.57%)
+// Runtime:    2 ms (beats 100.00%)
+// Memory:     44.4 MB (beats 100.00%)
 // Topics:     Hash Table, String, Sliding Window
 
 class Solution {
