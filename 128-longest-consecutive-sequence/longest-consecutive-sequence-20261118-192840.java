@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Language:   Java
 // Submitted:  2026-11-18 19:28:40
-// Runtime:    28 ms (beats 83.07%)
-// Memory:     95.2 MB (beats 58.01%)
+// Runtime:    28 ms (beats 83.14%)
+// Memory:     95.2 MB (beats 56.92%)
 // Topics:     Array, Hash Table, Union-Find
 
 class Solution {
