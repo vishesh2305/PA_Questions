@@ -3,7 +3,7 @@
 **Difficulty:** Easy  
 **Link:** [https://leetcode.com/problems/power-of-four/](https://leetcode.com/problems/power-of-four/)  
 **Topics:** `Math`, `Bit Manipulation`, `Recursion`  
-**Acceptance:** 52.6%
+**Acceptance:** 52.9%
 
 ---
 
