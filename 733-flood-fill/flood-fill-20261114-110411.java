@@ -3,8 +3,8 @@
 // Difficulty: Easy
 // Language:   Java
 // Submitted:  2026-11-14 11:04:11
-// Runtime:    1 ms (beats 69.49%)
-// Memory:     46.2 MB (beats 84.34%)
+// Runtime:    1 ms (beats 74.47%)
+// Memory:     46.2 MB (beats 80.82%)
 // Topics:     Array, Depth-First Search, Breadth-First Search, Matrix
 
 class Solution {
