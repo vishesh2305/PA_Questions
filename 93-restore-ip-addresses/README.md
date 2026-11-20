@@ -3,7 +3,7 @@
 **Difficulty:** Medium  
 **Link:** [https://leetcode.com/problems/restore-ip-addresses/](https://leetcode.com/problems/restore-ip-addresses/)  
 **Topics:** `String`, `Backtracking`  
-**Acceptance:** 57.1%
+**Acceptance:** 57.5%
 
 ---
 
