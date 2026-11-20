@@ -3,7 +3,7 @@
 **Difficulty:** Easy  
 **Link:** [https://leetcode.com/problems/shuffle-the-array/](https://leetcode.com/problems/shuffle-the-array/)  
 **Topics:** `Array`  
-**Acceptance:** 88.7%
+**Acceptance:** 88.6%
 
 ---
 
