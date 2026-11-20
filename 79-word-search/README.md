@@ -3,7 +3,7 @@
 **Difficulty:** Medium  
 **Link:** [https://leetcode.com/problems/word-search/](https://leetcode.com/problems/word-search/)  
 **Topics:** `Array`, `String`, `Backtracking`, `Depth-First Search`, `Matrix`  
-**Acceptance:** 48.2%
+**Acceptance:** 48.4%
 
 ---
 
