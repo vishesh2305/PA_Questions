@@ -3,7 +3,7 @@
 **Difficulty:** Easy  
 **Link:** [https://leetcode.com/problems/product-sales-analysis-i/](https://leetcode.com/problems/product-sales-analysis-i/)  
 **Topics:** `Database`  
-**Acceptance:** 86.3%
+**Acceptance:** 86.4%
 
 ---
 
