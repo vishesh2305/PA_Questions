@@ -3,7 +3,7 @@
 **Difficulty:** Medium  
 **Link:** [https://leetcode.com/problems/find-bottom-left-tree-value/](https://leetcode.com/problems/find-bottom-left-tree-value/)  
 **Topics:** `Tree`, `Depth-First Search`, `Breadth-First Search`, `Binary Tree`  
-**Acceptance:** 72.6%
+**Acceptance:** 72.7%
 
 ---
 
