@@ -3,7 +3,7 @@
 **Difficulty:** Easy  
 **Link:** [https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)  
 **Topics:** `Array`, `Divide and Conquer`, `Tree`, `Binary Search Tree`, `Binary Tree`  
-**Acceptance:** 76.1%
+**Acceptance:** 76.3%
 
 ---
 
