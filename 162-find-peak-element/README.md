@@ -3,7 +3,7 @@
 **Difficulty:** Medium  
 **Link:** [https://leetcode.com/problems/find-peak-element/](https://leetcode.com/problems/find-peak-element/)  
 **Topics:** `Array`, `Binary Search`  
-**Acceptance:** 47.2%
+**Acceptance:** 47.3%
 
 ---
 
