@@ -4,7 +4,7 @@
 // Language:   Java
 // Submitted:  2026-07-25 01:21:58
 // Runtime:    0 ms (beats 100.00%)
-// Memory:     45 MB (beats 45.25%)
+// Memory:     45 MB (beats 23.49%)
 // Topics:     Array, Divide and Conquer, Tree, Binary Search Tree, Binary Tree
 
 /**
