@@ -3,7 +3,7 @@
 **Difficulty:** Medium  
 **Link:** [https://leetcode.com/problems/reverse-words-in-a-string/](https://leetcode.com/problems/reverse-words-in-a-string/)  
 **Topics:** `Two Pointers`, `String`  
-**Acceptance:** 57.9%
+**Acceptance:** 58.3%
 
 ---
 
