@@ -3,7 +3,7 @@
 **Difficulty:** Easy  
 **Link:** [https://leetcode.com/problems/longest-common-prefix/](https://leetcode.com/problems/longest-common-prefix/)  
 **Topics:** `Array`, `String`, `Trie`  
-**Acceptance:** 48.4%
+**Acceptance:** 48.6%
 
 ---
 
