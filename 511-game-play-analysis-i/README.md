@@ -3,7 +3,7 @@
 **Difficulty:** Easy  
 **Link:** [https://leetcode.com/problems/game-play-analysis-i/](https://leetcode.com/problems/game-play-analysis-i/)  
 **Topics:** `Database`  
-**Acceptance:** 76.7%
+**Acceptance:** 77.0%
 
 ---
 
