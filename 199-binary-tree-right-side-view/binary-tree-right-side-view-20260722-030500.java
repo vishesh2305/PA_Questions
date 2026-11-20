@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Language:   Java
 // Submitted:  2026-07-22 03:05:00
-// Runtime:    1 ms (beats 71.77%)
-// Memory:     43.8 MB (beats 15.24%)
+// Runtime:    1 ms (beats 83.71%)
+// Memory:     43.8 MB (beats 7.95%)
 // Topics:     Tree, Depth-First Search, Breadth-First Search, Binary Tree
 
 /**
