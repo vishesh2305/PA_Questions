@@ -3,7 +3,7 @@
 **Difficulty:** Easy  
 **Link:** [https://leetcode.com/problems/path-sum/](https://leetcode.com/problems/path-sum/)  
 **Topics:** `Tree`, `Depth-First Search`, `Breadth-First Search`, `Binary Tree`  
-**Acceptance:** 55.7%
+**Acceptance:** 56.0%
 
 ---
 
