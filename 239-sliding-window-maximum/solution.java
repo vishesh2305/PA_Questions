@@ -3,8 +3,8 @@
 // Difficulty: Hard
 // Language:   Java
 // Submitted:  2026-10-14 13:17:28
-// Runtime:    31 ms (beats 46.66%)
-// Memory:     146.2 MB (beats 53.45%)
+// Runtime:    31 ms (beats 52.74%)
+// Memory:     146.2 MB (beats 51.24%)
 // Topics:     Array, Queue, Sliding Window, Heap (Priority Queue), Monotonic Queue, Range Minimum/Maximum Query
 
 class Solution {
