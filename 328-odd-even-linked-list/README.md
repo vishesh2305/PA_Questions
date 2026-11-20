@@ -3,7 +3,7 @@
 **Difficulty:** Medium  
 **Link:** [https://leetcode.com/problems/odd-even-linked-list/](https://leetcode.com/problems/odd-even-linked-list/)  
 **Topics:** `Linked List`  
-**Acceptance:** 62.8%
+**Acceptance:** 62.9%
 
 ---
 
