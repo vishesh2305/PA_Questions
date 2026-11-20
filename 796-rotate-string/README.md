@@ -3,7 +3,7 @@
 **Difficulty:** Easy  
 **Link:** [https://leetcode.com/problems/rotate-string/](https://leetcode.com/problems/rotate-string/)  
 **Topics:** `String`, `String Matching`  
-**Acceptance:** 66.5%
+**Acceptance:** 66.6%
 
 ---
 
@@ -18,16 +18,23 @@ A **shift** on `s` consists of moving the leftmost character of `s` to the right
 
 Example 1:**
 
-```
-Input: s = "abcde", goal = "cdeab"
-Output: true
-```
+**Input:** s = "abcde", goal = "cdeab"
+
+**Output:** true
+
+**Explanation:**
+
+Rotating `s` to the left by 2 positions moves `"ab"` to the end, resulting in `"cdeab"`, which is equal to `goal`.
+
 Example 2:**
 
-```
-Input: s = "abcde", goal = "abced"
-Output: false
-```
+**Input:** s = "abcde", goal = "abced"
+
+**Output:** false
+
+**Explanation:**
+
+No sequence of rotations of `s` can produce `"abced"`. The characters appear in a different relative order, so `goal` is not a rotation of `s`.
 
  
 
