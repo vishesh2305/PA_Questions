@@ -3,7 +3,7 @@
 **Difficulty:** Easy  
 **Link:** [https://leetcode.com/problems/contains-duplicate-ii/](https://leetcode.com/problems/contains-duplicate-ii/)  
 **Topics:** `Array`, `Hash Table`, `Sliding Window`  
-**Acceptance:** 52.0%
+**Acceptance:** 52.1%
 
 ---
 
