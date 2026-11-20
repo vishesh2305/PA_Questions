@@ -3,7 +3,7 @@
 **Difficulty:** Easy  
 **Link:** [https://leetcode.com/problems/combine-two-tables/](https://leetcode.com/problems/combine-two-tables/)  
 **Topics:** `Database`  
-**Acceptance:** 80.0%
+**Acceptance:** 80.2%
 
 ---
 
