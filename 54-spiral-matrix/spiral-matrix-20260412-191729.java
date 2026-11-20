@@ -4,7 +4,7 @@
 // Language:   Java
 // Submitted:  2026-04-12 19:17:29
 // Runtime:    0 ms (beats 100.00%)
-// Memory:     43.1 MB (beats 25.26%)
+// Memory:     43.1 MB (beats 13.96%)
 // Topics:     Array, Matrix, Simulation
 
 class Solution {
