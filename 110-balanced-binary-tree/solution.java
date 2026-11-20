@@ -4,7 +4,7 @@
 // Language:   Java
 // Submitted:  2026-07-25 00:24:45
 // Runtime:    0 ms (beats 100.00%)
-// Memory:     45.6 MB (beats 42.02%)
+// Memory:     45.6 MB (beats 24.62%)
 // Topics:     Tree, Depth-First Search, Binary Tree
 
 /**
