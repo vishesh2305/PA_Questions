@@ -3,7 +3,7 @@
 **Difficulty:** Medium  
 **Link:** [https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k/](https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k/)  
 **Topics:** `Array`, `Hash Table`, `Sliding Window`  
-**Acceptance:** 43.5%
+**Acceptance:** 43.6%
 
 ---
 
