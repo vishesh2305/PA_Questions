@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-> Auto-synced from LeetCode by the LeetHub Sync browser extension. Last updated 2026-11-20 17:38:31.
+> Auto-synced from LeetCode by the LeetHub Sync browser extension. Last updated 2026-11-20 17:59:14.
 
 **Solved:** 222 · 🟢 Easy 103 · 🟡 Medium 109 · 🔴 Hard 10
 
@@ -83,7 +83,7 @@
 | 121 | [Best Time to Buy and Sell Stock](121-best-time-to-buy-and-sell-stock) | 🟢 Easy | Java | 2 | 2026-09-22 |
 | 122 | [Best Time to Buy and Sell Stock II](122-best-time-to-buy-and-sell-stock-ii) | 🟡 Medium | Java | 2 | 2026-09-22 |
 | 124 | [Binary Tree Maximum Path Sum](124-binary-tree-maximum-path-sum) | 🔴 Hard | Java | 2 | 2026-09-22 |
-| 125 | [Valid Palindrome](125-valid-palindrome) | 🟢 Easy | Java | 2 | 2026-09-22 |
+| 125 | [Valid Palindrome](125-valid-palindrome) | 🟢 Easy | Java | 3 | 2026-11-20 |
 | 128 | [Longest Consecutive Sequence](128-longest-consecutive-sequence) | 🟡 Medium | Java | 5 | 2026-11-18 |
 | 130 | [Surrounded Regions](130-surrounded-regions) | 🟡 Medium | Java | 2 | 2026-11-14 |
 | 131 | [Palindrome Partitioning](131-palindrome-partitioning) | 🟡 Medium | Java | 3 | 2026-09-22 |
