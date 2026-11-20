@@ -3,7 +3,7 @@
 **Difficulty:** Medium  
 **Link:** [https://leetcode.com/problems/second-highest-salary/](https://leetcode.com/problems/second-highest-salary/)  
 **Topics:** `Database`  
-**Acceptance:** 48.5%
+**Acceptance:** 49.0%
 
 ---
 
