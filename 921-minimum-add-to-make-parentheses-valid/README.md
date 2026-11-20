@@ -3,7 +3,7 @@
 **Difficulty:** Medium  
 **Link:** [https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/)  
 **Topics:** `String`, `Stack`, `Greedy`, `Bracket Sequences`  
-**Acceptance:** 74.2%
+**Acceptance:** 74.4%
 
 ---
 
