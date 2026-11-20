@@ -2,9 +2,9 @@
 // https://leetcode.com/problems/maximum-depth-of-binary-tree/
 // Difficulty: Easy
 // Language:   Java
-// Submitted:  2026-07-23 03:20:36
+// Submitted:  2026-10-21 20:40:19
 // Runtime:    0 ms (beats 100.00%)
-// Memory:     46.7 MB (beats 91.81%)
+// Memory:     47 MB (beats 60.57%)
 // Topics:     Tree, Depth-First Search, Breadth-First Search, Binary Tree
 
 /**
@@ -25,13 +25,9 @@
 class Solution {
     public int maxDepth(TreeNode root) {
 
-        if(root == null) return 0;
+        if(root==null) return 0;
 
-        int l = maxDepth(root.left);
-        int r = maxDepth(root.right);
-
-
-        return 1+Math.max(l, r);
+        return (Math.max(maxDepth(root.left), maxDepth(root.right))+1);
         
     }
 }
