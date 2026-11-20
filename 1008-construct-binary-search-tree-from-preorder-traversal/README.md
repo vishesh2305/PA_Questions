@@ -3,7 +3,7 @@
 **Difficulty:** Medium  
 **Link:** [https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/)  
 **Topics:** `Array`, `Stack`, `Tree`, `Binary Search Tree`, `Monotonic Stack`, `Binary Tree`  
-**Acceptance:** 84.6%
+**Acceptance:** 84.7%
 
 ---
 
