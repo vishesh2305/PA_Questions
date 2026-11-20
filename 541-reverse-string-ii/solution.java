@@ -3,8 +3,8 @@
 // Difficulty: Easy
 // Language:   Java
 // Submitted:  2026-07-16 19:35:58
-// Runtime:    1 ms (beats 96.11%)
-// Memory:     44.7 MB (beats 61.57%)
+// Runtime:    1 ms (beats 98.70%)
+// Memory:     44.7 MB (beats 37.18%)
 // Topics:     Two Pointers, String
 
 class Solution {
