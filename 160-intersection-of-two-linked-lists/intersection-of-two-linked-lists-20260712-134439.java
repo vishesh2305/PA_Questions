@@ -3,8 +3,8 @@
 // Difficulty: Easy
 // Language:   Java
 // Submitted:  2026-07-12 13:44:39
-// Runtime:    1 ms (beats 99.93%)
-// Memory:     53 MB (beats 12.69%)
+// Runtime:    1 ms (beats 99.96%)
+// Memory:     53 MB (beats 8.05%)
 // Topics:     Hash Table, Linked List, Two Pointers
 
 /**
