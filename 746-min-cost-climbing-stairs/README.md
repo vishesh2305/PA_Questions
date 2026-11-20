@@ -3,7 +3,7 @@
 **Difficulty:** Easy  
 **Link:** [https://leetcode.com/problems/min-cost-climbing-stairs/](https://leetcode.com/problems/min-cost-climbing-stairs/)  
 **Topics:** `Array`, `Dynamic Programming`  
-**Acceptance:** 68.8%
+**Acceptance:** 68.9%
 
 ---
 
