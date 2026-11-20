@@ -3,7 +3,7 @@
 **Difficulty:** Medium  
 **Link:** [https://leetcode.com/problems/palindrome-partitioning/](https://leetcode.com/problems/palindrome-partitioning/)  
 **Topics:** `String`, `Dynamic Programming`, `Backtracking`  
-**Acceptance:** 74.7%
+**Acceptance:** 74.9%
 
 ---
 
