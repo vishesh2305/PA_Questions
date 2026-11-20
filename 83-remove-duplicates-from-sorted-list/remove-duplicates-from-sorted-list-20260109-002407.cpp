@@ -4,7 +4,7 @@
 // Language:   C++
 // Submitted:  2026-01-09 00:24:07
 // Runtime:    0 ms (beats 100.00%)
-// Memory:     16.3 MB (beats 34.27%)
+// Memory:     16.3 MB (beats 27.08%)
 // Topics:     Linked List
 
 /**
