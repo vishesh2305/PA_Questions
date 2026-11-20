@@ -3,7 +3,7 @@
 **Difficulty:** Easy  
 **Link:** [https://leetcode.com/problems/move-zeroes/](https://leetcode.com/problems/move-zeroes/)  
 **Topics:** `Array`, `Two Pointers`  
-**Acceptance:** 64.4%
+**Acceptance:** 64.6%
 
 ---
 
