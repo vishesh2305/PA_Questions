@@ -4,7 +4,7 @@
 // Language:   Java
 // Submitted:  2026-09-12 05:20:05
 // Runtime:    0 ms (beats 100.00%)
-// Memory:     43.8 MB (beats 63.13%)
+// Memory:     43.8 MB (beats 35.90%)
 // Topics:     Array, Two Pointers, Sorting
 
 class Solution {
