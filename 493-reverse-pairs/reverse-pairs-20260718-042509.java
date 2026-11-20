@@ -3,8 +3,8 @@
 // Difficulty: Hard
 // Language:   Java
 // Submitted:  2026-07-18 04:25:09
-// Runtime:    77 ms (beats 20.85%)
-// Memory:     58.8 MB (beats 95.80%)
+// Runtime:    77 ms (beats 18.28%)
+// Memory:     58.8 MB (beats 91.03%)
 // Topics:     Array, Binary Search, Divide and Conquer, Binary Indexed Tree, Segment Tree, Merge Sort, Ordered Set, Treap
 
 class Solution {
