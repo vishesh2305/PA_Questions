@@ -1,8 +1,8 @@
 # LeetCode Solutions
 
-> Auto-synced from LeetCode by the LeetHub Sync browser extension. Last updated 2026-11-20 12:50:53.
+> Auto-synced from LeetCode by the LeetHub Sync browser extension. Last updated 2026-11-20 14:05:58.
 
-**Solved:** 221 · 🟢 Easy 102 · 🟡 Medium 109 · 🔴 Hard 10
+**Solved:** 222 · 🟢 Easy 103 · 🟡 Medium 109 · 🔴 Hard 10
 
 | # | Problem | Difficulty | Language(s) | Submissions | Last solved |
 | --- | --- | --- | --- | --- | --- |
@@ -116,6 +116,7 @@
 | 200 | [Number of Islands](200-number-of-islands) | 🟡 Medium | Java | 4 | 2026-11-14 |
 | 203 | [Remove Linked List Elements](203-remove-linked-list-elements) | 🟢 Easy | C++ | 2 | 2026-09-22 |
 | 204 | [Count Primes](204-count-primes) | 🟡 Medium | C++, Java | 5 | 2026-10-06 |
+| 205 | [Isomorphic Strings](205-isomorphic-strings) | 🟢 Easy | Java | 1 | 2026-11-20 |
 | 206 | [Reverse Linked List](206-reverse-linked-list) | 🟢 Easy | Java | 2 | 2026-09-22 |
 | 209 | [Minimum Size Subarray Sum](209-minimum-size-subarray-sum) | 🟡 Medium | Java | 2 | 2026-09-22 |
 | 215 | [Kth Largest Element in an Array](215-kth-largest-element-in-an-array) | 🟡 Medium | Java | 3 | 2026-11-15 |
