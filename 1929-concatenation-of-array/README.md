@@ -3,7 +3,7 @@
 **Difficulty:** Easy  
 **Link:** [https://leetcode.com/problems/concatenation-of-array/](https://leetcode.com/problems/concatenation-of-array/)  
 **Topics:** `Array`, `Simulation`  
-**Acceptance:** 90.0%
+**Acceptance:** 89.9%
 
 ---
 
