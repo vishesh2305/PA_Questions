@@ -3,7 +3,7 @@
 **Difficulty:** Easy  
 **Link:** [https://leetcode.com/problems/fizz-buzz/](https://leetcode.com/problems/fizz-buzz/)  
 **Topics:** `Math`, `String`, `Simulation`  
-**Acceptance:** 75.9%
+**Acceptance:** 76.1%
 
 ---
 
