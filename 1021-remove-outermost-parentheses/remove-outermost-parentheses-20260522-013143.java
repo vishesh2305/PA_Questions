@@ -3,8 +3,8 @@
 // Difficulty: Easy
 // Language:   Java
 // Submitted:  2026-05-22 01:31:43
-// Runtime:    2 ms (beats 99.78%)
-// Memory:     43 MB (beats 98.06%)
+// Runtime:    2 ms (beats 99.43%)
+// Memory:     43 MB (beats 93.93%)
 // Topics:     String, Stack, Bracket Sequences
 
 class Solution {
