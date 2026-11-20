@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Language:   Java
 // Submitted:  2026-04-15 01:01:42
-// Runtime:    2 ms (beats 96.07%)
-// Memory:     48.1 MB (beats 95.12%)
+// Runtime:    2 ms (beats 98.06%)
+// Memory:     48.1 MB (beats 63.03%)
 // Topics:     Array, Two Pointers, Binary Search
 
 class Solution {
