@@ -3,8 +3,8 @@
 // Difficulty: Easy
 // Language:   Java
 // Submitted:  2026-08-15 02:51:05
-// Runtime:    1 ms (beats 96.62%)
-// Memory:     42.6 MB (beats 55.54%)
+// Runtime:    1 ms (beats 98.49%)
+// Memory:     42.6 MB (beats 26.61%)
 // Topics:     Math, Bit Manipulation, Recursion
 
 class Solution {
