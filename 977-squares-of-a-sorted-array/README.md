@@ -3,7 +3,7 @@
 **Difficulty:** Easy  
 **Link:** [https://leetcode.com/problems/squares-of-a-sorted-array/](https://leetcode.com/problems/squares-of-a-sorted-array/)  
 **Topics:** `Array`, `Two Pointers`, `Sorting`  
-**Acceptance:** 74.2%
+**Acceptance:** 74.3%
 
 ---
 
