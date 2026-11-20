@@ -3,7 +3,7 @@
 **Difficulty:** Easy  
 **Link:** [https://leetcode.com/problems/buy-two-chocolates/](https://leetcode.com/problems/buy-two-chocolates/)  
 **Topics:** `Array`, `Greedy`, `Sorting`  
-**Acceptance:** 68.4%
+**Acceptance:** 68.1%
 
 ---
 
