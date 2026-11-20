@@ -3,7 +3,7 @@
 **Difficulty:** Easy  
 **Link:** [https://leetcode.com/problems/maximum-average-subarray-i/](https://leetcode.com/problems/maximum-average-subarray-i/)  
 **Topics:** `Array`, `Sliding Window`  
-**Acceptance:** 49.2%
+**Acceptance:** 49.6%
 
 ---
 
