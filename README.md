@@ -1,8 +1,8 @@
 # LeetCode Solutions
 
-> Auto-synced from LeetCode by the LeetHub Sync browser extension. Last updated 2026-11-22 00:15:58.
+> Auto-synced from LeetCode by the LeetHub Sync browser extension. Last updated 2026-11-22 00:38:20.
 
-**Solved:** 223 · 🟢 Easy 104 · 🟡 Medium 109 · 🔴 Hard 10
+**Solved:** 224 · 🟢 Easy 105 · 🟡 Medium 109 · 🔴 Hard 10
 
 | # | Problem | Difficulty | Language(s) | Submissions | Last solved |
 | --- | --- | --- | --- | --- | --- |
@@ -115,6 +115,7 @@
 | 198 | [House Robber](198-house-robber) | 🟡 Medium | C++ | 4 | 2026-11-20 |
 | 199 | [Binary Tree Right Side View](199-binary-tree-right-side-view) | 🟡 Medium | Java | 4 | 2026-11-20 |
 | 200 | [Number of Islands](200-number-of-islands) | 🟡 Medium | Java | 6 | 2026-11-20 |
+| 202 | [Happy Number](202-happy-number) | 🟢 Easy | Java | 1 | 2026-11-22 |
 | 203 | [Remove Linked List Elements](203-remove-linked-list-elements) | 🟢 Easy | C++ | 4 | 2026-11-20 |
 | 204 | [Count Primes](204-count-primes) | 🟡 Medium | C++, Java | 7 | 2026-11-20 |
 | 205 | [Isomorphic Strings](205-isomorphic-strings) | 🟢 Easy | Java | 1 | 2026-11-20 |
