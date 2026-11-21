@@ -2,9 +2,9 @@
 // https://leetcode.com/problems/happy-number/
 // Difficulty: Easy
 // Language:   Java
-// Submitted:  2026-11-22 00:38:11
+// Submitted:  2026-11-22 00:38:56
 // Runtime:    2 ms (beats 31.60%)
-// Memory:     42.1 MB (beats 56.05%)
+// Memory:     42.3 MB (beats 36.71%)
 // Topics:     Hash Table, Math, Two Pointers, Floyd's Cycle Finding Algorithm
 
 class Solution {
@@ -13,23 +13,22 @@ class Solution {
 
         long num = n;
 
-        Set<Long> set = new HashSet<>();
+        Set<Integer> set = new HashSet<>();
 
         while(num != 1){
-            if(set.contains(num)){
+            if(set.contains((int)num)){
                 return false;
             }
 
-            set.add(num);
-            long temp = num;
-            long nextSum = 0;
+            int temp = (int)num;
+            set.add((int)num);
+            num = 0;
 
             while(temp > 0){
-                long digit = temp%10;
-                nextSum += digit*digit;
+                int digit = temp%10;
+                num += digit*digit;
                 temp /= 10;
             }
-            num = nextSum;
 
         }
 
