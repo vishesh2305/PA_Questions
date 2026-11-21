@@ -2,9 +2,9 @@
 // https://leetcode.com/problems/palindrome-linked-list/
 // Difficulty: Easy
 // Language:   Java
-// Submitted:  2026-07-14 03:23:58
+// Submitted:  2026-11-22 01:29:10
 // Runtime:    3 ms (beats 99.85%)
-// Memory:     94.5 MB (beats 39.20%)
+// Memory:     93.8 MB (beats 81.48%)
 // Topics:     Linked List, Two Pointers, Stack, Recursion
 
 /**
@@ -19,40 +19,37 @@
  */
 class Solution {
     public boolean isPalindrome(ListNode head) {
-
-        if(head == null) return true;
-
         ListNode slow = head;
         ListNode fast = head;
 
-
-        while(fast !=null && fast.next != null){
-            slow=slow.next;
-            fast=fast.next.next;
+        while(fast != null && fast.next != null){
+            slow = slow.next;
+            fast = fast.next.next;
         }
 
         fast = head;
 
         ListNode curr = slow;
-        ListNode next = null;
         ListNode prev = null;
+        ListNode next = null;
 
-        while(curr !=null){
+        while(curr != null){
             next = curr.next;
             curr.next = prev;
             prev = curr;
             curr = next;
-        };
-
+        }
         slow = prev;
 
         while(slow != null){
-            if(fast.val != slow.val) return false;
+            if(slow.val != fast.val){
+                return false;
+            }
             slow = slow.next;
             fast = fast.next;
         }
 
         return true;
-        
+
     }
 }
