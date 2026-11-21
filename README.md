@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-> Auto-synced from LeetCode by the LeetHub Sync browser extension. Last updated 2026-11-22 01:29:19.
+> Auto-synced from LeetCode by the LeetHub Sync browser extension. Last updated 2026-11-22 01:32:12.
 
 **Solved:** 224 · 🟢 Easy 105 · 🟡 Medium 109 · 🔴 Hard 10
 
@@ -130,7 +130,7 @@
 | 229 | [Majority Element II](229-majority-element-ii) | 🟡 Medium | Java | 4 | 2026-11-20 |
 | 231 | [Power of Two](231-power-of-two) | 🟢 Easy | Java | 4 | 2026-11-20 |
 | 232 | [Implement Queue using Stacks](232-implement-queue-using-stacks) | 🟢 Easy | Java | 1 | 2026-11-06 |
-| 234 | [Palindrome Linked List](234-palindrome-linked-list) | 🟢 Easy | Java | 5 | 2026-11-22 |
+| 234 | [Palindrome Linked List](234-palindrome-linked-list) | 🟢 Easy | Java | 6 | 2026-11-22 |
 | 235 | [Lowest Common Ancestor of a Binary Search Tree](235-lowest-common-ancestor-of-a-binary-search-tree) | 🟡 Medium | Java | 4 | 2026-11-20 |
 | 236 | [Lowest Common Ancestor of a Binary Tree](236-lowest-common-ancestor-of-a-binary-tree) | 🟡 Medium | Java | 3 | 2026-11-19 |
 | 237 | [Delete Node in a Linked List](237-delete-node-in-a-linked-list) | 🟡 Medium | Java | 4 | 2026-11-20 |
