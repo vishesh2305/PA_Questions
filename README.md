@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-> Auto-synced from LeetCode by the LeetHub Sync browser extension. Last updated 2026-11-21 01:40:24.
+> Auto-synced from LeetCode by the LeetHub Sync browser extension. Last updated 2026-11-22 00:15:58.
 
 **Solved:** 223 · 🟢 Easy 104 · 🟡 Medium 109 · 🔴 Hard 10
 
@@ -91,7 +91,7 @@
 | 136 | [Single Number](136-single-number) | 🟢 Easy | Java | 1 | 2026-11-20 |
 | 137 | [Single Number II](137-single-number-ii) | 🟡 Medium | Java | 1 | 2026-11-20 |
 | 138 | [Copy List with Random Pointer](138-copy-list-with-random-pointer) | 🟡 Medium | Java | 5 | 2026-11-20 |
-| 141 | [Linked List Cycle](141-linked-list-cycle) | 🟢 Easy | Java | 4 | 2026-11-20 |
+| 141 | [Linked List Cycle](141-linked-list-cycle) | 🟢 Easy | Java | 5 | 2026-11-22 |
 | 142 | [Linked List Cycle II](142-linked-list-cycle-ii) | 🟡 Medium | Java | 4 | 2026-11-20 |
 | 143 | [Reorder List](143-reorder-list) | 🟡 Medium | Java | 4 | 2026-11-20 |
 | 144 | [Binary Tree Preorder Traversal](144-binary-tree-preorder-traversal) | 🟢 Easy | Java | 5 | 2026-11-20 |
