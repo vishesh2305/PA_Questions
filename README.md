@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-> Auto-synced from LeetCode by the LeetHub Sync browser extension. Last updated 2026-11-22 17:04:36.
+> Auto-synced from LeetCode by the LeetHub Sync browser extension. Last updated 2026-11-22 17:56:55.
 
 **Solved:** 225 · 🟢 Easy 105 · 🟡 Medium 110 · 🔴 Hard 10
 
@@ -30,7 +30,7 @@
 | 27 | [Remove Element](27-remove-element) | 🟢 Easy | C++ | 4 | 2026-11-20 |
 | 28 | [Find the Index of the First Occurrence in a String](28-find-the-index-of-the-first-occurrence-in-a-string) | 🟢 Easy | Java | 1 | 2026-09-28 |
 | 31 | [Next Permutation](31-next-permutation) | 🟡 Medium | Java | 4 | 2026-11-20 |
-| 33 | [Search in Rotated Sorted Array](33-search-in-rotated-sorted-array) | 🟡 Medium | Java | 4 | 2026-11-20 |
+| 33 | [Search in Rotated Sorted Array](33-search-in-rotated-sorted-array) | 🟡 Medium | Java | 5 | 2026-11-22 |
 | 34 | [Find First and Last Position of Element in Sorted Array](34-find-first-and-last-position-of-element-in-sorted-array) | 🟡 Medium | C++ | 4 | 2026-11-20 |
 | 35 | [Search Insert Position](35-search-insert-position) | 🟢 Easy | Java | 4 | 2026-11-20 |
 | 39 | [Combination Sum](39-combination-sum) | 🟡 Medium | Java | 5 | 2026-11-20 |
