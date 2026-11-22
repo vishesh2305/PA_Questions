@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-> Auto-synced from LeetCode by the LeetHub Sync browser extension. Last updated 2026-11-22 20:39:00.
+> Auto-synced from LeetCode by the LeetHub Sync browser extension. Last updated 2026-11-22 20:40:47.
 
 **Solved:** 226 · 🟢 Easy 105 · 🟡 Medium 111 · 🔴 Hard 10
 
@@ -88,7 +88,7 @@
 | 128 | [Longest Consecutive Sequence](128-longest-consecutive-sequence) | 🟡 Medium | Java | 7 | 2026-11-20 |
 | 130 | [Surrounded Regions](130-surrounded-regions) | 🟡 Medium | Java | 2 | 2026-11-14 |
 | 131 | [Palindrome Partitioning](131-palindrome-partitioning) | 🟡 Medium | Java | 5 | 2026-11-20 |
-| 134 | [Gas Station](134-gas-station) | 🟡 Medium | Java | 1 | 2026-11-22 |
+| 134 | [Gas Station](134-gas-station) | 🟡 Medium | Java | 2 | 2026-11-22 |
 | 136 | [Single Number](136-single-number) | 🟢 Easy | Java | 1 | 2026-11-20 |
 | 137 | [Single Number II](137-single-number-ii) | 🟡 Medium | Java | 1 | 2026-11-20 |
 | 138 | [Copy List with Random Pointer](138-copy-list-with-random-pointer) | 🟡 Medium | Java | 5 | 2026-11-20 |
