@@ -1,13 +1,13 @@
 # LeetCode Solutions
 
-> Auto-synced from LeetCode by the LeetHub Sync browser extension. Last updated 2026-11-22 13:40:54.
+> Auto-synced from LeetCode by the LeetHub Sync browser extension. Last updated 2026-11-22 13:56:30.
 
 **Solved:** 224 · 🟢 Easy 105 · 🟡 Medium 109 · 🔴 Hard 10
 
 | # | Problem | Difficulty | Language(s) | Submissions | Last solved |
 | --- | --- | --- | --- | --- | --- |
 | 1 | [Two Sum](1-two-sum) | 🟢 Easy | Java | 6 | 2026-11-20 |
-| 2 | [Add Two Numbers](2-add-two-numbers) | 🟡 Medium | Java | 4 | 2026-11-20 |
+| 2 | [Add Two Numbers](2-add-two-numbers) | 🟡 Medium | Java | 5 | 2026-11-22 |
 | 3 | [Longest Substring Without Repeating Characters](3-longest-substring-without-repeating-characters) | 🟡 Medium | Java | 5 | 2026-11-21 |
 | 5 | [Longest Palindromic Substring](5-longest-palindromic-substring) | 🟡 Medium | C++ | 4 | 2026-11-20 |
 | 7 | [Reverse Integer](7-reverse-integer) | 🟡 Medium | Java | 4 | 2026-11-20 |
