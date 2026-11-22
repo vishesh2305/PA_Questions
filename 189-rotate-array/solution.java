@@ -2,30 +2,26 @@
 // https://leetcode.com/problems/rotate-array/
 // Difficulty: Medium
 // Language:   Java
-// Submitted:  2026-07-15 20:58:27
-// Runtime:    0 ms (beats 100.00%)
-// Memory:     61 MB (beats 99.98%)
+// Submitted:  2026-11-22 19:32:43
+// Runtime:    5 ms (beats 72.57%)
+// Memory:     268.3 MB (beats 71.78%)
 // Topics:     Array, Math, Two Pointers
 
 class Solution {
     public void rotate(int[] nums, int k) {
-
         int n = nums.length;
 
-        k=k%n;
-
-        reverseArray(nums, 0, n-1);
-        reverseArray(nums, 0, k-1);
-        reverseArray(nums, k, n-1);
-        
+        k = k%n;
+        reverse(nums,0, nums.length-1);
+        reverse(nums,0, k-1);
+        reverse(nums,k, nums.length - 1);
     }
 
-    public void reverseArray(int[] arr, int start, int end){
-        while(start <= end){
-            int temp = arr[start];
-            arr[start++] = arr[end];
-            arr[end--] = temp;
-
+    private void reverse(int[] nums,int left, int right){
+        while(left < right){
+            int temp = nums[left];
+            nums[left++] = nums[right];
+            nums[right--] = temp;
         }
     }
 }
