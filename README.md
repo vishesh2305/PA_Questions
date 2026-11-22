@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-> Auto-synced from LeetCode by the LeetHub Sync browser extension. Last updated 2026-11-22 19:04:49.
+> Auto-synced from LeetCode by the LeetHub Sync browser extension. Last updated 2026-11-22 19:32:53.
 
 **Solved:** 225 · 🟢 Easy 105 · 🟡 Medium 110 · 🔴 Hard 10
 
@@ -110,7 +110,7 @@
 | 182 | [Duplicate Emails](182-duplicate-emails) | 🟢 Easy | MySQL | 4 | 2026-11-20 |
 | 183 | [Customers Who Never Order](183-customers-who-never-order) | 🟢 Easy | MySQL | 4 | 2026-11-20 |
 | 184 | [Department Highest Salary](184-department-highest-salary) | 🟡 Medium | MySQL | 4 | 2026-11-20 |
-| 189 | [Rotate Array](189-rotate-array) | 🟡 Medium | Java | 4 | 2026-11-20 |
+| 189 | [Rotate Array](189-rotate-array) | 🟡 Medium | Java | 5 | 2026-11-22 |
 | 196 | [Delete Duplicate Emails](196-delete-duplicate-emails) | 🟢 Easy | MySQL | 4 | 2026-11-20 |
 | 197 | [Rising Temperature](197-rising-temperature) | 🟢 Easy | MySQL | 4 | 2026-11-20 |
 | 198 | [House Robber](198-house-robber) | 🟡 Medium | C++ | 4 | 2026-11-20 |
