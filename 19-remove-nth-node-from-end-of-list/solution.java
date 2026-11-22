@@ -2,9 +2,9 @@
 // https://leetcode.com/problems/remove-nth-node-from-end-of-list/
 // Difficulty: Medium
 // Language:   Java
-// Submitted:  2026-11-22 12:40:06
+// Submitted:  2026-11-22 13:40:45
 // Runtime:    0 ms (beats 100.00%)
-// Memory:     42.7 MB (beats 96.40%)
+// Memory:     42.9 MB (beats 85.97%)
 // Topics:     Linked List, Two Pointers
 
 /**
@@ -20,41 +20,27 @@
 class Solution {
     public ListNode removeNthFromEnd(ListNode head, int n) {
 
-        if(head==null) return head;
+        if(head==null || n<=0) return head;
 
-        ListNode temp = head;
-        int nodes = 1;
+        ListNode dummy = new ListNode(0, head);
 
-        while(temp.next != null){
-            nodes++;
-            temp = temp.next;
+        ListNode slow = dummy;
+        ListNode fast = dummy;
+
+        for(int i=0; i<=n; i++){
+            if(fast==null) return head;
+
+            fast = fast.next;
         }
 
-        if(nodes == 1 && n == 1) return null;
-
-        if(nodes < n) return head;
-
-        int nth = nodes - n;
-
-        if(nth == 0){
-            head = head.next;
-            return head;
+        while(fast!=null){
+            fast = fast.next;
+            slow=slow.next;
         }
 
-        temp = head;
+        slow.next = slow.next.next;
 
-        for(int i=0; i<nth-1; i++){
-            temp = temp.next;
-        }
-
-        if(temp.next != null && temp.next.next != null){
-            ListNode nextnode = temp.next.next;
-            temp.next = nextnode;
-        }else{
-            temp.next = null;
-        }
-
-        return head;
+        return dummy.next;
         
     }
 }
