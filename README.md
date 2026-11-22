@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-> Auto-synced from LeetCode by the LeetHub Sync browser extension. Last updated 2026-11-22 14:06:10.
+> Auto-synced from LeetCode by the LeetHub Sync browser extension. Last updated 2026-11-22 14:45:12.
 
 **Solved:** 224 · 🟢 Easy 105 · 🟡 Medium 109 · 🔴 Hard 10
 
@@ -20,7 +20,7 @@
 | 17 | [Letter Combinations of a Phone Number](17-letter-combinations-of-a-phone-number) | 🟡 Medium | Java | 5 | 2026-11-20 |
 | 18 | [4Sum](18-4sum) | 🟡 Medium | Java | 4 | 2026-11-20 |
 | 19 | [Remove Nth Node From End of List](19-remove-nth-node-from-end-of-list) | 🟡 Medium | Java | 6 | 2026-11-22 |
-| 20 | [Valid Parentheses](20-valid-parentheses) | 🟢 Easy | Java | 4 | 2026-11-20 |
+| 20 | [Valid Parentheses](20-valid-parentheses) | 🟢 Easy | Java | 5 | 2026-11-22 |
 | 21 | [Merge Two Sorted Lists](21-merge-two-sorted-lists) | 🟢 Easy | Java | 6 | 2026-11-21 |
 | 22 | [Generate Parentheses](22-generate-parentheses) | 🟡 Medium | Java | 5 | 2026-11-20 |
 | 23 | [Merge k Sorted Lists](23-merge-k-sorted-lists) | 🔴 Hard | Java | 1 | 2026-10-14 |
