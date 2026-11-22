@@ -1,8 +1,8 @@
 # LeetCode Solutions
 
-> Auto-synced from LeetCode by the LeetHub Sync browser extension. Last updated 2026-11-22 14:45:12.
+> Auto-synced from LeetCode by the LeetHub Sync browser extension. Last updated 2026-11-22 17:04:36.
 
-**Solved:** 224 · 🟢 Easy 105 · 🟡 Medium 109 · 🔴 Hard 10
+**Solved:** 225 · 🟢 Easy 105 · 🟡 Medium 110 · 🔴 Hard 10
 
 | # | Problem | Difficulty | Language(s) | Submissions | Last solved |
 | --- | --- | --- | --- | --- | --- |
@@ -99,6 +99,7 @@
 | 150 | [Evaluate Reverse Polish Notation](150-evaluate-reverse-polish-notation) | 🟡 Medium | C++, Java | 6 | 2026-11-20 |
 | 151 | [Reverse Words in a String](151-reverse-words-in-a-string) | 🟡 Medium | Java | 4 | 2026-11-20 |
 | 153 | [Find Minimum in Rotated Sorted Array](153-find-minimum-in-rotated-sorted-array) | 🟡 Medium | Python | 4 | 2026-11-20 |
+| 155 | [Min Stack](155-min-stack) | 🟡 Medium | Java | 1 | 2026-11-22 |
 | 160 | [Intersection of Two Linked Lists](160-intersection-of-two-linked-lists) | 🟢 Easy | Java | 4 | 2026-11-20 |
 | 162 | [Find Peak Element](162-find-peak-element) | 🟡 Medium | Java | 4 | 2026-11-20 |
 | 167 | [Two Sum II - Input Array Is Sorted](167-two-sum-ii-input-array-is-sorted) | 🟡 Medium | Java | 4 | 2026-11-20 |
