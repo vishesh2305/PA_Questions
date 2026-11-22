@@ -2,39 +2,43 @@
 // https://leetcode.com/problems/koko-eating-bananas/
 // Difficulty: Medium
 // Language:   Java
-// Submitted:  2026-11-20 01:41:54
-// Runtime:    8 ms (beats 75.46%)
-// Memory:     47.9 MB (beats 31.70%)
+// Submitted:  2026-11-22 18:38:18
+// Runtime:    8 ms (beats 75.85%)
+// Memory:     47.1 MB (beats 89.97%)
 // Topics:     Array, Binary Search
 
 class Solution {
     public int minEatingSpeed(int[] piles, int h) {
-        int left = 1;
-        int right = Integer.MIN_VALUE;
+        int maxspeed = Integer.MIN_VALUE;
 
         for(int i : piles){
-            if(i > right){
-                right = i;
-            }
+            maxspeed = Math.max(maxspeed, i);
         }
 
-        int ans = right;
+        int left = 1;
+        int right = maxspeed;
+
+        int k = 0;
 
         while(left <= right){
-            int mid = left + (right - left)/2;
-            long total_hours = 0;
-            for(int pile : piles){
-                total_hours += (pile + mid -1)/mid;
+            int mid = left + (right-left)/2;
+
+            long th = 0;
+
+            for(int i : piles){
+                th += (i + mid - 1)/mid;
             }
 
-            if(total_hours <= h){
-                ans = mid;
+            if(th <= h){
+                k = mid;
                 right = mid-1;
             }else{
-                left = mid+1;
+                left=mid+1;
             }
+
         }
 
-        return ans;
+        return k;
+
     }
 }
