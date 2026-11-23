@@ -2,9 +2,9 @@
 // https://leetcode.com/problems/search-in-rotated-sorted-array/
 // Difficulty: Medium
 // Language:   Java
-// Submitted:  2026-11-22 18:05:58
+// Submitted:  2026-11-23 12:40:53
 // Runtime:    0 ms (beats 100.00%)
-// Memory:     43.1 MB (beats 94.60%)
+// Memory:     43 MB (beats 94.36%)
 // Topics:     Array, Binary Search
 
 class Solution {
@@ -17,7 +17,7 @@ class Solution {
 
             if(nums[mid] == target) return mid;
 
-            if(nums[left] <=nums[mid]){
+            if(nums[left] <= nums[mid]){
                 if(nums[left] <= target && nums[mid] > target){
                     right = mid-1;
                 }else{
