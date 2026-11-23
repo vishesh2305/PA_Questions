@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-> Auto-synced from LeetCode by the LeetHub Sync browser extension. Last updated 2026-11-23 09:06:19.
+> Auto-synced from LeetCode by the LeetHub Sync browser extension. Last updated 2026-11-23 09:15:15.
 
 **Solved:** 226 · 🟢 Easy 105 · 🟡 Medium 111 · 🔴 Hard 10
 
@@ -140,7 +140,7 @@
 | 239 | [Sliding Window Maximum](239-sliding-window-maximum) | 🔴 Hard | Java | 6 | 2026-11-20 |
 | 242 | [Valid Anagram](242-valid-anagram) | 🟢 Easy | Java | 5 | 2026-11-20 |
 | 278 | [First Bad Version](278-first-bad-version) | 🟢 Easy | Java | 4 | 2026-11-20 |
-| 283 | [Move Zeroes](283-move-zeroes) | 🟢 Easy | Java | 4 | 2026-11-20 |
+| 283 | [Move Zeroes](283-move-zeroes) | 🟢 Easy | Java | 5 | 2026-11-23 |
 | 287 | [Find the Duplicate Number](287-find-the-duplicate-number) | 🟡 Medium | Java | 4 | 2026-11-20 |
 | 326 | [Power of Three](326-power-of-three) | 🟢 Easy | Java | 4 | 2026-11-20 |
 | 328 | [Odd Even Linked List](328-odd-even-linked-list) | 🟡 Medium | C++ | 4 | 2026-11-20 |
