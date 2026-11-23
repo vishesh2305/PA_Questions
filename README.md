@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-> Auto-synced from LeetCode by the LeetHub Sync browser extension. Last updated 2026-11-22 20:40:47.
+> Auto-synced from LeetCode by the LeetHub Sync browser extension. Last updated 2026-11-23 09:06:19.
 
 **Solved:** 226 · 🟢 Easy 105 · 🟡 Medium 111 · 🔴 Hard 10
 
@@ -125,7 +125,7 @@
 | 209 | [Minimum Size Subarray Sum](209-minimum-size-subarray-sum) | 🟡 Medium | Java | 4 | 2026-11-20 |
 | 215 | [Kth Largest Element in an Array](215-kth-largest-element-in-an-array) | 🟡 Medium | Java | 3 | 2026-11-15 |
 | 216 | [Combination Sum III](216-combination-sum-iii) | 🟡 Medium | Java | 5 | 2026-11-20 |
-| 217 | [Contains Duplicate](217-contains-duplicate) | 🟢 Easy | Java | 4 | 2026-11-20 |
+| 217 | [Contains Duplicate](217-contains-duplicate) | 🟢 Easy | Java | 5 | 2026-11-23 |
 | 219 | [Contains Duplicate II](219-contains-duplicate-ii) | 🟢 Easy | C++ | 4 | 2026-11-20 |
 | 222 | [Count Complete Tree Nodes](222-count-complete-tree-nodes) | 🟡 Medium | Java | 2 | 2026-11-19 |
 | 226 | [Invert Binary Tree](226-invert-binary-tree) | 🟢 Easy | C++ | 4 | 2026-11-20 |
