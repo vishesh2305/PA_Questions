@@ -2,29 +2,25 @@
 // https://leetcode.com/problems/move-zeroes/
 // Difficulty: Easy
 // Language:   Java
-// Submitted:  2026-04-09 01:40:30
-// Runtime:    1 ms (beats 99.91%)
-// Memory:     47.9 MB (beats 11.13%)
+// Submitted:  2026-11-23 09:15:07
+// Runtime:    2 ms (beats 94.88%)
+// Memory:     47.5 MB (beats 55.86%)
 // Topics:     Array, Two Pointers
 
 class Solution {
     public void moveZeroes(int[] nums) {
+        if(nums.length == 0) return;
 
-        int n= nums.length;
+        int index = 0;
 
-        int i=0;
-
-        for(int num : nums){
-            if(num != 0){
-                nums[i] = num;
-                i++;
+        for(int i : nums){
+            if(i != 0){
+                nums[index++] = i;
             }
         }
 
-        while(i < n){
-            nums[i] = 0;
-            i++;
+        while(index < nums.length){
+            nums[index++] = 0;
         }
-        
     }
 }
