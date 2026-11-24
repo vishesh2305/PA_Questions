@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-> Auto-synced from LeetCode by the LeetHub Sync browser extension. Last updated 2026-11-23 12:41:02.
+> Auto-synced from LeetCode by the LeetHub Sync browser extension. Last updated 2026-11-24 23:35:43.
 
 **Solved:** 226 · 🟢 Easy 105 · 🟡 Medium 111 · 🔴 Hard 10
 
@@ -15,7 +15,7 @@
 | 11 | [Container With Most Water](11-container-with-most-water) | 🟡 Medium | Java | 5 | 2026-11-21 |
 | 13 | [Roman to Integer](13-roman-to-integer) | 🟢 Easy | Java | 1 | 2026-11-20 |
 | 14 | [Longest Common Prefix](14-longest-common-prefix) | 🟢 Easy | Java | 4 | 2026-11-20 |
-| 15 | [3Sum](15-3sum) | 🟡 Medium | Java | 6 | 2026-11-21 |
+| 15 | [3Sum](15-3sum) | 🟡 Medium | Java | 7 | 2026-11-24 |
 | 16 | [3Sum Closest](16-3sum-closest) | 🟡 Medium | Java | 2 | 2026-11-17 |
 | 17 | [Letter Combinations of a Phone Number](17-letter-combinations-of-a-phone-number) | 🟡 Medium | Java | 5 | 2026-11-20 |
 | 18 | [4Sum](18-4sum) | 🟡 Medium | Java | 4 | 2026-11-20 |
