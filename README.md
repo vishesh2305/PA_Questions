@@ -1,8 +1,8 @@
 # LeetCode Solutions
 
-> Auto-synced from LeetCode by the LeetHub Sync browser extension. Last updated 2026-11-26 01:09:20.
+> Auto-synced from LeetCode by the LeetHub Sync browser extension. Last updated 2026-11-26 01:13:43.
 
-**Solved:** 227 · 🟢 Easy 105 · 🟡 Medium 112 · 🔴 Hard 10
+**Solved:** 228 · 🟢 Easy 105 · 🟡 Medium 113 · 🔴 Hard 10
 
 | # | Problem | Difficulty | Language(s) | Submissions | Last solved |
 | --- | --- | --- | --- | --- | --- |
@@ -166,6 +166,7 @@
 | 509 | [Fibonacci Number](509-fibonacci-number) | 🟢 Easy | Java | 7 | 2026-11-20 |
 | 511 | [Game Play Analysis I](511-game-play-analysis-i) | 🟢 Easy | MySQL | 4 | 2026-11-20 |
 | 513 | [Find Bottom Left Tree Value](513-find-bottom-left-tree-value) | 🟡 Medium | C++ | 4 | 2026-11-20 |
+| 516 | [Longest Palindromic Subsequence](516-longest-palindromic-subsequence) | 🟡 Medium | Java | 1 | 2026-11-26 |
 | 541 | [Reverse String II](541-reverse-string-ii) | 🟢 Easy | Java | 4 | 2026-11-20 |
 | 543 | [Diameter of Binary Tree](543-diameter-of-binary-tree) | 🟢 Easy | Java | 4 | 2026-11-20 |
 | 556 | [Next Greater Element III](556-next-greater-element-iii) | 🟡 Medium | Java | 4 | 2026-11-20 |
