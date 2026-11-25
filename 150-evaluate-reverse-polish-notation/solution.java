@@ -2,42 +2,40 @@
 // https://leetcode.com/problems/evaluate-reverse-polish-notation/
 // Difficulty: Medium
 // Language:   Java
-// Submitted:  2026-09-22 19:41:05
-// Runtime:    7 ms (beats 49.26%)
-// Memory:     45.3 MB (beats 30.12%)
+// Submitted:  2026-11-25 15:13:15
+// Runtime:    8 ms (beats 14.51%)
+// Memory:     45 MB (beats 51.27%)
 // Topics:     Array, Math, Stack
 
 class Solution {
     public int evalRPN(String[] tokens) {
-        
         Stack<Integer> st = new Stack<>();
 
+        for(String s : tokens){
+            if(s.equals("+") || s.equals("-") || s.equals("*") || s.equals("/")){
+                int s1 = st.pop();
+                int s2 = st.pop();
+                st.push(operate(s2, s1, s));
 
-        for(String ch: tokens){
-            if(ch.equals("+") || ch.equals("-") || ch.equals("*") || ch.equals("/")){
-                int n1 = (int)st.pop();
-                int n2 = (int)st.pop();
-                st.push(op(ch, n2, n1));
             }else{
-                st.push(Integer.parseInt(ch));
+                st.push(Integer.parseInt(s));
             }
         }
 
         return st.pop();
-
     }
 
-    private int op(String ch, int n1,int n2){
-        if(ch.equals("+")){
-            return n1+n2;
-        }else if(ch.equals("-")){
-            return n1-n2;
-        }else if(ch.equals("*")){
-            return n1*n2;
-        }else if(ch.equals("/")){
-            return n1/n2;
-        }else{
-            return 0;
+    private int operate(int s1, int s2, String op){
+        if(op.equals("*")){
+            return s1*s2;
+        }else if(op.equals("/")){
+            return s1/s2;
+        }else if(op.equals("+")){
+            return s1+s2;
+        }else if(op.equals("-")){
+            return s1 - s2;
         }
+
+        return -1;
     }
 }
