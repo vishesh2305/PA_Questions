@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-> Auto-synced from LeetCode by the LeetHub Sync browser extension. Last updated 2026-11-25 15:13:25.
+> Auto-synced from LeetCode by the LeetHub Sync browser extension. Last updated 2026-11-25 23:17:38.
 
 **Solved:** 226 · 🟢 Easy 105 · 🟡 Medium 111 · 🔴 Hard 10
 
@@ -8,7 +8,7 @@
 | --- | --- | --- | --- | --- | --- |
 | 1 | [Two Sum](1-two-sum) | 🟢 Easy | Java | 7 | 2026-11-23 |
 | 2 | [Add Two Numbers](2-add-two-numbers) | 🟡 Medium | Java | 6 | 2026-11-22 |
-| 3 | [Longest Substring Without Repeating Characters](3-longest-substring-without-repeating-characters) | 🟡 Medium | Java | 5 | 2026-11-21 |
+| 3 | [Longest Substring Without Repeating Characters](3-longest-substring-without-repeating-characters) | 🟡 Medium | Java | 6 | 2026-11-25 |
 | 5 | [Longest Palindromic Substring](5-longest-palindromic-substring) | 🟡 Medium | C++ | 4 | 2026-11-20 |
 | 7 | [Reverse Integer](7-reverse-integer) | 🟡 Medium | Java | 4 | 2026-11-20 |
 | 9 | [Palindrome Number](9-palindrome-number) | 🟢 Easy | C++ | 4 | 2026-11-20 |
