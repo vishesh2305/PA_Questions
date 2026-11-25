@@ -3,7 +3,7 @@
 **Difficulty:** Medium  
 **Link:** [https://leetcode.com/problems/longest-substring-without-repeating-characters/](https://leetcode.com/problems/longest-substring-without-repeating-characters/)  
 **Topics:** `Hash Table`, `String`, `Sliding Window`  
-**Acceptance:** 40.1%
+**Acceptance:** 40.2%
 
 ---
 
