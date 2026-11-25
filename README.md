@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-> Auto-synced from LeetCode by the LeetHub Sync browser extension. Last updated 2026-11-24 23:35:43.
+> Auto-synced from LeetCode by the LeetHub Sync browser extension. Last updated 2026-11-25 15:13:25.
 
 **Solved:** 226 · 🟢 Easy 105 · 🟡 Medium 111 · 🔴 Hard 10
 
@@ -97,7 +97,7 @@
 | 143 | [Reorder List](143-reorder-list) | 🟡 Medium | Java | 4 | 2026-11-20 |
 | 144 | [Binary Tree Preorder Traversal](144-binary-tree-preorder-traversal) | 🟢 Easy | Java | 5 | 2026-11-20 |
 | 145 | [Binary Tree Postorder Traversal](145-binary-tree-postorder-traversal) | 🟢 Easy | Java | 4 | 2026-11-20 |
-| 150 | [Evaluate Reverse Polish Notation](150-evaluate-reverse-polish-notation) | 🟡 Medium | C++, Java | 6 | 2026-11-20 |
+| 150 | [Evaluate Reverse Polish Notation](150-evaluate-reverse-polish-notation) | 🟡 Medium | C++, Java | 7 | 2026-11-25 |
 | 151 | [Reverse Words in a String](151-reverse-words-in-a-string) | 🟡 Medium | Java | 4 | 2026-11-20 |
 | 153 | [Find Minimum in Rotated Sorted Array](153-find-minimum-in-rotated-sorted-array) | 🟡 Medium | Python | 4 | 2026-11-20 |
 | 155 | [Min Stack](155-min-stack) | 🟡 Medium | Java | 1 | 2026-11-22 |
