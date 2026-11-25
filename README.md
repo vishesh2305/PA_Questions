@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-> Auto-synced from LeetCode by the LeetHub Sync browser extension. Last updated 2026-11-26 00:50:55.
+> Auto-synced from LeetCode by the LeetHub Sync browser extension. Last updated 2026-11-26 00:53:14.
 
 **Solved:** 227 · 🟢 Easy 105 · 🟡 Medium 112 · 🔴 Hard 10
 
@@ -205,7 +205,7 @@
 | 1046 | [Last Stone Weight](1046-last-stone-weight) | 🟢 Easy | Java | 2 | 2026-11-15 |
 | 1068 | [Product Sales Analysis I](1068-product-sales-analysis-i) | 🟢 Easy | MySQL | 4 | 2026-11-20 |
 | 1137 | [N-th Tribonacci Number](1137-n-th-tribonacci-number) | 🟢 Easy | Java | 4 | 2026-11-20 |
-| 1143 | [Longest Common Subsequence](1143-longest-common-subsequence) | 🟡 Medium | Java | 2 | 2026-11-26 |
+| 1143 | [Longest Common Subsequence](1143-longest-common-subsequence) | 🟡 Medium | Java | 4 | 2026-11-26 |
 | 1148 | [Article Views I](1148-article-views-i) | 🟢 Easy | MySQL | 4 | 2026-11-20 |
 | 1249 | [Minimum Remove to Make Valid Parentheses](1249-minimum-remove-to-make-valid-parentheses) | 🟡 Medium | C++ | 4 | 2026-11-20 |
 | 1378 | [Replace Employee ID With The Unique Identifier](1378-replace-employee-id-with-the-unique-identifier) | 🟢 Easy | MySQL | 4 | 2026-11-20 |
