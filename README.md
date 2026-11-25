@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-> Auto-synced from LeetCode by the LeetHub Sync browser extension. Last updated 2026-11-26 01:56:10.
+> Auto-synced from LeetCode by the LeetHub Sync browser extension. Last updated 2026-11-26 02:15:25.
 
 **Solved:** 228 · 🟢 Easy 105 · 🟡 Medium 113 · 🔴 Hard 10
 
@@ -9,7 +9,7 @@
 | 1 | [Two Sum](1-two-sum) | 🟢 Easy | Java | 7 | 2026-11-23 |
 | 2 | [Add Two Numbers](2-add-two-numbers) | 🟡 Medium | Java | 6 | 2026-11-22 |
 | 3 | [Longest Substring Without Repeating Characters](3-longest-substring-without-repeating-characters) | 🟡 Medium | Java | 6 | 2026-11-25 |
-| 5 | [Longest Palindromic Substring](5-longest-palindromic-substring) | 🟡 Medium | C++, Java | 6 | 2026-11-26 |
+| 5 | [Longest Palindromic Substring](5-longest-palindromic-substring) | 🟡 Medium | C++, Java | 7 | 2026-11-26 |
 | 7 | [Reverse Integer](7-reverse-integer) | 🟡 Medium | Java | 4 | 2026-11-20 |
 | 9 | [Palindrome Number](9-palindrome-number) | 🟢 Easy | C++ | 4 | 2026-11-20 |
 | 11 | [Container With Most Water](11-container-with-most-water) | 🟡 Medium | Java | 5 | 2026-11-21 |
