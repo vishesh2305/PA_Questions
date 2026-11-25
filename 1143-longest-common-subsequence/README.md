@@ -3,7 +3,7 @@
 **Difficulty:** Medium  
 **Link:** [https://leetcode.com/problems/longest-common-subsequence/](https://leetcode.com/problems/longest-common-subsequence/)  
 **Topics:** `String`, `Dynamic Programming`, `Longest Common Subsequence`  
-**Acceptance:** 59.7%
+**Acceptance:** 59.8%
 
 ---
 
