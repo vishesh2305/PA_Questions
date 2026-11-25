@@ -2,30 +2,32 @@
 // https://leetcode.com/problems/longest-substring-without-repeating-characters/
 // Difficulty: Medium
 // Language:   Java
-// Submitted:  2026-11-21 01:21:17
-// Runtime:    80 ms (beats 14.16%)
-// Memory:     47.3 MB (beats 79.02%)
+// Submitted:  2026-11-25 23:17:28
+// Runtime:    79 ms (beats 14.77%)
+// Memory:     47.3 MB (beats 85.79%)
 // Topics:     Hash Table, String, Sliding Window
 
 class Solution {
     public int lengthOfLongestSubstring(String s) {
-        if(s.length() == 0) return 0;
         LinkedHashSet<Character> set = new LinkedHashSet<>();
 
-        int MaxLen = Integer.MIN_VALUE;
+        int MaxCount = 0;
 
-        for(char c : s.toCharArray()){
+        char[] ch = s.toCharArray();
 
-            if(set.contains(c)){
+        for(char c : ch){
+            if(!set.contains(c)){
+                set.add(c);
+            }else{
                 while(set.contains(c)){
                     set.removeFirst();
-                };
+                }
+                set.add(c);
             }
-            set.add(c);
-
-            MaxLen = Math.max(MaxLen, set.size());
+            MaxCount = Math.max(set.size(), MaxCount);
         }
 
-        return MaxLen;
+
+        return MaxCount;
     }
 }
