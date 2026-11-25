@@ -2,9 +2,9 @@
 // https://leetcode.com/problems/longest-common-subsequence/
 // Difficulty: Medium
 // Language:   Java
-// Submitted:  2026-11-26 00:50:44
-// Runtime:    2588 ms (beats 5.10%)
-// Memory:     56.8 MB (beats 5.04%)
+// Submitted:  2026-11-26 00:53:02
+// Runtime:    2512 ms (beats 5.10%)
+// Memory:     56.9 MB (beats 5.04%)
 // Topics:     String, Dynamic Programming, Longest Common Subsequence
 
 class Solution {
