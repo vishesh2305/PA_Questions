@@ -2,28 +2,24 @@
 // https://leetcode.com/problems/median-of-two-sorted-arrays/
 // Difficulty: Hard
 // Language:   Java
-// Submitted:  2026-11-26 23:54:19
+// Submitted:  2026-11-27 00:59:23
 // Runtime:    3 ms (beats 72.42%)
-// Memory:     48 MB (beats 97.48%)
+// Memory:     48.3 MB (beats 81.54%)
 // Topics:     Array, Binary Search, Divide and Conquer
 
 class Solution {
     public double findMedianSortedArrays(int[] nums1, int[] nums2) {
-        int n1 = nums1.length;
-        int n2 = nums2.length;
+        int m = nums1.length;
+        int n = nums2.length;
 
-
-        if(n1 > n2){
+        if(m > n){
             return findMedianSortedArrays(nums2, nums1);
         }
 
+        int left = (m+n+1)/2;
+
         int low = 0;
-        int high = n1;
-
-
-        int n = n1+n2;
-
-        int left = (n1+n2+1)/2;
+        int high = m;
 
         while(low <= high){
             int mid1 = low + (high - low)/2;
@@ -34,10 +30,11 @@ class Solution {
             int r1 = Integer.MAX_VALUE;
             int r2 = Integer.MAX_VALUE;
 
-            if(mid1 < n1){
+            if(mid1 < m){
                 r1 = nums1[mid1];
             }
-            if(mid2 < n2){
+
+            if(mid2 < n){
                 r2 = nums2[mid2];
             }
 
@@ -49,8 +46,9 @@ class Solution {
                 l2 = nums2[mid2-1];
             }
 
+
             if(l1 <= r2 && l2 <= r1){
-                if(n % 2 == 1){
+                if((n+m) % 2 == 1){
                     return Math.max(l1, l2);
                 }else{
                     return (double)((Math.max(l1, l2) + Math.min(r1, r2))/2.0);
