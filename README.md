@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-> Auto-synced from LeetCode by the LeetHub Sync browser extension. Last updated 2026-11-27 00:59:31.
+> Auto-synced from LeetCode by the LeetHub Sync browser extension. Last updated 2026-11-27 18:24:22.
 
 **Solved:** 229 · 🟢 Easy 105 · 🟡 Medium 113 · 🔴 Hard 11
 
@@ -13,7 +13,7 @@
 | 5 | [Longest Palindromic Substring](5-longest-palindromic-substring) | 🟡 Medium | C++, Java | 7 | 2026-11-26 |
 | 7 | [Reverse Integer](7-reverse-integer) | 🟡 Medium | Java | 4 | 2026-11-20 |
 | 9 | [Palindrome Number](9-palindrome-number) | 🟢 Easy | C++ | 4 | 2026-11-20 |
-| 11 | [Container With Most Water](11-container-with-most-water) | 🟡 Medium | Java | 5 | 2026-11-21 |
+| 11 | [Container With Most Water](11-container-with-most-water) | 🟡 Medium | Java | 6 | 2026-11-27 |
 | 13 | [Roman to Integer](13-roman-to-integer) | 🟢 Easy | Java | 1 | 2026-11-20 |
 | 14 | [Longest Common Prefix](14-longest-common-prefix) | 🟢 Easy | Java | 4 | 2026-11-20 |
 | 15 | [3Sum](15-3sum) | 🟡 Medium | Java | 7 | 2026-11-24 |
