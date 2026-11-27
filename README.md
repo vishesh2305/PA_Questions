@@ -1,8 +1,8 @@
 # LeetCode Solutions
 
-> Auto-synced from LeetCode by the LeetHub Sync browser extension. Last updated 2026-11-27 18:39:39.
+> Auto-synced from LeetCode by the LeetHub Sync browser extension. Last updated 2026-11-27 19:34:17.
 
-**Solved:** 229 · 🟢 Easy 105 · 🟡 Medium 113 · 🔴 Hard 11
+**Solved:** 230 · 🟢 Easy 106 · 🟡 Medium 113 · 🔴 Hard 11
 
 | # | Problem | Difficulty | Language(s) | Submissions | Last solved |
 | --- | --- | --- | --- | --- | --- |
@@ -228,6 +228,7 @@
 | 1967 | [Number of Strings That Appear as Substrings in Word](1967-number-of-strings-that-appear-as-substrings-in-word) | 🟢 Easy | Java | 4 | 2026-11-20 |
 | 1971 | [Find if Path Exists in Graph](1971-find-if-path-exists-in-graph) | 🟢 Easy | Java | 2 | 2026-11-15 |
 | 1985 | [Find the Kth Largest Integer in the Array](1985-find-the-kth-largest-integer-in-the-array) | 🟡 Medium | Java | 1 | 2026-11-15 |
+| 1995 | [Count Special Quadruplets](1995-count-special-quadruplets) | 🟢 Easy | Java | 1 | 2026-11-27 |
 | 2053 | [Kth Distinct String in an Array](2053-kth-distinct-string-in-an-array) | 🟢 Easy | C++ | 4 | 2026-11-20 |
 | 2073 | [Time Needed to Buy Tickets](2073-time-needed-to-buy-tickets) | 🟢 Easy | C++, Java | 5 | 2026-11-20 |
 | 2089 | [Find Target Indices After Sorting Array](2089-find-target-indices-after-sorting-array) | 🟢 Easy | Java | 4 | 2026-11-20 |
