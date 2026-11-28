@@ -2,21 +2,23 @@
 // https://leetcode.com/problems/maximum-subarray/
 // Difficulty: Medium
 // Language:   Java
-// Submitted:  2026-11-22 19:04:40
+// Submitted:  2026-11-28 12:51:38
 // Runtime:    1 ms (beats 100.00%)
-// Memory:     76.6 MB (beats 80.29%)
+// Memory:     76.8 MB (beats 53.19%)
 // Topics:     Array, Divide and Conquer, Dynamic Programming
 
 class Solution {
     public int maxSubArray(int[] nums) {
-        int maxSum = nums[0];
-        int currSum = nums[0];
+        int n = nums.length;
 
-        for(int i= 1; i<nums.length; i++){
-            currSum = Math.max(nums[i], currSum + nums[i]);
-            maxSum = Math.max(maxSum, currSum);
+        int curSum = nums[0];
+        int MaxSum = nums[0];
+
+        for(int i =1; i<n; i++){
+            curSum = Math.max(curSum+nums[i], nums[i]);
+            MaxSum = Math.max(MaxSum, curSum);
         }
 
-        return maxSum;
+        return MaxSum;
     }
 }
