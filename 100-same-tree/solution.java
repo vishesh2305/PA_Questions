@@ -2,9 +2,9 @@
 // https://leetcode.com/problems/same-tree/
 // Difficulty: Easy
 // Language:   Java
-// Submitted:  2026-07-23 03:31:26
+// Submitted:  2026-11-28 19:55:27
 // Runtime:    0 ms (beats 100.00%)
-// Memory:     42.8 MB (beats 37.18%)
+// Memory:     42.1 MB (beats 94.49%)
 // Topics:     Tree, Depth-First Search, Breadth-First Search, Binary Tree
 
 /**
@@ -24,10 +24,14 @@
  */
 class Solution {
     public boolean isSameTree(TreeNode p, TreeNode q) {
-        if(p==null && q==null) return true;
+        if(p == null && q ==null) return true;
 
-        if(p==null || q==null) return false;
+        if(p==null && q != null) return false;
 
-        return ((p.val == q.val) && isSameTree(p.left, q.left) && isSameTree(p.right, q.right));
+        if(p != null && q == null) return false;
+
+        if(p.val != q.val ) return false;
+
+        return isSameTree(p.left, q.left) && isSameTree(p.right, q.right);
     }
 }
