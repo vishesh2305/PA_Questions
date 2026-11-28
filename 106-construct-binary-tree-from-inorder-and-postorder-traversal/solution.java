@@ -2,9 +2,9 @@
 // https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/
 // Difficulty: Medium
 // Language:   Java
-// Submitted:  2026-11-13 11:43:04
-// Runtime:    3 ms (beats 31.45%)
-// Memory:     45 MB (beats 95.63%)
+// Submitted:  2026-11-28 16:26:35
+// Runtime:    3 ms (beats 32.56%)
+// Memory:     45 MB (beats 94.60%)
 // Topics:     Array, Hash Table, Divide and Conquer, Tree, Binary Tree
 
 /**
@@ -23,24 +23,25 @@
  * }
  */
 class Solution {
-    static int postIndex;
+    int postIndex;
     public TreeNode buildTree(int[] inorder, int[] postorder) {
         int N = postorder.length;
-
         postIndex = N-1;
 
-        return construct(inorder, postorder, 0, N-1);
+        return construct(inorder, postorder, 0, postIndex);
+
     }
 
-    private static TreeNode construct(int[] inorder, int[] postorder, int start, int end){
+    public TreeNode construct(int[] inorder, int[] postorder, int start, int end){
         if(start > end) return null;
 
-        int value = postorder[postIndex--];
+        int val = postorder[postIndex--];
 
-        TreeNode root = new TreeNode(value);
+        TreeNode root = new TreeNode(val);
 
         int index = start;
-        while(inorder[index] != value){
+
+        while(inorder[index] != val){
             index++;
         }
 
