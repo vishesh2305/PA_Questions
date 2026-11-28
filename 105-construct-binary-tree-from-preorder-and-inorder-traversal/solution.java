@@ -2,9 +2,9 @@
 // https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/
 // Difficulty: Medium
 // Language:   Java
-// Submitted:  2026-08-05 12:33:38
-// Runtime:    1 ms (beats 98.44%)
-// Memory:     46.2 MB (beats 60.67%)
+// Submitted:  2026-11-28 16:35:02
+// Runtime:    4 ms (beats 14.41%)
+// Memory:     45.1 MB (beats 91.12%)
 // Topics:     Array, Hash Table, Divide and Conquer, Tree, Binary Tree
 
 /**
@@ -23,30 +23,38 @@
  * }
  */
 class Solution {
+    int preIndex;
     public TreeNode buildTree(int[] preorder, int[] inorder) {
-        HashMap<Integer, Integer> map = new HashMap<>();
 
-        for(int i=0; i<inorder.length; i++){
-            map.put(inorder[i], i);
-        }
+        int N = preorder.length;
 
-        return build(preorder, 0, preorder.length -1, inorder, 0, inorder.length-1, map);
+        preIndex = 0;
+
+        return construct(preorder, inorder, 0, N-1);
+
     }
 
-    public TreeNode build(int[] preorder, int preStart, int preEnd, int[] inorder, int inStart, int inEnd, HashMap<Integer, Integer> map){
-        if(preStart > preEnd || inStart > inEnd) return null;
+    public TreeNode construct(int[] preorder, int[] inorder, int start, int end){
+        if(start > end) return null;
 
-        TreeNode root = new TreeNode(preorder[preStart]);
+        
+        int val = preorder[preIndex];
 
-        int inIndex = map.get(root.val);
+        if(preIndex < preorder.length){
+            preIndex++;
+        }
 
-        int numsLeft = inIndex - inStart;
+        TreeNode root = new TreeNode(val);
 
-        root.left = build(preorder, preStart+1, preStart+numsLeft, inorder, inStart, inIndex-1, map);
+        int index = 0;
 
-        root.right = build(preorder, preStart+numsLeft+1, preEnd, inorder, inIndex+1, inEnd, map);
+        while(inorder[index] != val){
+            index++;
+        }
+
+        root.left = construct(preorder, inorder, start, index-1);
+        root.right = construct(preorder, inorder, index+1, end);
 
         return root;
-
     }
 }
