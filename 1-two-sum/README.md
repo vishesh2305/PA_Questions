@@ -3,7 +3,7 @@
 **Difficulty:** Easy  
 **Link:** [https://leetcode.com/problems/two-sum/](https://leetcode.com/problems/two-sum/)  
 **Topics:** `Array`, `Hash Table`  
-**Acceptance:** 58.1%
+**Acceptance:** 58.2%
 
 ---
 
