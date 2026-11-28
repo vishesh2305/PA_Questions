@@ -1,12 +1,12 @@
 # LeetCode Solutions
 
-> Auto-synced from LeetCode by the LeetHub Sync browser extension. Last updated 2026-11-27 19:34:17.
+> Auto-synced from LeetCode by the LeetHub Sync browser extension. Last updated 2026-11-28 11:22:32.
 
 **Solved:** 230 · 🟢 Easy 106 · 🟡 Medium 113 · 🔴 Hard 11
 
 | # | Problem | Difficulty | Language(s) | Submissions | Last solved |
 | --- | --- | --- | --- | --- | --- |
-| 1 | [Two Sum](1-two-sum) | 🟢 Easy | Java | 7 | 2026-11-23 |
+| 1 | [Two Sum](1-two-sum) | 🟢 Easy | Java | 8 | 2026-11-28 |
 | 2 | [Add Two Numbers](2-add-two-numbers) | 🟡 Medium | Java | 6 | 2026-11-22 |
 | 3 | [Longest Substring Without Repeating Characters](3-longest-substring-without-repeating-characters) | 🟡 Medium | Java | 6 | 2026-11-25 |
 | 4 | [Median of Two Sorted Arrays](4-median-of-two-sorted-arrays) | 🔴 Hard | Java | 2 | 2026-11-27 |
