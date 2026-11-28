@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-> Auto-synced from LeetCode by the LeetHub Sync browser extension. Last updated 2026-11-28 11:22:32.
+> Auto-synced from LeetCode by the LeetHub Sync browser extension. Last updated 2026-11-28 11:32:30.
 
 **Solved:** 230 · 🟢 Easy 106 · 🟡 Medium 113 · 🔴 Hard 11
 
@@ -82,7 +82,7 @@
 | 114 | [Flatten Binary Tree to Linked List](114-flatten-binary-tree-to-linked-list) | 🟡 Medium | Java | 4 | 2026-11-20 |
 | 116 | [Populating Next Right Pointers in Each Node](116-populating-next-right-pointers-in-each-node) | 🟡 Medium | Java | 4 | 2026-11-20 |
 | 118 | [Pascal's Triangle](118-pascals-triangle) | 🟢 Easy | Java | 4 | 2026-11-20 |
-| 121 | [Best Time to Buy and Sell Stock](121-best-time-to-buy-and-sell-stock) | 🟢 Easy | Java | 5 | 2026-11-21 |
+| 121 | [Best Time to Buy and Sell Stock](121-best-time-to-buy-and-sell-stock) | 🟢 Easy | Java | 6 | 2026-11-28 |
 | 122 | [Best Time to Buy and Sell Stock II](122-best-time-to-buy-and-sell-stock-ii) | 🟡 Medium | Java | 4 | 2026-11-20 |
 | 124 | [Binary Tree Maximum Path Sum](124-binary-tree-maximum-path-sum) | 🔴 Hard | Java | 4 | 2026-11-20 |
 | 125 | [Valid Palindrome](125-valid-palindrome) | 🟢 Easy | Java | 5 | 2026-11-20 |
