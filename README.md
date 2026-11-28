@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-> Auto-synced from LeetCode by the LeetHub Sync browser extension. Last updated 2026-11-28 12:51:47.
+> Auto-synced from LeetCode by the LeetHub Sync browser extension. Last updated 2026-11-28 16:26:46.
 
 **Solved:** 230 · 🟢 Easy 106 · 🟡 Medium 113 · 🔴 Hard 11
 
@@ -74,7 +74,7 @@
 | 103 | [Binary Tree Zigzag Level Order Traversal](103-binary-tree-zigzag-level-order-traversal) | 🟡 Medium | Java | 6 | 2026-11-20 |
 | 104 | [Maximum Depth of Binary Tree](104-maximum-depth-of-binary-tree) | 🟢 Easy | Java | 4 | 2026-11-20 |
 | 105 | [Construct Binary Tree from Preorder and Inorder Traversal](105-construct-binary-tree-from-preorder-and-inorder-traversal) | 🟡 Medium | Java | 5 | 2026-11-20 |
-| 106 | [Construct Binary Tree from Inorder and Postorder Traversal](106-construct-binary-tree-from-inorder-and-postorder-traversal) | 🟡 Medium | Java | 5 | 2026-11-20 |
+| 106 | [Construct Binary Tree from Inorder and Postorder Traversal](106-construct-binary-tree-from-inorder-and-postorder-traversal) | 🟡 Medium | Java | 6 | 2026-11-28 |
 | 108 | [Convert Sorted Array to Binary Search Tree](108-convert-sorted-array-to-binary-search-tree) | 🟢 Easy | Java | 4 | 2026-11-20 |
 | 109 | [Convert Sorted List to Binary Search Tree](109-convert-sorted-list-to-binary-search-tree) | 🟡 Medium | C++ | 4 | 2026-11-20 |
 | 110 | [Balanced Binary Tree](110-balanced-binary-tree) | 🟢 Easy | Java | 4 | 2026-11-20 |
